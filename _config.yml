@@ -1,44 +1,65 @@
+# =========================
+# Site basics
+# =========================
 title: Figueroa Robotics Lab
 email:
 description: >-
   Research in human-robot collaboration, wearable ultrasound, and intelligent mobility.
-twitter_username: ""
-github_username: ""
-minimal_mistakes_skin: default
+url: "https://rolyplee.github.io"   # your site origin (no trailing slash)
+baseurl: "/examplelab.github.io"    # repo name WITH leading slash
+
+timezone: America/New_York
+permalink: pretty
 search: true
 
-markdown: kramdown
+# =========================
+# Theme
+# =========================
 remote_theme: mmistakes/minimal-mistakes
-permalink: pretty
-timezone: America/New_York
+minimal_mistakes_skin: default
 
+# Disable the theme's auto-added Atom/RSS feed badge
+atom_feed: null
+
+# =========================
+# Markdown & includes
+# =========================
+markdown: kramdown
+include:
+  - _pages
+
+# =========================
+# Collections
+# =========================
 collections:
   pages:
     output: true
   people:
     output: true
 
-include:
-  - _pages
-
+# =========================
+# Plugins (no jekyll-feed)
+# =========================
 plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
 
-# ✅ No blog pagination
+# If you ever add a blog, leave these commented to avoid pager buttons:
 # paginate: 5
 # paginate_path: /page:num/
 
-url: "https://rolyplee.github.io"
-baseurl: "/examplelab.github.io"
-
+# =========================
+# Navigation
+# =========================
 navigation:
   dropdowns:
     enabled: true
 
-# ===== Footer =====
+# =========================
+# Footer
+# =========================
 footer:
   links:
     - label: "GitHub"
@@ -48,16 +69,23 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@figueroa-robotics-lab"
 
+# =========================
+# Defaults
+# =========================
 defaults:
   - scope:
       path: ""
     values:
-      layout: single    # keep single layout
+      layout: single
       custom_css: "/assets/css/custom.css"
 
+# =========================
+# Archives (optional)
+# =========================
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
