@@ -205,10 +205,3 @@ permalink: /
 })();
 </script>
 
-/* 🔕 Hide RSS/Feed icon only on this page */
-.page__footer-follow .social-icons li:has(a[href$="feed.xml"]),
-.page__footer-follow .social-icons li:has(.fa-rss),
-.page__footer-follow .social-icons a[href$="feed.xml"],
-.page__footer-follow .social-icons .fa-rss{
-  display:none !important;
-}
