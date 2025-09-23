@@ -8,13 +8,13 @@ body,
 }
 
 .page__title {
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 1rem;
 }
 
 .page__content p {
-  font-size: 1.1rem;
-  line-height: 1.6;
+  font-size: 0.9rem;
+  line-height: 1.2;
 }
 
 /* ===== Center Footer Icons ===== */
