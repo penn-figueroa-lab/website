@@ -1,4 +1,3 @@
-
 /* === Center the title and homepage content === */
 body,
 .page,
@@ -31,6 +30,11 @@ body,
   margin: 0 0.75rem;
 }
 
-
-
-
+/* ===== Hide RSS/Feed icon completely ===== */
+.page__footer-follow .social-icons a[href$="feed.xml"],
+.page__footer-follow .social-icons a[href*="/feed"],
+.page__footer-follow .social-icons a[aria-label*="Feed"],
+.page__footer-follow .social-icons a[title*="Feed"],
+.page__footer-follow .social-icons .fa-rss {
+  display: none !important;
+}
