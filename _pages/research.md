@@ -14,6 +14,11 @@ permalink: /research/
  <br>  
   A summary of our contributions over the past three years at Penn can be found in Prof. Figueroa's <a href="https://nbfigueroa.github.io/data/nadia/Figueroa_Research_Statement_2024.pdf"> research statement </a>
   </div>
+
+  <div class="rb-img">
+      <img src="{{ site.baseurl }}/assets/images/research-thursts.png">
+  </div>
+  
 </section>
 
 <!-- ===== FULL-WIDTH GRID ===== -->
