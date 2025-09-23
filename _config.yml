@@ -21,6 +21,7 @@ minimal_mistakes_skin: default
 # Disable the theme's auto-added Atom/RSS feed badge
 atom_feed: null
 
+
 # =========================
 # Markdown & includes
 # =========================
@@ -71,6 +72,14 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@figueroa-robotics-lab"
+/* Hide RSS/Feed in the footer no matter how the theme renders it */
+.site-footer .social-icons a[href$="feed.xml"],
+.site-footer .social-icons a[href*="/feed"],
+.site-footer .social-icons a[aria-label*="Feed"],
+.site-footer .social-icons a[title*="Feed"],
+.site-footer .social-icons .fa-rss {
+  display: none !important;
+}
 
 # =========================
 # Defaults
