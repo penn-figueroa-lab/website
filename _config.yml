@@ -5,8 +5,8 @@ title: Figueroa Robotics Lab
 email:
 description: >-
   Research in human-robot integration.
-url: "https://rolyplee.github.io"   # your site origin (no trailing slash)
-baseurl: "/examplelab.github.io"    # repo name WITH leading slash
+url: "https://rolyplee.github.io"      # origin (no trailing slash)
+baseurl: "/examplelab.github.io"       # repo name WITH leading slash
 
 timezone: America/New_York
 permalink: pretty
@@ -17,9 +17,6 @@ search: true
 # =========================
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
-
-
-
 
 # =========================
 # Markdown & includes
@@ -36,12 +33,14 @@ collections:
     output: true
   people:
     output: true
+
+# Turn off feeds (we’ll also hide any icon via CSS)
 atom_feed: false
 feed: false
 rss: false
 
 # =========================
-# Plugins (no jekyll-feed)
+# Plugins (NO jekyll-feed)
 # =========================
 plugins:
   - jekyll-sitemap
@@ -49,7 +48,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# If you ever add a blog, leave these commented to avoid pager buttons:
+# (Leave blog pagination disabled)
 # paginate: 5
 # paginate_path: /page:num/
 
@@ -71,14 +70,6 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@figueroa-robotics-lab"
-/* Hide RSS/Feed in the footer no matter how the theme renders it */
-.site-footer .social-icons a[href$="feed.xml"],
-.site-footer .social-icons a[href*="/feed"],
-.site-footer .social-icons a[aria-label*="Feed"],
-.site-footer .social-icons a[title*="Feed"],
-.site-footer .social-icons .fa-rss {
-  display: none !important;
-}
 
 # =========================
 # Defaults
@@ -96,7 +87,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-
 tag_archive:
   type: liquid
   path: /tags/
