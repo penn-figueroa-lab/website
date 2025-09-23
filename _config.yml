@@ -18,9 +18,6 @@ search: true
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 
-# Disable the theme's auto-added Atom/RSS feed badge
-atom_feed:
-  hide: true
 
 
 
