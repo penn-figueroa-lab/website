@@ -11,94 +11,94 @@ permalink: /people/
 /* Center the page title from the theme */
 .page__title { text-align: center !important; }
 
-/* Full-width band with slightly tighter rhythm */
+/* Full-width band with tighter rhythm */
 .people-section{
   width: 100vw;
   margin-left: calc(-50vw + 50%);
-  padding: 0.9rem 1.6rem;            /* ↓ a bit tighter */
+  padding: 0.8rem 1.4rem;             /* ↓ a bit tighter */
   box-sizing: border-box;
   text-align: center;
 }
 
 /* Smaller gap between sections */
-.people-section + .people-section{ margin-top: 0.6rem; }
+.people-section + .people-section{ margin-top: 0.55rem; }
 
-/* Section headings slightly smaller */
+/* Section headings slightly smaller again */
 .people-section h2{
   text-align: center;
-  font-size: 1.45rem;                /* ↓ from 1.6rem */
-  margin: 0.4rem 0 0.6rem;           /* ↓ spacing */
+  font-size: 1.35rem;                 /* ↓ from 1.45rem */
+  margin: 0.35rem 0 0.55rem;          /* ↓ spacing */
 }
 
-/* Grid a touch denser */
+/* Grid a touch denser again */
 .people-grid{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* ↓ from 220px */
-  column-gap: 1rem;                   /* ↓ from 1.25rem */
-  row-gap: 0.85rem;                   /* ↓ from 1rem */
+  grid-template-columns: repeat(auto-fit, minmax(186px, 1fr)); /* ↓ from 200px */
+  column-gap: 0.9rem;                 /* ↓ from 1rem */
+  row-gap: 0.75rem;                   /* ↓ from 0.85rem */
   justify-content: center;
   justify-items: center;
   align-items: start;
 }
 
-/* Cards/images slightly smaller */
+/* Cards/images slightly smaller again */
 .person-card{
-  width: 200px;                       /* ↓ from 220px */
+  width: 186px;                        /* ↓ from 200px */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
   text-align: center;
-  font-size: 0.9rem;                  /* ↓ from .95rem */
+  font-size: 0.84rem;                  /* ↓ from .9rem */
 }
 
 /* Image frame */
 .person-card img{
-  width: 200px;                       /* ↓ from 220px */
-  height: 200px;                      /* ↓ from 220px */
+  width: 186px;                        /* ↓ from 200px */
+  height: 186px;                       /* ↓ from 200px */
   border-radius: 8px;
   object-fit: cover;
-  margin-bottom: 0.35rem;             /* ↓ a hair tighter */
+  margin-bottom: 0.3rem;               /* ↓ spacing */
   background: #f3f4f6;
 }
 
 /* Name styling a touch smaller */
 .person-card h3{
-  font-size: 0.95rem;                 /* ↓ from 1rem */
+  font-size: 0.9rem;                   /* ↓ from .95rem */
   font-weight: 600;
-  margin: 0.18rem 0;
-  line-height: 1.18;
+  margin: 0.16rem 0;
+  line-height: 1.16;
   word-wrap: break-word;
   white-space: normal;
   max-width: 100%;
 }
 
 /* Tighten paragraph spacing under names */
-.person-card p{ margin: 0.12rem 0 0; }
+.person-card p{ margin: 0.1rem 0 0; }
 
 /* Keep name size stable on big screens */
 @media (min-width: 1000px){
-  .person-card h3{ font-size: 0.95rem; }
+  .person-card h3{ font-size: 0.9rem; }
 }
 
-/* Alumni table a bit smaller */
+/* Alumni table slightly smaller again */
 .alumni-table{
   width: 100%;
   border-collapse: collapse;
-  margin: 0.45rem 0 1.6rem 0;         /* ↓ spacing */
-  font-size: 0.9rem;                  /* ↓ from .95rem */
+  margin: 0.4rem 0 1.4rem 0;          /* ↓ spacing */
+  font-size: 0.86rem;                  /* ↓ from .9rem */
 }
 .alumni-table th, .alumni-table td{
   border-bottom: 1px solid #e5e7eb;
-  padding: 0.45rem 0.65rem;           /* ↓ padding */
+  padding: 0.4rem 0.6rem;              /* ↓ padding */
   text-align: left;
   vertical-align: top;
 }
 .alumni-table th{ font-weight: 700; }
 .alumni-group{
-  margin-top: 1.2rem;                 /* ↓ */
-  margin-bottom: 0.45rem;             /* ↓ */
-  font-size: 1.02rem;                 /* ↓ */
+  margin-top: 1.05rem;                 /* ↓ */
+  margin-bottom: 0.4rem;               /* ↓ */
+  font-size: 0.98rem;                   /* ↓ */
   font-weight: 600;
 }
 </style>
