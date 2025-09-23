@@ -199,7 +199,7 @@ permalink: /publication/
   padding: 0 1rem;
 }
 
-/* ✅ Optional desktop-only “shift left” for visual alignment */
+/* Optional desktop-only “shift left” for very wide screens */
 @media (min-width: 1500px){
   .pub-wrap{
     margin-left: -400px;    /* your manual nudge */
@@ -214,11 +214,11 @@ permalink: /publication/
   }
 }
 
-/* Section headings */
+/* Section headings — slightly smaller */
 .pub-heading{
   margin: 1.75rem 0 0.75rem;
   text-align: center;
-  font-size: clamp(1.3rem, 1.7vw + .8rem, 1.9rem);
+  font-size: clamp(1.2rem, 1.5vw + .75rem, 1.75rem); /* ↓ a little */
   font-weight: 800;
 }
 
@@ -228,19 +228,19 @@ permalink: /publication/
   -webkit-overflow-scrolling: touch;
 }
 
-/* Table look & spacing */
+/* Table look & spacing — slightly smaller */
 .pub-table{
   width: 100%;
   border-collapse: collapse;
   margin: 0.5rem 0 2rem;
-  font-size: 1rem;
-  line-height: 1.5;
-  table-layout: fixed; /* works with colgroup widths */
+  font-size: 0.95rem;             /* ↓ from 1rem */
+  line-height: 1.48;              /* tiny tighten */
+  table-layout: fixed;            /* works with colgroup widths */
 }
 .pub-table thead th{ font-weight: 700; }
 .pub-table td, .pub-table th{
   border-bottom: 1px solid #e5e7eb;
-  padding: 0.65rem 0.9rem;
+  padding: 0.58rem 0.8rem;        /* ↓ from 0.65 / 0.9 */
   text-align: left;
   vertical-align: top;
 }
@@ -252,16 +252,17 @@ permalink: /publication/
   overflow-wrap: anywhere;
 }
 
-/* 🔁 Mobile tweaks: relax rigid widths and let the table breathe */
+/* Mobile tweaks — match the smaller sizing */
 @media (max-width: 980px){
-  .pub-table{ table-layout: auto; }              /* allow natural widths */
-  .pub-table col{ width: auto !important; }      /* override colgroup % */
+  .pub-table{ table-layout: auto; }
+  .pub-table col{ width: auto !important; }
   .pub-table td, .pub-table th{
-    padding: 0.55rem 0.7rem;
-    font-size: 0.97rem;
+    padding: 0.5rem 0.65rem;
+    font-size: 0.92rem;          /* ↓ from 0.97rem */
+    line-height: 1.45;
   }
 }
 
-/* 🔕 Hide the Minimal Mistakes pager on this page */
+/* Hide the Minimal Mistakes pager on this page */
 .pagination{ display:none !important; }
 </style>
