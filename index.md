@@ -27,9 +27,8 @@ permalink: /
 
 <!-- ===== SMALL SUB-HEADING UNDER SLIDER ===== -->
 <div class="hero-subtext">
-  We are a group within the
-  <a href="https://www.grasp.upenn.edu/" target="_blank" rel="noopener">
-    Penn Engineering GRASP Lab
+  <b> Established in Fall 2022.</b> We are a group within the Penn Engineering
+  <a href="https://www.grasp.upenn.edu/" target="_blank" rel="noopener"> GRASP Lab
   </a>.
 </div>
 
