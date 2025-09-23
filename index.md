@@ -28,8 +28,7 @@ permalink: /
 <!-- ===== SMALL SUB-HEADING UNDER SLIDER ===== -->
 <div class="hero-subtext">
   <b> Established in Fall 2022.</b> We are a group within the Penn Engineering
-  <a href="https://www.grasp.upenn.edu/" target="_blank" rel="noopener"> GRASP Lab
-  </a>.
+  <a href="https://www.grasp.upenn.edu/" target="_blank" rel="noopener">GRASP Lab</a>.
 </div>
 
 <style>
@@ -58,8 +57,8 @@ permalink: /
   width: 100%;
   display: block;
   height: auto;
-  object-fit: contain;        /* never crop */
-  max-height: 85vh;
+  object-fit: contain;
+  max-height: 75vh;          /* ↓ was 85vh */
 }
 
 /* ---------- Overlay Title ---------- */
@@ -73,35 +72,36 @@ permalink: /
 .hero-title--bottom{
   align-items: end;
   justify-items: center;
-  padding-bottom: 40px;
+  padding-bottom: 30px;       /* ↓ was 40px */
 }
 .hero-title h1{
   margin: 0;
   color: #fff;
   font-weight: 800;
-  font-size: clamp(24px, 3vw + 8px, 48px);
-  line-height: 1.12;
+  /* ↓ Slightly smaller overall */
+  font-size: clamp(22px, 2.6vw + 6px, 42px);
+  line-height: 1.1;
   text-align: center;
   text-shadow:
-    0 2px 6px rgba(0,0,0,0.45),
+    0 2px 5px rgba(0,0,0,0.45),
     0 1px 2px rgba(0,0,0,0.35);
 }
 @media (max-width: 360px){
-  .hero-title h1{ font-size: clamp(20px, 5vw + 6px, 36px); }
+  .hero-title h1{ font-size: clamp(18px, 4.5vw + 6px, 32px); }
 }
 
 /* ---------- Sub-heading under slider ---------- */
 .hero-subtext{
-  max-width: 1000px;
-  margin: 1.5rem auto 0;
-  padding: 0 1rem;
+  max-width: 900px;           /* ↓ was 1000px */
+  margin: 1.2rem auto 0;      /* tighter top margin */
+  padding: 0 0.8rem;
   text-align: center;
-  font-size: clamp(1rem, 1.2vw + 0.4rem, 1.25rem);
-  line-height: 1.4;
+  font-size: clamp(0.9rem, 1vw + 0.35rem, 1.1rem); /* ↓ slightly smaller */
+  line-height: 1.35;
   color: #333;
 }
 .hero-subtext a{
-  color: #0066cc;              /* Penn blue-ish link */
+  color: #0066cc;
   font-weight: 600;
   text-decoration: none;
 }
@@ -111,22 +111,38 @@ permalink: /
 
 /* ---------- Controls & dots ---------- */
 .hs-nav{
-  position: absolute; top: 50%; transform: translateY(-50%);
-  border: none; background: rgba(0,0,0,0.5); color:#fff;
-  width: 48px; height: 48px; border-radius: 50%; cursor: pointer; font-size: 24px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: rgba(0,0,0,0.5);
+  color:#fff;
+  width: 40px;                /* ↓ was 48px */
+  height: 40px;               /* ↓ was 48px */
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 20px;            /* ↓ was 24px */
   z-index: 4;
 }
-.hs-prev{ left: 16px; }
-.hs-next{ right: 16px; }
+.hs-prev{ left: 14px; }
+.hs-next{ right: 14px; }
 
 .hs-dots{
-  position: absolute; left: 50%; bottom: 16px; transform: translateX(-50%);
-  display: flex; gap: 8px;
+  position: absolute;
+  left: 50%;
+  bottom: 12px;               /* ↓ was 16px */
+  transform: translateX(-50%);
+  display: flex;
+  gap: 6px;                    /* ↓ was 8px */
   z-index: 4;
 }
 .hs-dots button{
-  width: 12px; height: 12px; border-radius: 50%;
-  border: none; background: rgba(255,255,255,0.4); cursor: pointer;
+  width: 10px;                 /* ↓ was 12px */
+  height: 10px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255,255,255,0.4);
+  cursor: pointer;
 }
 .hs-dots button[aria-selected="true"]{ background:#fff; }
 
@@ -148,7 +164,6 @@ permalink: /
     const dotsEl = slider.querySelector('.hs-dots');
     let index = 0;
 
-    // Build dots
     slides.forEach((_, i) => {
       const b = document.createElement('button');
       b.setAttribute('role', 'tab');
@@ -168,7 +183,6 @@ permalink: /
     if (prev) prev.addEventListener('click', () => goTo(index - 1));
     if (next) next.addEventListener('click', () => goTo(index + 1));
 
-    // Touch swipe
     let startX = 0;
     track.addEventListener('touchstart', e => startX = e.touches[0].clientX, {passive:true});
     track.addEventListener('touchend', e => {
@@ -177,7 +191,6 @@ permalink: /
       if (dx < -40) goTo(index + 1);
     });
 
-    // Autoplay (pause on hover)
     let timer = setInterval(() => goTo(index + 1), 5000);
     slider.addEventListener('mouseenter', () => clearInterval(timer));
     slider.addEventListener('mouseleave', () =>
@@ -186,7 +199,6 @@ permalink: /
 
     update();
   }
-
   document.readyState === 'loading'
     ? document.addEventListener('DOMContentLoaded', init)
     : init();
