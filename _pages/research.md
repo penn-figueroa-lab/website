@@ -9,15 +9,7 @@ permalink: /research/
   <div class="rb-intro">
     <h1>Our Research</h1>
     <p>
-      Established in Fall 2022. The goal of our research group is to study and develop the physical and perceptual adaptive
-      intelligence necessary for robots to learn from and interact with humans, while being able to adapt to a wide-range of human
-      capabilities, needs and ever-changing environments achieving fluid human-robot collaborative autonomy; i.e., when humans and robots
-      collaborate harmoniously. We focus on applications where such fluid collaboration is necessary or safety critical, such as teaching
-      robots cumbersome dexterous manipulation tasks with minimal human effort, navigating swiftly and safely in busy human-centric spaces,
-      physically assisting humans in heavy work and contact-rich activities, physical therapy and rehabilitation. We tackle these problems
-      by developing novel and tightly coupled learning, control and estimation algorithms that enjoy stability, safety, efficiency and
-      robustness guarantees. This involves research at the intersection of control theory, machine learning, artificial intelligence,
-      perception and biomechanics—with a physical human-robot interaction perspective.
+    <b>Established in Fall 2022.</b> The goal of my research group is to study and develop the <em><b>physical and perceptual adaptive intelligence</b></em> necessary for robots to learn from and interact with humans, while being able to adapt to a wide-range of human capabilities, needs and ever-changing environments achieving <em><b>fluid human-robot collaborative autonomy</b></em>; i.e., when humans and robots collaborate harmoniously. We focus on applications where such fluid collaboration is necessary or safety critical, such as teaching robots cumbersome dexterous manipulation tasks with minimal human effort, navigating swiftly and safely in busy human-centric spaces, physically assisting humans in heavy work and contact-rich activities, physical therapy and rehabilitation. We tackle these problems by developing novel and tightly coupled learning, control and estimation algorithms that enjoy from <em><b>stability, safety, efficiency and robustness guarantees</b></em>. This involves research at the intersection of control theory, machine learning, artificial intelligence, perception and biomechanics - with a physical human-robot interaction perspective. A summary of our contributions over the past three years at Penn can be found in my <a href="data/nadia/Figueroa_Research_Statement_2024.pdf"> research statement (12/24) </a>.     
     </p>
   </div>
 </section>
