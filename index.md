@@ -25,6 +25,14 @@ permalink: /
   <div class="hs-dots" role="tablist" aria-label="Choose slide"></div>
 </div>
 
+<!-- ===== SMALL SUB-HEADING UNDER SLIDER ===== -->
+<div class="hero-subtext">
+  We are a group within the
+  <a href="https://www.grasp.upenn.edu/" target="_blank" rel="noopener">
+    Penn Engineering GRASP Lab
+  </a>.
+</div>
+
 <style>
 /* ---------- Slider ---------- */
 .hero-slider{
@@ -55,24 +63,23 @@ permalink: /
   max-height: 85vh;
 }
 
-/* ---------- Overlay Title (no box, bottom centered) ---------- */
+/* ---------- Overlay Title ---------- */
 .hero-title{
   position: absolute;
   inset: 0;
   display: grid;
-  pointer-events: none;       /* let clicks reach the arrows */
-  z-index: 3;                 /* above images */
+  pointer-events: none;
+  z-index: 3;
 }
 .hero-title--bottom{
-  align-items: end;           /* push content to bottom */
-  justify-items: center;      /* center horizontally */
-  padding-bottom: 40px;       /* space from bottom edge */
+  align-items: end;
+  justify-items: center;
+  padding-bottom: 40px;
 }
 .hero-title h1{
   margin: 0;
   color: #fff;
   font-weight: 800;
-  /* ✅ Use px-based clamp so OS/browser text scaling doesn't blow it up */
   font-size: clamp(24px, 3vw + 8px, 48px);
   line-height: 1.12;
   text-align: center;
@@ -80,9 +87,27 @@ permalink: /
     0 2px 6px rgba(0,0,0,0.45),
     0 1px 2px rgba(0,0,0,0.35);
 }
-/* Slightly smaller on very narrow phones */
 @media (max-width: 360px){
   .hero-title h1{ font-size: clamp(20px, 5vw + 6px, 36px); }
+}
+
+/* ---------- Sub-heading under slider ---------- */
+.hero-subtext{
+  max-width: 1000px;
+  margin: 1.5rem auto 0;
+  padding: 0 1rem;
+  text-align: center;
+  font-size: clamp(1rem, 1.2vw + 0.4rem, 1.25rem);
+  line-height: 1.4;
+  color: #333;
+}
+.hero-subtext a{
+  color: #0066cc;              /* Penn blue-ish link */
+  font-weight: 600;
+  text-decoration: none;
+}
+.hero-subtext a:hover{
+  text-decoration: underline;
 }
 
 /* ---------- Controls & dots ---------- */
