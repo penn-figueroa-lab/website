@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Lab Members"
+title: ""
 permalink: /people/
 ---
 
