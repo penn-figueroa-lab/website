@@ -24,7 +24,7 @@ permalink: /research/
   </div>
 
   <p align="center">
-    <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:62%; max-width:900px;">
+    <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:58%; max-width:820px;">
   </p>
 </section>
 
@@ -70,16 +70,17 @@ permalink: /research/
 /* 🔕 Hide the Minimal Mistakes pager on this page */
 .pagination{ display:none !important; }
 
-/* 🔕 Hide RSS/Feed icon only on this page */
-.page__footer-follow .social-icons li:has(a[href$="feed.xml"]),
-.page__footer-follow .social-icons li:has(.fa-rss),
+/* 🔕 Hide RSS/Feed icon on this page only (robust selectors; no :has needed) */
 .page__footer-follow .social-icons a[href$="feed.xml"],
-.page__footer-follow .social-icons .fa-rss{
+.page__footer-follow .social-icons a[href*="/feed"],
+.page__footer-follow .social-icons .fa-rss,
+.page__footer-follow .social-icons a[aria-label*="Feed"],
+.page__footer-follow .social-icons a[title*="Feed"]{
   display:none !important;
 }
 
 /* keep the theme’s top spacing small */
-.main .page__content { padding-top: 0.5rem; }
+.main .page__content { padding-top: 0.4rem; }
 
 /* ---------- FULL-BLEED INTRO ---------- */
 .rb-fullbleed{
@@ -87,63 +88,63 @@ permalink: /research/
   margin-left: calc(50% - 50vw);
 }
 .rb-intro{
-  max-width: 1100px;                  /* slightly narrower */
-  margin: 0 auto 1.6rem;
-  padding: 0 20px;                    /* a bit tighter */
+  max-width: 1000px;                   /* narrower */
+  margin: 0 auto 1.4rem;
+  padding: 0 18px;
   text-align: justify;
   text-justify: inter-word;
 }
 .rb-intro h1{
   text-align: center;
-  margin-bottom: 0.85rem;
+  margin-bottom: 0.7rem;
   font-weight: 800;
-  font-size: clamp(1.4rem, 1.2vw + 1.0rem, 1.8rem); /* smaller heading */
+  font-size: clamp(1.2rem, 1.0vw + 0.9rem, 1.55rem);  /* smaller heading */
 }
 .rb-intro p{
   margin: 0 auto;
-  line-height: 1.7;                   /* slightly tighter */
-  max-width: 920px;                   /* a bit narrower */
-  font-size: clamp(0.92rem, 0.4vw + 0.8rem, 1.02rem); /* smaller body text */
+  line-height: 1.6;
+  max-width: 860px;
+  font-size: clamp(0.88rem, 0.35vw + 0.75rem, 0.98rem); /* smaller body text */
 }
 
 /* ---------- FULL-BLEED GRID (smaller cards) ---------- */
 .rb-grid{
   width: 100vw;
   margin-left: calc(50% - 50vw);
-  padding: 0 clamp(12px, 4vw, 36px);       /* slightly less padding */
+  padding: 0 clamp(10px, 3.6vw, 28px);        /* less side padding */
   display: grid;
-  gap: clamp(16px, 2.5vw, 32px);           /* slightly tighter gaps */
+  gap: clamp(14px, 2.2vw, 26px);              /* tighter gaps */
 
-  /* 3 columns on wide screens, each at least 340px (down from 380px) */
-  grid-template-columns: repeat(3, minmax(340px, 1fr));
+  /* 3 columns wide screens, each at least 300px (down again) */
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
   justify-items: center;
 }
 
 /* fallbacks for smaller screens */
-@media (max-width: 1200px){
-  .rb-grid{ grid-template-columns: repeat(2, minmax(320px, 1fr)); }
+@media (max-width: 1100px){
+  .rb-grid{ grid-template-columns: repeat(2, minmax(280px, 1fr)); }
 }
-@media (max-width: 800px){
-  .rb-grid{ grid-template-columns: minmax(280px, 1fr); }
+@media (max-width: 760px){
+  .rb-grid{ grid-template-columns: minmax(240px, 1fr); }
 }
 
 /* ---------- CARD (no link wrapper) ---------- */
 .rb-card{
   width: 100%;
-  max-width: 640px;                     /* down from 720px */
+  max-width: 540px;                      /* down from 640px */
   display: flex;
   flex-direction: column;
   align-items: center;
   color: inherit;
 }
 
-/* image frame — slightly smaller */
+/* image frame — smaller */
 .rb-img{
   width: 100%;
   aspect-ratio: 16 / 9;
-  border-radius: 14px;                  /* slightly less round */
+  border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 10px 28px rgba(0,0,0,.07);
+  box-shadow: 0 8px 22px rgba(0,0,0,.06);
   background: #f3f4f6;
   display: flex;
   align-items: center;
@@ -154,18 +155,18 @@ permalink: /research/
   height: 100%;
   object-fit: cover;
   display: block;
-  transition: transform .3s ease, filter .3s ease;
+  transition: transform .28s ease, filter .28s ease;
 }
 
 .rb-card:hover .rb-img img{
-  transform: scale(1.02);               /* slightly gentler hover */
+  transform: scale(1.015);
   filter: brightness(1.02);
 }
 
 .rb-card h3{
-  margin: 0.8rem 0 0;                   /* tighter */
+  margin: 0.65rem 0 0;
   text-align: center;
-  font-size: clamp(1.05rem, 1.1vw + .75rem, 1.45rem); /* smaller title */
+  font-size: clamp(0.98rem, 1vw + .6rem, 1.28rem); /* smaller title */
   font-weight: 800;
 }
 </style>
