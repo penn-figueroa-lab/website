@@ -31,14 +31,6 @@ body,
   margin: 0 0.75rem;
 }
 
-/* Hide RSS icon/link in Minimal Mistakes footer */
-.page__footer .footer__social a[href$="feed.xml"],
-.page__footer .footer__social a[title*="RSS"],
-.page__footer .footer__social .fa-rss,
-.page__footer .footer__social .fab.fa-rss,
-.page__footer .footer__social .fas.fa-rss {
-  display: none !important;
-}
 
 
 
