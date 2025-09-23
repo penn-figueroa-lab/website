@@ -31,12 +31,14 @@ body,
   margin: 0 0.75rem;
 }
 
-/* Hide the RSS/Feed icon in the footer */
-.page__footer-follow .rss,
-.page__footer-follow a[href$="feed.xml"],
-.page__footer-follow a[href$="atom.xml"],
-.page__footer-follow a[href$="rss.xml"] {
+/* Hide RSS icon/link in Minimal Mistakes footer */
+.page__footer .footer__social a[href$="feed.xml"],
+.page__footer .footer__social a[title*="RSS"],
+.page__footer .footer__social .fa-rss,
+.page__footer .footer__social .fab.fa-rss,
+.page__footer .footer__social .fas.fa-rss {
   display: none !important;
 }
+
 
 
