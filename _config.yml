@@ -36,6 +36,9 @@ collections:
     output: true
   people:
     output: true
+atom_feed: false
+feed: false
+rss: false
 
 # =========================
 # Plugins (no jekyll-feed)
