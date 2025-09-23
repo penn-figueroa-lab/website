@@ -5,8 +5,17 @@ permalink: /people/
 ---
 
 <style>
-/* Hide the Previous/Next pager on this page only */
+/* 🔕 Hide the Minimal Mistakes pager on this page only */
 .pagination{ display:none !important; }
+
+/* 🔕 Hide RSS/Feed icon just on this page (robust selectors) */
+.page__footer-follow .social-icons a[href$="feed.xml"],
+.page__footer-follow .social-icons a[href*="/feed"],
+.page__footer-follow .social-icons .fa-rss,
+.page__footer-follow .social-icons a[aria-label*="Feed"],
+.page__footer-follow .social-icons a[title*="Feed"]{
+  display:none !important;
+}
 
 /* Center the page title from the theme */
 .page__title { text-align: center !important; }
@@ -15,27 +24,27 @@ permalink: /people/
 .people-section{
   width: 100vw;
   margin-left: calc(-50vw + 50%);
-  padding: 0.8rem 1.4rem;             /* ↓ a bit tighter */
+  padding: 0.7rem 1.2rem;             /* ↓ a bit tighter again */
   box-sizing: border-box;
   text-align: center;
 }
 
 /* Smaller gap between sections */
-.people-section + .people-section{ margin-top: 0.55rem; }
+.people-section + .people-section{ margin-top: 0.5rem; }
 
 /* Section headings slightly smaller again */
 .people-section h2{
   text-align: center;
-  font-size: 1.35rem;                 /* ↓ from 1.45rem */
-  margin: 0.35rem 0 0.55rem;          /* ↓ spacing */
+  font-size: 1.28rem;                 /* ↓ from 1.35rem */
+  margin: 0.32rem 0 0.5rem;           /* ↓ spacing */
 }
 
 /* Grid a touch denser again */
 .people-grid{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(186px, 1fr)); /* ↓ from 200px */
-  column-gap: 0.9rem;                 /* ↓ from 1rem */
-  row-gap: 0.75rem;                   /* ↓ from 0.85rem */
+  grid-template-columns: repeat(auto-fit, minmax(176px, 1fr)); /* ↓ from 186px */
+  column-gap: 0.85rem;                /* ↓ from 0.9rem */
+  row-gap: 0.7rem;                    /* ↓ from 0.75rem */
   justify-content: center;
   justify-items: center;
   align-items: start;
@@ -43,62 +52,62 @@ permalink: /people/
 
 /* Cards/images slightly smaller again */
 .person-card{
-  width: 186px;                        /* ↓ from 200px */
+  width: 176px;                        /* ↓ from 186px */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
   text-align: center;
-  font-size: 0.84rem;                  /* ↓ from .9rem */
+  font-size: 0.82rem;                  /* ↓ from 0.84rem */
 }
 
 /* Image frame */
 .person-card img{
-  width: 186px;                        /* ↓ from 200px */
-  height: 186px;                       /* ↓ from 200px */
+  width: 176px;                        /* ↓ from 186px */
+  height: 176px;                       /* ↓ from 186px */
   border-radius: 8px;
   object-fit: cover;
-  margin-bottom: 0.3rem;               /* ↓ spacing */
+  margin-bottom: 0.28rem;              /* ↓ spacing */
   background: #f3f4f6;
 }
 
 /* Name styling a touch smaller */
 .person-card h3{
-  font-size: 0.9rem;                   /* ↓ from .95rem */
+  font-size: 0.86rem;                  /* ↓ from 0.9rem */
   font-weight: 600;
-  margin: 0.16rem 0;
-  line-height: 1.16;
+  margin: 0.14rem 0;
+  line-height: 1.14;
   word-wrap: break-word;
   white-space: normal;
   max-width: 100%;
 }
 
 /* Tighten paragraph spacing under names */
-.person-card p{ margin: 0.1rem 0 0; }
+.person-card p{ margin: 0.08rem 0 0; }
 
 /* Keep name size stable on big screens */
 @media (min-width: 1000px){
-  .person-card h3{ font-size: 0.9rem; }
+  .person-card h3{ font-size: 0.86rem; }
 }
 
 /* Alumni table slightly smaller again */
 .alumni-table{
   width: 100%;
   border-collapse: collapse;
-  margin: 0.4rem 0 1.4rem 0;          /* ↓ spacing */
-  font-size: 0.86rem;                  /* ↓ from .9rem */
+  margin: 0.35rem 0 1.2rem 0;         /* ↓ spacing */
+  font-size: 0.82rem;                  /* ↓ from .86rem */
 }
 .alumni-table th, .alumni-table td{
   border-bottom: 1px solid #e5e7eb;
-  padding: 0.4rem 0.6rem;              /* ↓ padding */
+  padding: 0.36rem 0.55rem;            /* ↓ padding */
   text-align: left;
   vertical-align: top;
 }
 .alumni-table th{ font-weight: 700; }
 .alumni-group{
-  margin-top: 1.05rem;                 /* ↓ */
-  margin-bottom: 0.4rem;               /* ↓ */
-  font-size: 0.98rem;                   /* ↓ */
+  margin-top: 0.95rem;                 /* ↓ */
+  margin-bottom: 0.35rem;              /* ↓ */
+  font-size: 0.94rem;                  /* ↓ */
   font-weight: 600;
 }
 </style>
@@ -108,10 +117,10 @@ permalink: /people/
   <h2>Principal Investigator</h2>
   <div class="people-grid">
     <div class="person-card">
-      <a href="https://nbfigueroa.github.io/" target="_blank">
+      <a href="https://nbfigueroa.github.io/" target="_blank" rel="noopener">
         <img src="{{ site.baseurl }}/assets/images/people/nadia_figueroa_reduced.jpg" alt="Nadia Figueroa">
       </a>
-      <a href="https://nbfigueroa.github.io/" target="_blank"><h3>Dr. Nadia Figueroa</h3></a>
+      <a href="https://nbfigueroa.github.io/" target="_blank" rel="noopener"><h3>Dr. Nadia Figueroa</h3></a>
       <p>Shalini and Rajeev Misra Presidential Assistant Professor, MEAM</p>
     </div>
   </div>
@@ -121,26 +130,26 @@ permalink: /people/
 <div class="people-section">
   <h2>PhD Students</h2>
   <div class="people-grid">
-    <div class="person-card"><a href="http://imtianyuli.com/"  target="_blank"><img src="{{ site.baseurl }}/assets/images/people/tianyu_li.JPG" alt="Tianyu Li"></a><a href="http://imtianyuli.com/" target="_blank"><h3>Tianyu Li</h3></a><p>MEAM, 2022–present</p></div>
-    <div class="person-card"><a href="https://www.linkedin.com/in/yifan-xue-523168178/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/yifan_xue.JPG" alt="Yifan Xue"></a><a href="https://www.linkedin.com/in/yifan-xue-523168178/" target="_blank"><h3>Yifan Xue</h3></a><p>MEAM, 2022–present</p></div>
-    <div class="person-card"><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/shafagh_keyvanian.jpg" alt="Shafagh Keyvanian"></a><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank"><h3>Shafagh Keyvanian</h3></a><p>MEAM, 2022–present<br><em>Co-advised with Michelle Johnson</em></p></div>
-    <div class="person-card"><a href="https://www.linkedin.com/in/yifei-simon-shao/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/bio-photo.jpg" alt="Yifei Simon Shao"></a><a href="https://www.linkedin.com/in/yifei-simon-shao/" target="_blank"><h3>Yifei Simon Shao</h3></a><p>CIS, 2023–present<br><em>Co-advised with V. Kumar & P. Chaudhari</em></p></div>
-    <div class="person-card"><a href="https://sites.google.com/view/farhad-nawaz" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/farhad_nawaz.JPG" alt="Farhad Nawaz"></a><a href="https://sites.google.com/view/farhad-nawaz" target="_blank"><h3>Farhad Nawaz</h3></a><p>ESE, 2023–present<br><em>Co-advised with Nikolai Matni</em></p></div>  
-    <div class="person-card"><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/ho_jin_choi.JPG" alt="Ho Jin Choi"></a><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank"><h3>Ho Jin Choi</h3></a><p>MEAM, 2024–present</p></div>
+    <div class="person-card"><a href="http://imtianyuli.com/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/tianyu_li.JPG" alt="Tianyu Li"></a><a href="http://imtianyuli.com/" target="_blank" rel="noopener"><h3>Tianyu Li</h3></a><p>MEAM, 2022–present</p></div>
+    <div class="person-card"><a href="https://www.linkedin.com/in/yifan-xue-523168178/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yifan_xue.JPG" alt="Yifan Xue"></a><a href="https://www.linkedin.com/in/yifan-xue-523168178/" target="_blank" rel="noopener"><h3>Yifan Xue</h3></a><p>MEAM, 2022–present</p></div>
+    <div class="person-card"><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/shafagh_keyvanian.jpg" alt="Shafagh Keyvanian"></a><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank" rel="noopener"><h3>Shafagh Keyvanian</h3></a><p>MEAM, 2022–present<br><em>Co-advised with Michelle Johnson</em></p></div>
+    <div class="person-card"><a href="https://www.linkedin.com/in/yifei-simon-shao/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/bio-photo.jpg" alt="Yifei Simon Shao"></a><a href="https://www.linkedin.com/in/yifei-simon-shao/" target="_blank" rel="noopener"><h3>Yifei Simon Shao</h3></a><p>CIS, 2023–present<br><em>Co-advised with V. Kumar & P. Chaudhari</em></p></div>
+    <div class="person-card"><a href="https://sites.google.com/view/farhad-nawaz" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/farhad_nawaz.JPG" alt="Farhad Nawaz"></a><a href="https://sites.google.com/view/farhad-nawaz" target="_blank" rel="noopener"><h3>Farhad Nawaz</h3></a><p>ESE, 2023–present<br><em>Co-advised with Nikolai Matni</em></p></div>  
+    <div class="person-card"><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ho_jin_choi.JPG" alt="Ho Jin Choi"></a><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank" rel="noopener"><h3>Ho Jin Choi</h3></a><p>MEAM, 2024–present</p></div>
 
     <div class="person-card">
-      <a href="https://sunan-sun.github.io/" target="_blank">
+      <a href="https://sunan-sun.github.io/" target="_blank" rel="noopener">
         <img src="{{ site.baseurl }}/assets/images/people/sunan_sun.JPG" alt="Sunan Sun">
       </a>
-      <a href="https://sunan-sun.github.io/" target="_blank"><h3>Sunan Sun</h3></a>
+      <a href="https://sunan-sun.github.io/" target="_blank" rel="noopener"><h3>Sunan Sun</h3></a>
       <p>MEAM, 2025–present</p>
     </div>
 
     <div class="person-card">
-      <a href="https://sites.google.com/seas.upenn.edu/sanghyub-lee" target="_blank">
+      <a href="https://sites.google.com/seas.upenn.edu/sanghyub-lee" target="_blank" rel="noopener">
         <img src="{{ site.baseurl }}/assets/images/people/sanghyub_lee.JPG" alt="Paul (Sanghyub) Lee">
       </a>
-      <a href="https://sites.google.com/seas.upenn.edu/sanghyub-lee" target="_blank"><h3>Paul(Sanghyub) Lee</h3></a>
+      <a href="https://sites.google.com/seas.upenn.edu/sanghyub-lee" target="_blank" rel="noopener"><h3>Paul(Sanghyub) Lee</h3></a>
       <p>MEAM, 2025–present</p>
     </div>
   </div>
@@ -151,26 +160,26 @@ permalink: /people/
   <h2>Master's Thesis Students</h2>
   <div class="people-grid">
     <div class="person-card">
-      <a href="https://mateuszjaszczuk.com/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/mateusz_jaszczuk.JPG" alt="Mateusz Jaszczuk"></a>
-      <a href="https://mateuszjaszczuk.com/" target="_blank"><h3>Mateusz Jaszczuk</h3></a>
+      <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/mateusz_jaszczuk.JPG" alt="Mateusz Jaszczuk"></a>
+      <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><h3>Mateusz Jaszczuk</h3></a>
       <p>M.S. MEAM, 2026<br>2024–present<br><em>Thesis: “Learning to Feel: Force-Aware Data-Driven Estimation and Control for Fluid Physical Interaction”</em></p>
     </div>
 
     <div class="person-card">  
-      <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/ekaterina_skorniakova.JPG" alt="Ekaterina Skorniakova"></a>
-      <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank"><h3>Ekaterina Skorniakova</h3></a>
+      <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ekaterina_skorniakova.JPG" alt="Ekaterina Skorniakova"></a>
+      <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><h3>Ekaterina Skorniakova</h3></a>
       <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Coupled Passive Dynamical System Interaction Control on SE(3)”</em></p>
     </div>
 
     <div class="person-card">
-      <a href="https://www.linkedin.com/in/nateykim/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Natey Kim"></a>
-      <a href="https://www.linkedin.com/in/nateykim/" target="_blank"><h3>Natey Kim</h3></a>
+      <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Natey Kim"></a>
+      <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
       <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Real-time Human Limb Dynamics Tracking via HD-sEMG driven Musculoskeletal Digital Twin Modeling”</em></p>
     </div>
 
     <div class="person-card">  
-      <a href="http://www.yihanli.io/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/yihan_li.JPG" alt="Yihan Li"></a>
-      <a href="http://www.yihanli.io/" target="_blank"><h3>Yihan Li</h3></a>
+      <a href="http://www.yihanli.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yihan_li.JPG" alt="Yihan Li"></a>
+      <a href="http://www.yihanli.io/" target="_blank" rel="noopener"><h3>Yihan Li</h3></a>
       <p>M.S. Robotics, 2026<br>2025–present<br><em>Thesis: “RoboHockey: A Robotic Benchmark for Dynamic Whole-body Contact-rich Tasks”</em></p>
     </div>
 
@@ -187,38 +196,38 @@ permalink: /people/
   <h2>Master's Research Interns</h2>
   <div class="people-grid">
     <div class="person-card">   
-      <a href="https://zizhe.io/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/zizhe_zhang.JPG" alt="Zizhe Zhang"></a>
-      <a href="https://zizhe.io/" target="_blank"><h3>Zizhe Zhang</h3></a>
+      <a href="https://zizhe.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/zizhe_zhang.JPG" alt="Zizhe Zhang"></a>
+      <a href="https://zizhe.io/" target="_blank" rel="noopener"><h3>Zizhe Zhang</h3></a>
       <p>M.S. ESE/Robotics, 2026<br>2025–present<br><em>Research Intern Spring-Fall 2025</em></p>
     </div>
 
     <div class="person-card">   
-      <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/jason_chen.JPG" alt="Jason Chen"></a>
-      <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank"><h3>Jason Chen</h3></a>
+      <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/jason_chen.JPG" alt="Jason Chen"></a>
+      <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank" rel="noopener"><h3>Jason Chen</h3></a>
       <p>M.S. MEAM, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
     </div>
 
     <div class="person-card">   
-      <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/dhyey_shah.JPG" alt="Dhyey Shah"></a>
-      <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank"><h3>Dhyey Shah</h3></a>
+      <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dhyey_shah.JPG" alt="Dhyey Shah"></a>
+      <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank" rel="noopener"><h3>Dhyey Shah</h3></a>
       <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
     </div>
     
     <div class="person-card">   
-      <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/yicong_wang.JPG" alt="Yicong Wang"></a>
-      <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank"><h3>Yicong Wang</h3></a>
+      <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yicong_wang.JPG" alt="Yicong Wang"></a>
+      <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><h3>Yicong Wang</h3></a>
       <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
     </div>
 
     <div class="person-card">
-      <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/guanhua_ji.JPG" alt="Guanhua Ji"></a>
-      <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank"><h3>Guanhua Ji</h3></a>
+      <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/guanhua_ji.JPG" alt="Guanhua Ji"></a>
+      <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank" rel="noopener"><h3>Guanhua Ji</h3></a>
       <p>M.S. Robotics, 2027<br>2025–present<br><em>Research Intern Fall 2025</em></p>
     </div>
 
     <div class="person-card">
-      <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/dayoon_suh.JPG" alt="Dayoon Suh"></a>
-      <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank"><h3>Dayoon Suh</h3></a>
+      <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dayoon_suh.JPG" alt="Dayoon Suh"></a>
+      <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><h3>Dayoon Suh</h3></a>
       <p>M.S. Robotics, 2027<br>2025–present<br><em>Research Intern Fall 2025</em></p>
     </div>
   </div>
@@ -229,8 +238,8 @@ permalink: /people/
   <h2>Research Engineers</h2>
   <div class="people-grid">
     <div class="person-card">
-      <a href="https://www.linkedin.com/in/daudizein/" target="_blank"><img src="{{ site.baseurl }}/assets/images/people/daudi_zein.JPG" alt="Daudi Zein"></a>
-      <a href="https://www.linkedin.com/in/daudizein/" target="_blank"><h3>Daudi Zein</h3></a>
+      <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/daudi_zein.JPG" alt="Daudi Zein"></a>
+      <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><h3>Daudi Zein</h3></a>
       <p>M.S. Robotics, 2025<br>2025-present<br><em>Research Engineer</em></p>
     </div>
   </div>
@@ -242,7 +251,7 @@ permalink: /people/
   <div class="people-grid">
     <div class="person-card">
       <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/bio-photo.jpg" alt="Michael North"></a>
-      <a href="{{ site.baseurl }}/people/" target="_blank"><h3>Michael North</h3></a>
+      <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Michael North</h3></a>
       <p>B.S. BE, 2026<br>2024-present<br><em>Undergraduate Researcher</em></p>
     </div>
   </div>
@@ -328,12 +337,3 @@ permalink: /people/
     </tbody>
   </table>
 </div>
-
-
-/* 🔕 Hide RSS/Feed icon only on this page */
-.page__footer-follow .social-icons li:has(a[href$="feed.xml"]),
-.page__footer-follow .social-icons li:has(.fa-rss),
-.page__footer-follow .social-icons a[href$="feed.xml"],
-.page__footer-follow .social-icons .fa-rss{
-  display:none !important;
-}
