@@ -58,7 +58,7 @@ permalink: /
   display: block;
   height: auto;
   object-fit: contain;
-  max-height: 75vh;          /* ↓ was 85vh */
+  max-height: 75vh;
 }
 
 /* ---------- Overlay Title ---------- */
@@ -72,13 +72,12 @@ permalink: /
 .hero-title--bottom{
   align-items: end;
   justify-items: center;
-  padding-bottom: 30px;       /* ↓ was 40px */
+  padding-bottom: 30px;
 }
 .hero-title h1{
   margin: 0;
   color: #fff;
   font-weight: 800;
-  /* ↓ Slightly smaller overall */
   font-size: clamp(22px, 2.6vw + 6px, 42px);
   line-height: 1.1;
   text-align: center;
@@ -92,11 +91,11 @@ permalink: /
 
 /* ---------- Sub-heading under slider ---------- */
 .hero-subtext{
-  max-width: 900px;           /* ↓ was 1000px */
-  margin: 1.2rem auto 0;      /* tighter top margin */
+  max-width: 900px;
+  margin: 1.2rem auto 0;
   padding: 0 0.8rem;
   text-align: center;
-  font-size: clamp(0.9rem, 1vw + 0.35rem, 1.1rem); /* ↓ slightly smaller */
+  font-size: clamp(0.9rem, 1vw + 0.35rem, 1.1rem);
   line-height: 1.35;
   color: #333;
 }
@@ -105,9 +104,7 @@ permalink: /
   font-weight: 600;
   text-decoration: none;
 }
-.hero-subtext a:hover{
-  text-decoration: underline;
-}
+.hero-subtext a:hover{ text-decoration: underline; }
 
 /* ---------- Controls & dots ---------- */
 .hs-nav{
@@ -117,11 +114,11 @@ permalink: /
   border: none;
   background: rgba(0,0,0,0.5);
   color:#fff;
-  width: 40px;                /* ↓ was 48px */
-  height: 40px;               /* ↓ was 48px */
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   cursor: pointer;
-  font-size: 20px;            /* ↓ was 24px */
+  font-size: 20px;
   z-index: 4;
 }
 .hs-prev{ left: 14px; }
@@ -130,14 +127,14 @@ permalink: /
 .hs-dots{
   position: absolute;
   left: 50%;
-  bottom: 12px;               /* ↓ was 16px */
+  bottom: 12px;
   transform: translateX(-50%);
   display: flex;
-  gap: 6px;                    /* ↓ was 8px */
+  gap: 6px;
   z-index: 4;
 }
 .hs-dots button{
-  width: 10px;                 /* ↓ was 12px */
+  width: 10px;
   height: 10px;
   border-radius: 50%;
   border: none;
@@ -148,6 +145,14 @@ permalink: /
 
 /* Remove extra top padding under theme container */
 .main .page__content { padding-top: 0; }
+
+/* 🔕 Hide RSS/Feed icon just on this page */
+.page__footer-follow .social-icons li:has(a[href$="feed.xml"]),
+.page__footer-follow .social-icons li:has(.fa-rss),
+.page__footer-follow .social-icons a[href$="feed.xml"],
+.page__footer-follow .social-icons .fa-rss{
+  display:none !important;
+}
 </style>
 
 <script>
@@ -204,4 +209,3 @@ permalink: /
     : init();
 })();
 </script>
-
