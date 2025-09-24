@@ -17,9 +17,7 @@ permalink: /research/
   <p align="justify">
       We focus on applications where such fluid collaboration is necessary or safety critical, such as teaching robots cumbersome dexterous manipulation tasks with minimal human effort, navigating swiftly and safely in busy human-centric spaces, physically assisting humans in heavy work and contact-rich activities, physical therapy and rehabilitation. We tackle these problems by developing novel and tightly coupled learning, control and estimation algorithms that enjoy from <b>stability, safety, efficiency and robustness guarantees</b>. This involves research at the intersection of control theory, machine learning, artificial intelligence, perception and biomechanics — with a physical human-robot interaction perspective.
   </p>
-
-  </div>
-
+  
   <p align="center">
     <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:70%; max-width:760px;">
   </p>
@@ -28,7 +26,7 @@ permalink: /research/
       A summary of our contributions over the past three years at Penn can be found in Prof. Figueroa's
       <a href="https://nbfigueroa.github.io/data/nadia/Figueroa_Research_Statement_2024.pdf" target="_blank" rel="noopener">research statement</a>.
   </p>
-  
+  </div>
 </section>
 
 <!-- ===== FULL-WIDTH GRID (not clickable) ===== -->
@@ -38,6 +36,8 @@ permalink: /research/
   <div class="rb-card"><div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Control_Estimation.JPG" alt="Control & Estimation"></div><h3>Control &amp; Estimation</h3></div>
 
   <div class="rb-card"><div class="rb-img"><img src="{{ site.baseurl }}/assets/images/hardware.JPG" alt="Hardware"></div><h3>Hardware</h3></div>
+
+  <br>
 
   <div class="rb-card"><div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Imitation_Learning.JPG" alt="Imitation Learning"></div><h3>Imitation Learning</h3></div>
 
