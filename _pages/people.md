@@ -14,78 +14,65 @@ permalink: /people/
 /* Center the page title from the theme */
 .page__title{ text-align:center !important; }
 
-/* ===== Centered wrapper (not full-bleed) ===== */
+/* ===== Centered wrapper (matches publication/research) ===== */
 .people-wrap{
-  width: min(96vw, 1120px);   /* <- “middle” width */
-  margin: 0 auto;             /* center it */
-  padding: 0 16px;            /* small side gutter */
+  width: min(96vw, 1400px);   /* roomy but constrained */
+  margin: 0 auto;             /* center by default */
+  padding: 0 16px;            /* small gutter */
+}
+/* Ultra-wide screens: subtle left nudge for visual alignment with header */
+@media (min-width:1500px){
+  .people-wrap{ margin-left: -380px; margin-right: auto; }
+}
+/* Re-center below that breakpoint */
+@media (max-width:1499.98px){
+  .people-wrap{ margin-left: auto; margin-right: auto; }
 }
 
-/* Each section */
-.people-section{
-  padding: 1rem 0 .5rem;
-  text-align: center;
-}
+/* ===== Sections ===== */
+.people-section{ padding: 1rem 0 .5rem; text-align: center; }
 .people-section + .people-section{ margin-top: .75rem; }
+.people-section h2{ font-size: 1.4rem; margin: .35rem 0 .7rem; font-weight: 700; }
 
-.people-section h2{
-  font-size: 1.4rem;          /* between previous big and small */
-  margin: .35rem 0 .7rem;
-  font-weight: 700;
-}
-
-/* Grid */
+/* ===== Grid ===== */
 .people-grid{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* 200px cards */
-  gap: 1rem 1.1rem;           /* row/col gaps */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem 1.1rem;
   justify-items: center;
   align-items: start;
 }
 
-/* Card */
+/* ===== Cards ===== */
 .person-card{
   width: 200px;
   display: flex; flex-direction: column; align-items: center;
   text-align: center;
   font-size: .9rem;
 }
-
-/* Image */
 .person-card img{
   width: 200px; height: 200px;
   border-radius: 10px; object-fit: cover;
   background: #f3f4f6; margin-bottom: .4rem;
 }
-
-/* Name */
 .person-card h3{
-  font-size: .98rem;
-  font-weight: 600;
-  margin: .18rem 0;
-  line-height: 1.18;
+  font-size: .98rem; font-weight: 600;
+  margin: .18rem 0; line-height: 1.18;
   word-wrap: break-word;
 }
-
-/* Role/notes */
 .person-card p{ margin: .15rem 0 0; }
 
-/* Alumni tables */
+/* ===== Alumni tables ===== */
 .alumni-table{
-  width: 100%;
-  border-collapse: collapse;
-  margin: .6rem 0 1.6rem;
-  font-size: .9rem;
+  width: 100%; border-collapse: collapse;
+  margin: .6rem 0 1.6rem; font-size: .9rem;
 }
 .alumni-table th, .alumni-table td{
   border-bottom: 1px solid #e5e7eb;
   padding: .5rem .7rem; text-align: left; vertical-align: top;
 }
 .alumni-table th{ font-weight: 700; }
-.alumni-group{
-  margin: 1.1rem 0 .5rem;
-  font-size: 1.05rem; font-weight: 600;
-}
+.alumni-group{ margin: 1.1rem 0 .5rem; font-size: 1.05rem; font-weight: 600; }
 </style>
 
 <div class="people-wrap">
