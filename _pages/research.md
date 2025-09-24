@@ -29,11 +29,30 @@ permalink: /research/
 
   <!-- ===== GRID (not clickable) ===== -->
   <section class="rb-grid">
-    <div class="rb-card"><div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Assistive_Robotics.JPG" alt="Assistive Robotics & Biomechanics"></div><h3>Assistive Robotics &amp; Biomechanics</h3></div>
-    <div class="rb-card"><div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Control_Estimation.JPG" alt="Control & Estimation"></div><h3>Control &amp; Estimation</h3></div>
-    <div class="rb-card"><div class="rb-img"><img src="{{ site.baseurl }}/assets/images/hardware.JPG" alt="Hardware"></div><h3>Hardware</h3></div>
-    <div class="rb-card"><div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Imitation_Learning.JPG" alt="Imitation Learning"></div><h3>Imitation Learning</h3></div>
-    <div class="rb-card"><div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Perception_for_manipulation.JPG" alt="Perception for Manipulation"></div><h3>Perception for Manipulation</h3></div>
+    <div class="rb-card">
+      <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Assistive_Robotics.JPG" alt="Assistive Robotics & Biomechanics"></div>
+      <h3>Assistive Robotics &amp; Biomechanics</h3>
+    </div>
+
+    <div class="rb-card">
+      <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Control_Estimation.JPG" alt="Control & Estimation"></div>
+      <h3>Control &amp; Estimation</h3>
+    </div>
+
+    <div class="rb-card">
+      <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/hardware.JPG" alt="Hardware"></div>
+      <h3>Hardware</h3>
+    </div>
+
+    <div class="rb-card">
+      <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Imitation_Learning.JPG" alt="Imitation Learning"></div>
+      <h3>Imitation Learning</h3>
+    </div>
+
+    <div class="rb-card">
+      <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Perception_for_manipulation.JPG" alt="Perception for Manipulation"></div>
+      <h3>Perception for Manipulation</h3>
+    </div>
   </section>
 </section>
 
@@ -47,16 +66,31 @@ permalink: /research/
 /* keep theme spacing tight */
 .main .page__content{padding-top:0.35rem;}
 
-/* ===== Centered wrapper ===== */
+/* ===== Centered wrapper (matches publication page) ===== */
 .research-wrap{
-  width: min(96vw, 1120px);  /* center and constrain */
-  margin: 0 auto 1.5rem;
-  padding: 0 16px;           /* small side gutter */
+  width: min(96vw, 1400px);     /* wider content area */
+  margin: 0 auto 1.5rem;        /* centered by default */
+  padding: 0 16px;
+}
+
+/* Desktop-only nudge for ultra-wide screens to align with header */
+@media (min-width:1500px){
+  .research-wrap{
+    margin-left: -380px;        /* tweak to visually align */
+    margin-right: auto;
+  }
+}
+/* Re-center below 1500px */
+@media (max-width:1499.98px){
+  .research-wrap{
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 /* ===== Intro ===== */
 .rb-intro{
-  width: 100%;               /* text spans full wrapper width */
+  width: 100%;
   text-align: justify;
   text-justify: inter-word;
 }
