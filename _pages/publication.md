@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /publication/
+permalink: /publications/
 ---
 
 <!-- ===== Wide, centered content band ===== -->
