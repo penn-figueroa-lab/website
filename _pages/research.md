@@ -114,7 +114,7 @@ permalink: /research/
   grid-template-columns: repeat(3, minmax(280px, 1fr));
   justify-items:center;
 }
-@media (max-width: 1000px){
+@media (max-width: 800px){
   .rb-grid{ grid-template-columns: repeat(2, minmax(260px, 1fr)); }
 }
 @media (max-width: 680px){
