@@ -1,5 +1,5 @@
 ---
 layout: single
-title: ""
-permalink: /Joining/
+title: "Joining"
+permalink: /joining/
 ---
