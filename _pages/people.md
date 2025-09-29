@@ -166,7 +166,7 @@ permalink: /people/
       <div class="person-card">   
         <a href="https://zizhe.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/zizhe_zhang.JPG" alt="Zizhe Zhang"></a>
         <a href="https://zizhe.io/" target="_blank" rel="noopener"><h3>Zizhe Zhang</h3></a>
-        <p>M.S. ESE/Robotics, 2026<br>2024–present<br><em>Research Intern Spring-Fall 2025</em></p>
+        <p>M.S. Robotics, 2026<br>2024–present<br><em>Research Intern Spring-Fall 2025</em></p>
       </div>
       <div class="person-card">   
         <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/jason_chen.JPG" alt="Jason Chen"></a>
