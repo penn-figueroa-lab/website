@@ -78,7 +78,7 @@ permalink: /research/
 /* Ultra-wide manual nudge (adjust -400px as needed to match header alignment) */
 @media (min-width: 1500px){
   .research-wrap{
-    margin-left: -400px;   /* manual left shift */
+    margin-left: -300px;   /* manual left shift */
     margin-right: auto;
   }
 }
