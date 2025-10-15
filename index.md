@@ -22,7 +22,7 @@ permalink: /
     <img src="{{ '/assets/images/lab-pictures/IMG_4075.JPG' | relative_url }}" alt="Lab photo 2" class="hs-slide">
     <img src="{{ '/assets/images/lab-trips/girls_icra_2025.jpg' | relative_url }}" alt="Lab trip icra 2024 2" class="hs-slide">
     <img src="{{ '/assets/images/lab-pictures/IMG_4115.JPG' | relative_url }}" alt="Lab photo 3" class="hs-slide">
-    <img src="{{ '/assets/images/lab-trips/lab_rss_2025.jpg' | relative_url }}" alt="Lab trip icra 2024 2" class="hs-slide">
+    <img src="{{ '/assets/images/lab-trips/lab_rss_2025.JPG' | relative_url }}" alt="Lab trip rss 2025" class="hs-slide">
   </div>
 
   <button class="hs-nav hs-next" aria-label="Next slide">›</button>
