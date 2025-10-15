@@ -36,7 +36,7 @@ permalink: /
 </div> 
 
 <div class="hero-subtext"> 
-  <p style="font-size: 20px;"> Our research has been supported by
+  <p style="font-size: 20px;"> Research Sponsors
       <p align="center">
       <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" style="width:25%; max-width:860px;">
       <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" style="width:60%; max-width:860px;">
