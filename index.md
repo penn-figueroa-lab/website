@@ -16,9 +16,13 @@ permalink: /
   <button class="hs-nav hs-prev" aria-label="Previous slide">‹</button>
 
   <div class="hs-track" role="region" aria-live="polite">
-    <img src="{{ '/assets/images/IMG_4148.JPG' | relative_url }}" alt="Lab photo 1" class="hs-slide hs-current">
-    <img src="{{ '/assets/images/IMG_4075.JPG' | relative_url }}" alt="Lab photo 2" class="hs-slide">
-    <img src="{{ '/assets/images/IMG_4115.JPG' | relative_url }}" alt="Lab photo 3" class="hs-slide">
+    <img src="{{ '/assets/images/lab-pictures/IMG_4148.JPG' | relative_url }}" alt="Lab photo 1" class="hs-slide hs-current">
+    <img src="{{ '/assets/images/lab-trips/lab_icra_2024.jpg' | relative_url }}" alt="Lab trip icra 2024 1" class="hs-slide">
+    <img src="{{ '/assets/images/lab-trips/lab_icra_lunch_2024.jpg' | relative_url }}" alt="Lab trip icra 2024 2" class="hs-slide">
+    <img src="{{ '/assets/images/lab-pictures/IMG_4075.JPG' | relative_url }}" alt="Lab photo 2" class="hs-slide">
+    <img src="{{ '/assets/images/lab-trips/girls_icra_2025.jpg' | relative_url }}" alt="Lab trip icra 2024 2" class="hs-slide">
+    <img src="{{ '/assets/images/lab-pictures/IMG_4115.JPG' | relative_url }}" alt="Lab photo 3" class="hs-slide">
+    <img src="{{ '/assets/images/lab-trips/lab_rss_2025.jpg' | relative_url }}" alt="Lab trip icra 2024 2" class="hs-slide">
   </div>
 
   <button class="hs-nav hs-next" aria-label="Next slide">›</button>
@@ -34,8 +38,8 @@ permalink: /
 <div class="hero-subtext"> 
   <p style="font-size: 20px;"> Our research has been supported by
       <p align="center">
-      <img src="{{ site.baseurl }}/assets/images/NSF_logo.png" style="width:25%; max-width:860px;">
-      <img src="{{ site.baseurl }}/assets/images/Penn-ASSET1-Logo.png" style="width:60%; max-width:860px;">
+      <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" style="width:25%; max-width:860px;">
+      <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" style="width:60%; max-width:860px;">
     </p>
   </p>
 </div> 
