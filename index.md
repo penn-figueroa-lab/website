@@ -34,8 +34,8 @@ permalink: /
 <div class="hero-subtext"> 
   <p style="font-size: 20px;"> Our research has been supported by
       <p align="center">
-      <img src="{{ site.baseurl }}/assets/images/NSF_logo.png" style="width:30%; max-width:860px;">
-      <img src="{{ site.baseurl }}/assets/images/Penn-ASSET1-Logo.png" style="width:50%; max-width:860px;">
+      <img src="{{ site.baseurl }}/assets/images/NSF_logo.png" style="width:25%; max-width:860px;">
+      <img src="{{ site.baseurl }}/assets/images/Penn-ASSET1-Logo.png" style="width:60%; max-width:860px;">
     </p>
   </p>
 </div> 
