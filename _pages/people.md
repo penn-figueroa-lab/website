@@ -24,7 +24,7 @@ permalink: /people/
 @media (min-width:1200px){
   .people-wrap{ margin-left: -380px; margin-right: auto; }
 }
-@media (max-width:1499.98px){
+@media (max-width:1199.98px){
   .people-wrap{ margin-left: auto; margin-right: auto; }
 }
 
