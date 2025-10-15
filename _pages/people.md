@@ -21,10 +21,10 @@ permalink: /people/
   padding: 0 16px;             /* small gutter */
 }
 /* Ultra-wide screens: subtle left nudge for alignment with header */
-@media (min-width:1200px){
+@media (min-width:1400px){
   .people-wrap{ margin-left: -380px; margin-right: auto; }
 }
-@media (max-width:1199.98px){
+@media (max-width:1399.98px){
   .people-wrap{ margin-left: auto; margin-right: auto; }
 }
 
