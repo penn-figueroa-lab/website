@@ -21,7 +21,7 @@ permalink: /people/
   padding: 0 16px;             /* small gutter */
 }
 /* Ultra-wide screens: subtle left nudge for alignment with header */
-@media (min-width:1500px){
+@media (min-width:1200px){
   .people-wrap{ margin-left: -380px; margin-right: auto; }
 }
 @media (max-width:1499.98px){
