@@ -55,7 +55,7 @@ permalink: /
   overflow: hidden;
   background: #f2f2f2;
 }
-.hero-slider.fullbleed{
+.hero-slider.fullbleed {
   width: 100vw;
   max-width: 100vw;
   margin-left: 50%;
@@ -75,7 +75,7 @@ permalink: /
   display: block;
   height: auto;
   object-fit: contain;
-  max-height: 75vh;
+  max-height: 65vh;
 }
 
 /* ---------- Overlay Title ---------- */
