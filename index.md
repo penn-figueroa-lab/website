@@ -53,7 +53,7 @@ permalink: /
 .hero-slider{
   position: relative;
   overflow: hidden;
-  background: #f2f2f2;
+  background: #fff;
 }
 .hero-slider.fullbleed {
   width: 100vw;
@@ -91,8 +91,8 @@ permalink: /
   justify-items: center;
   padding-bottom: 30px;
 }
-.hero-title h1{
-  margin: 0;
+.hero-title h1 {
+  margin: 0 auto;
   color: #fff;
   font-weight: 800;
   font-size: clamp(22px, 2.6vw + 6px, 42px);
@@ -101,10 +101,15 @@ permalink: /
   text-shadow:
     0 2px 5px rgba(0,0,0,0.45),
     0 1px 2px rgba(0,0,0,0.35);
+  max-width: 80%;          /* ✅ limit width to 80% of slider */
 }
+
+/* slightly tighter on mobile */
 @media (max-width: 340px){
-  .hero-title h1{ font-size: clamp(18px, 4.5vw + 6px, 32px); }
-}
+  .hero-title h1 {
+    font-size: clamp(18px, 4.5vw + 6px, 32px);
+    max-width: 90%;
+  }
 
 /* ---------- Sub-heading under slider ---------- */
 .hero-subtext{
