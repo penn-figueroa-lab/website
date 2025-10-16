@@ -75,7 +75,7 @@ permalink: /
   display: block;
   height: auto;
   object-fit: contain;
-  max-height: 65vh;
+  max-height: 70vh;
 }
 
 /* ---------- Overlay Title ---------- */
@@ -102,7 +102,7 @@ permalink: /
     0 2px 5px rgba(0,0,0,0.45),
     0 1px 2px rgba(0,0,0,0.35);
 }
-@media (max-width: 360px){
+@media (max-width: 340px){
   .hero-title h1{ font-size: clamp(18px, 4.5vw + 6px, 32px); }
 }
 
