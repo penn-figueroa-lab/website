@@ -33,7 +33,7 @@ permalink: /
 <div class="hero-subtext"> 
   <p style="font-size: 20px;"> <b> Established in Fall 2022.</b> We are a group within the Penn Engineering
   <a href="https://www.grasp.upenn.edu/" target="_blank" rel="noopener">GRASP Lab</a>.</p>
-  <p style="font-size: 20px;"> We are building the next-generation of <p style="color: red;">human-centered robotic intelligence</p> through novel estimation, learning and control algorithms that are efficient, reliable, adaptive and safe.</p>
+  <p style="font-size: 20px;"> We are building the next-generation of <b style="color: red;">human-centered robotic intelligence</b> through novel estimation, learning and control algorithms that are efficient, reliable, adaptive and safe.</p>
   
 </div> 
 
