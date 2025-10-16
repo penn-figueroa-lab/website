@@ -36,7 +36,7 @@ permalink: /
 </div> 
 
 <div class="hero-subtext"> 
-  <p style="font-size: 20px;"> We develop the next-generation of human-centered robotic intelligence through novel estimation, learning and control algorithms that are reliable, adaptive and safe. Our research has been sponsored by:
+  <p style="font-size: 20px;"> We are building the next-generation of human-centered robotic intelligence through novel estimation, learning and control algorithms that are efficient, reliable, adaptive and safe. Our research has been sponsored by:
       <p align="center">
       <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" style="width:25%; max-width:860px;">
       <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" style="width:60%; max-width:860px;">
