@@ -191,6 +191,77 @@ permalink: /
 .page__footer-follow .social-icons .fa-rss{
   display:none !important;
 }
+
+
+
+/* ===== Anchor slider UI to a centered max width ===== */
+.hero-slider{
+  --slide-max: 1200px;              /* adjust to your preferred content width */
+  position: relative;
+  background: #fff;                 /* keep white background */
+}
+
+/* Constrain the overlay title and the track/dots to the same center width */
+.hero-slider .hero-title,
+.hero-slider .hs-track,
+.hero-slider .hs-dots{
+  max-width: var(--slide-max);
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+/* Keep images slightly smaller if you like */
+.hs-slide{
+  max-height: 68vh;                 /* tweak 60–70vh as desired */
+  object-fit: contain;
+}
+
+/* ===== Nav buttons: center vertically and hug the image edges (not the viewport) ===== */
+.hs-nav{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 1.5px solid rgba(0,0,0,0.25);
+  background: rgba(255,255,255,0.9);
+  color: #333;
+  width: 42px; height: 42px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 22px; line-height: 38px; text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  z-index: 4;
+  transition: all .25s ease;
+}
+
+/* ⚓ Position relative to centered content box */
+.hs-prev{ left: calc(50% - (var(--slide-max) / 2) + 16px); }
+.hs-next{ right: calc(50% - (var(--slide-max) / 2) + 16px); }
+
+.hs-nav:hover{
+  background:#fff; border-color: rgba(0,0,0,0.4);
+  transform: translateY(-50%) scale(1.05);
+}
+
+/* Dots: keep centered under the constrained width */
+.hs-dots{
+  left: 50%;
+  bottom: 14px;
+  transform: translateX(-50%);
+  display: flex; gap: 8px; z-index: 4;
+}
+
+/* Title: keep it narrower so it doesn’t span edge-to-edge */
+.hero-title h1{
+  max-width: 80%;
+  margin: 0 auto;
+}
+@media (max-width: 640px){
+  .hero-title h1{ max-width: 90%; }
+  .hs-prev{ left: 12px; }           /* tuck arrows in a bit on small screens */
+  .hs-next{ right: 12px; }
+}
+
 </style>
 
 <script>
