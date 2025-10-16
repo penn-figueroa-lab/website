@@ -129,41 +129,57 @@ permalink: /
 .hero-subtext a:hover{ text-decoration: underline; }
 
 /* ---------- Controls & dots ---------- */
-.hs-nav{
+.hs-nav {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  border: none;
-  background: rgba(0,0,0,0.5);
-  color:#fff;
-  width: 40px;
-  height: 40px;
+  border: 1.5px solid rgba(0,0,0,0.25); /* ✅ subtle border for visibility on white */
+  background: rgba(255,255,255,0.85);   /* ✅ light white background */
+  color: #333;                          /* ✅ dark arrow for white background */
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 22px;
+  line-height: 38px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   z-index: 4;
+  transition: all 0.25s ease;
 }
-.hs-prev{ left: 14px; }
-.hs-next{ right: 14px; }
 
-.hs-dots{
+.hs-nav:hover {
+  background: #fff;
+  border-color: rgba(0,0,0,0.4);
+  transform: translateY(-50%) scale(1.05);
+}
+
+/* ✅ bring buttons slightly inward */
+.hs-prev { left: 24px; }
+.hs-next { right: 24px; }
+
+/* ---------- Dots ---------- */
+.hs-dots {
   position: absolute;
   left: 50%;
-  bottom: 12px;
+  bottom: 14px;
   transform: translateX(-50%);
   display: flex;
-  gap: 6px;
+  gap: 8px;
   z-index: 4;
 }
-.hs-dots button{
+.hs-dots button {
   width: 10px;
   height: 10px;
   border-radius: 50%;
   border: none;
-  background: rgba(255,255,255,0.4);
+  background: rgba(0,0,0,0.25);
   cursor: pointer;
 }
-.hs-dots button[aria-selected="true"]{ background:#fff; }
+.hs-dots button[aria-selected="true"] {
+  background: #000;
+}
+
 
 /* Remove extra top padding under theme container */
 .main .page__content { padding-top: 0; }
