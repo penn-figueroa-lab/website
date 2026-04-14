@@ -248,7 +248,7 @@ permalink: /people/
         <tr><td>George [Jiayuan] Gao</td><td>M.S. Robotics, 2025</td><td>2025</td><td>Research Engineer at Dyna Robotics</td></tr>
         <tr><td>Yi-Hsuan Cheng</td><td>M.S. Robotics, 2025</td><td>2025</td><td>ML-AI Robotics Engineer at RoboForce</td></tr>
         <tr><td>Davin Tjandra</td><td>M.S. MEAM, 2025</td><td>2025</td><td>Robotics Software Engineer at Intrinsic (Google)</td></tr>
-        <tr><td>Shaoting Peng</td><td>M.S. Robotics, 2024</td><td>2022-2024</td><td>hD candidate at UIUC</td></tr>
+        <tr><td>Shaoting Peng</td><td>M.S. Robotics, 2024</td><td>2022-2024</td><td>PhD candidate at UIUC</td></tr>
         <tr><td>Harshil Parekh</td><td>M.S. Robotics, 2023</td><td>2022–2024</td><td>Robotics Software Engineer at BotBuilt</td></tr>
       </tbody>
     </table>
