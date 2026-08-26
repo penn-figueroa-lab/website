@@ -40,11 +40,14 @@ permalink: /
 <div class="hero-subtext"> 
   <p style="font-size: 20px;"> Our research has been sponsored by:
       <p align="center">
-      <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" style="width:25%; max-width:860px;">
-      <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" style="width:60%; max-width:860px;">
+      <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" style="width:15%; max-width:860px;">
+      <img src="{{ site.baseurl }}/assets/images/funding-logos/nih-logo.png" style="width:22%; max-width:860px;">
+      <img src="{{ site.baseurl }}/assets/images/funding-logos/Stacked-Full-Color-on-Light.png" style="width:15%; max-width:860px;">
+      <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" style="width:35%; max-width:860px;">
     </p>
   </p>
-</div> 
+</div>
+
 
 
 
