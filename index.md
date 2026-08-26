@@ -129,17 +129,20 @@ permalink: /
 }
 .funding-logos-row{
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   align-items: center;
   justify-content: center;
-  gap: 2rem 2.5rem;
+  gap: 1rem 1.5rem;
   padding: 0.5rem 0;
+  width: 100%;
 }
 .funding-logos-row img{
-  height: clamp(56px, 8vw, 90px);
+  height: auto;
   width: auto;
-  max-width: 260px;
+  max-height: clamp(32px, 8vw, 70px);
+  max-width: 22%;
   object-fit: contain;
+  flex: 0 1 auto;
 }
 
 /* ---------- Controls & dots ---------- */
