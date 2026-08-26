@@ -37,17 +37,15 @@ permalink: /
   
 </div> 
 
-<div class="hero-subtext"> 
-  <p style="font-size: 20px;"> Our research has been sponsored by:
-      <p align="center">
-      <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" style="width:15%; max-width:860px;">
-      <img src="{{ site.baseurl }}/assets/images/funding-logos/nih-logo.png" style="width:22%; max-width:860px;">
-      <img src="{{ site.baseurl }}/assets/images/funding-logos/Stacked-Full-Color-on-Light.png" style="width:15%; max-width:860px;">
-      <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" style="width:35%; max-width:860px;">
-    </p>
+<div class="hero-subtext funding-logos"> 
+  <p style="font-size: 20px;"> Our research has been sponsored by:</p>
+  <p align="center">
+    <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" style="width:22%; max-width:1200px;">
+    <img src="{{ site.baseurl }}/assets/images/funding-logos/nih-logo.png" style="width:32%; max-width:1200px;">
+    <img src="{{ site.baseurl }}/assets/images/funding-logos/Stacked-Full-Color-on-Light.png" style="width:22%; max-width:1200px;">
+    <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" style="width:50%; max-width:1200px;">
   </p>
-</div>
-
+</div> 
 
 
 
@@ -125,6 +123,10 @@ permalink: /
   text-decoration: none;
 }
 .hero-subtext a:hover{ text-decoration: underline; }
+
+.hero-subtext.funding-logos{
+  max-width: 1400px;
+}
 
 /* ---------- Controls & dots ---------- */
 .hs-nav{
@@ -228,4 +230,4 @@ permalink: /
     ? document.addEventListener('DOMContentLoaded', init)
     : init();
 })();
-</script> 
+</script>
