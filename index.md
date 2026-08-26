@@ -136,9 +136,10 @@ permalink: /
   padding: 0.5rem 0;
 }
 .funding-logos-row img{
-  height: clamp(48px, 7vw, 90px);
+  height: clamp(56px, 8vw, 90px);
   width: auto;
-  max-width: 100%;
+  max-width: 260px;
+  object-fit: contain;
 }
 
 /* ---------- Controls & dots ---------- */
