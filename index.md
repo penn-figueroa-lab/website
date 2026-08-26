@@ -39,12 +39,12 @@ permalink: /
 
 <div class="hero-subtext funding-logos"> 
   <p style="font-size: 20px;"> Our research has been sponsored by:</p>
-  <p align="center">
-    <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" style="width:22%; max-width:1200px;">
-    <img src="{{ site.baseurl }}/assets/images/funding-logos/nih-logo.png" style="width:32%; max-width:1200px;">
-    <img src="{{ site.baseurl }}/assets/images/funding-logos/Stacked-Full-Color-on-Light.png" style="width:22%; max-width:1200px;">
-    <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" style="width:50%; max-width:1200px;">
-  </p>
+  <div class="funding-logos-row">
+    <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" alt="National Science Foundation">
+    <img src="{{ site.baseurl }}/assets/images/funding-logos/nih-logo.png" alt="National Institutes of Health">
+    <img src="{{ site.baseurl }}/assets/images/funding-logos/Stacked-Full-Color-on-Light.png" alt="U.S. Department of Veterans Affairs">
+    <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" alt="Penn Engineering ASSET Center">
+  </div>
 </div> 
 
 
@@ -125,7 +125,26 @@ permalink: /
 .hero-subtext a:hover{ text-decoration: underline; }
 
 .hero-subtext.funding-logos{
-  max-width: 1400px;
+  max-width: 1500px;
+}
+.funding-logos-row{
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  overflow-x: auto;
+  padding: 0.5rem 0;
+}
+.funding-logos-row img{
+  height: 90px;
+  width: auto;
+  max-width: none;
+  flex: 0 0 auto;
+}
+@media (max-width: 900px){
+  .funding-logos-row{ flex-wrap: wrap; overflow-x: visible; }
+  .funding-logos-row img{ height: 60px; }
 }
 
 /* ---------- Controls & dots ---------- */
