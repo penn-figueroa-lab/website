@@ -38,7 +38,7 @@ permalink: /
 </div> 
 
 <div class="hero-subtext funding-logos"> 
-  <p style="font-size: 20px;"> Our research has been sponsored by:</p>
+  <p style="font-size: 20px;"> We are grateful to our research sponsors.:</p>
   <div class="funding-logos-row">
     <img src="{{ site.baseurl }}/assets/images/funding-logos/NSF_logo.png" alt="National Science Foundation">
     <img src="{{ site.baseurl }}/assets/images/funding-logos/nih-symbol.png" alt="National Institutes of Health">
