@@ -55,7 +55,32 @@ permalink: /
   </div>
 </div> 
 
+<!-- ===== NEWS SECTION =====
+     To add a new item: copy one <div class="news-item">...</div> block and
+     paste it right after this comment, at the top of .news-list, so the
+     newest news stays first. -->
+<div class="news-wrap">
+  <h2 class="news-heading">Latest News</h2>
+  <div class="news-list">
 
+    <div class="news-item">
+      <div class="news-date">Aug 2026</div>
+      <div class="news-body">
+        <div class="news-title">Zero-Shot Generalization paper named CASE 2026 Best Conference Paper Finalist</div>
+        <p>Congratulations to Lukas Freitag, Alvin Combrink, and Prof. Figueroa on their paper being selected as a finalist for the Best Conference Paper Award at IEEE CASE 2026 in Shenyang, China.</p>
+      </div>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">May 2026</div>
+      <div class="news-body">
+        <div class="news-title">Two Best Paper Awards at ICRA 2026</div>
+        <p>SymSkill won both the <b>Best Paper Award in Planning and Control</b> and the overall <b>Best Conference Paper Award</b> at IEEE ICRA 2026 in Vienna, Austria &mdash; congratulations to the team!</p>
+      </div>
+    </div>
+
+  </div>
+</div>
 
 <style>
 /* ---------- Slider ---------- */
@@ -151,6 +176,58 @@ permalink: /
   max-width: 22%;
   object-fit: contain;
   flex: 0 1 auto;
+}
+
+/* ---------- News section ---------- */
+.news-wrap{
+  max-width: 900px;
+  margin: 2.2rem auto 1.5rem;
+  padding: 0 0.8rem;
+}
+.news-heading{
+  text-align: center;
+  margin: 0 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #222;
+  font-weight: 800;
+  font-size: clamp(1.1rem, 1vw + .8rem, 1.5rem);
+}
+.news-list{
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+.news-item{
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 1rem;
+  text-align: left;
+}
+.news-date{
+  font-weight: 700;
+  color: #555;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  padding-top: 0.15rem;
+}
+.news-title{
+  font-weight: 700;
+  font-size: 1rem;
+  color: #1a1a1a;
+  margin-bottom: 0.2rem;
+}
+.news-body p{
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: #333;
+}
+@media (max-width: 560px){
+  .news-item{
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
+  .news-date{ font-size: 0.82rem; }
 }
 
 /* ---------- Controls & dots ---------- */
