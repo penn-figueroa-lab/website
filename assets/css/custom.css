@@ -19,9 +19,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #1a1a1a;       /* usually a bit darker than body text */
 }
-h1 { font-size: 1.8rem; }
-h2 { font-size: 1.4rem; }
-h3 { font-size: 1.15rem; }
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.15rem; }
+h3 { font-size: 1rem; }
 
 /* 3) BODY PARAGRAPHS — the actual page content text (research
       statement, page__content areas). */
