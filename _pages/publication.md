@@ -11,6 +11,36 @@ permalink: /publications/
   <div class="pub-list">
 
     <div class="pub-entry">
+      <div class="pub-title">KGripper: A Push-On Twist-Off Passive Perching Mechanism</div>
+      <div class="pub-authors">Weakly, J., Gong, V., Kang, T., Li, T., Figueroa, N. and Sung, C.</div>
+      <div class="pub-venue"><em>ASME Journal of Mechanisms and Robotics</em>, 18(8):081005, August 2026</div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Surviving the Paper Deluge: A One-Year Study in Learning From Demonstration [Science and Technology Watch]</div>
+      <div class="pub-authors">Billard, A., Detry, R., Figueroa, N., Foriest, M., Lee, D. and Yao, K.</div>
+      <div class="pub-venue"><em>IEEE Robotics &amp; Automation Magazine</em>, 33(2):205&ndash;211, June 2026</div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control</div>
+      <div class="pub-authors">Xue, Y.*, Zhang, Z.*, Åkesson, K. and Figueroa, N.</div>
+      <div class="pub-venue"><em>IEEE Robotics and Automation Letters</em>, 11(4):5096&ndash;5103, April 2026</div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">COMETH: Convex Optimization for Multi-view Estimation and Tracking of Humans</div>
+      <div class="pub-authors">Martini, E., Choi, H., Figueroa, N. and Bombieri, N.</div>
+      <div class="pub-venue"><em>Expert Systems With Applications</em>, February 2026</div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">WiRA: Reshaping Recognition in Robotics and Automation for Gender Equity [Women in Engineering]</div>
+      <div class="pub-authors">Psomopoulou, E., Figueroa, N. and Chalvatzaki, G.</div>
+      <div class="pub-venue"><em>IEEE Robotics &amp; Automation Magazine</em>, 32(4):118&ndash;120, Dec. 2025</div>
+    </div>
+
+    <div class="pub-entry">
       <div class="pub-title">Directionality-Aware Mixture Model Parallel Sampling for Efficient Linear Parameter Varying Dynamical System Learning</div>
       <div class="pub-authors">Sun, S., Gao, H., Li, T. and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE Robotics and Automation Letters (RA-L)</em>, 9(7):6248&ndash;6255, 2024 <a class="pub-link" href="https://ieeexplore.ieee.org/document/10530930" target="_blank" rel="noopener">[Link]</a></div>
@@ -50,6 +80,54 @@ permalink: /publications/
 
   <h2 class="pub-heading">Peer-Reviewed Conference Proceedings</h2>
   <div class="pub-list">
+
+    <div class="pub-entry">
+      <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
+      <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
+      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China <span class="pub-note">To be presented. Finalist for CASE 2026 Best Conference Paper.</span></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">N3P: Accelerated Automated Parking via a Learning-Based Naturalistic Three-Stage Scheme</div>
+      <div class="pub-authors">Xue, Y.*, Mohammadnejad, T., Tariq, F.M., Bae, S., Isele, D., Sakamoto, Y., Figueroa, N. and D&rsquo;sa, J.</div>
+      <div class="pub-venue"><em>IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)</em> <span class="pub-note">To be presented.</span></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Viability-Preserving Passive Torque Control</div>
+      <div class="pub-authors">Zhang, Z., Wang, Y., Zhang, Z., Li, T. and Figueroa, N.</div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria</div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data</div>
+      <div class="pub-authors">Li, T., Li, Y., Zhang, Z. and Figueroa, N.</div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria</div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation</div>
+      <div class="pub-authors">Shao, Y., Zheng, Y., Sun, S., Chaudhari, P., Kumar, V., and Figueroa, N.</div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <span class="pub-note">Winner of ICRA 2026 Best Paper Award in Planning and Control and Best Conference Paper Award.</span></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Occupancy-Aware Trajectory Planning for Autonomous Valet Parking in Uncertain Dynamic Environments</div>
+      <div class="pub-authors">Nawaz, F., Sung, M., Gadginmath, D., D&rsquo;sa, J., Bae, S., Isele, D., Figueroa, N., Matni, N. and Tariq, F.M.</div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria</div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">VLMgineer: Vision Language Models as Robotic Toolsmiths</div>
+      <div class="pub-authors">Gao, G.*, Li, T.*, Shi, J., Li, Y., Zhang, Z., Figueroa, N. and Jayaraman, D.</div>
+      <div class="pub-venue"><em>Fourteenth International Conference on Learning Representations (ICLR)</em>, 2026, Rio de Janeiro, Brazil</div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">RNBF: Real-Time RGB-D Based Neural Barrier Functions for Safe Robotic Navigation</div>
+      <div class="pub-authors">Das, S., Xue, Y., Li, H. and Figueroa, N.</div>
+      <div class="pub-venue"><em>18th IEEE/SICE Symposium on System Integration (SII)</em>, 2026, Cancun, Mexico</div>
+    </div>
 
     <div class="pub-entry">
       <div class="pub-title">Rapid Mismatch Estimation via Neural Network Informed Variational Inference</div>
@@ -175,11 +253,32 @@ permalink: /publications/
   display:none !important;
 }
 
-/* Keep the content nicely centered and wide */
+/* tighten theme spacing */
+.main .page__content{ padding-top:0.35rem; }
+
+/* ===== Centered wrapper with bigger side margins =====
+   Matches the /research/ page: narrower width for larger side gutters,
+   with the same manual left shift on very wide screens to line up
+   with the site header. */
 .pub-wrap{
-  width: min(96vw, 1000px);
-  margin: 0 auto 1.6rem;
-  padding: 0 0.75rem;
+  width: min(82vw, 1100px);
+  margin: 0 auto 1.5rem;
+  padding: 0 12px;
+}
+
+/* Ultra-wide manual nudge (same as /research/) */
+@media (min-width: 1500px){
+  .pub-wrap{
+    margin-left: -300px;
+    margin-right: auto;
+  }
+}
+/* Re-center below that breakpoint */
+@media (max-width: 1499.98px){
+  .pub-wrap{
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 /* Section headings */
