@@ -38,3 +38,32 @@ body,
 .page__footer-follow .social-icons .fa-rss {
   display: none !important;
 }
+
+/* ===== Shrink the top navigation bar (masthead) =====
+   Minimal Mistakes' default masthead uses 1em padding on the wrapper
+   and 1em padding per nav link, plus a fairly large site-title font.
+   These overrides tighten all three so the header takes less vertical
+   space. Adjust the em/rem values below to taste. */
+.masthead__inner-wrap {
+  padding: 0.25em 1em;
+  min-height: 0;
+}
+
+.masthead .site-title {
+  font-size: 1rem;
+  line-height: 1.1;
+}
+
+.greedy-nav a {
+  padding: 0.35em 0.75em;
+  font-size: 0.85rem;
+}
+
+.greedy-nav .visible-links a {
+  padding-top: 0.35em;
+  padding-bottom: 0.35em;
+}
+
+.greedy-nav button.greedy-nav__toggle {
+  padding: 0.35em;
+}
