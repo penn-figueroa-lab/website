@@ -300,7 +300,7 @@ permalink: /publications/
   margin-bottom: 0.6rem;
 }
 
-.pub-entry{ line-height: 1.5; }
+.pub-entry{ line-height: 1.5; text-align: center; }
 
 .pub-title{
   font-weight: 700;
