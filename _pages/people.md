@@ -313,7 +313,7 @@ permalink: /people/
         <tr><th>Name</th><th>Degree</th><th>Next position</th></tr>
       </thead>
       <tbody>
-        <tr><td>Jalaj Shukla</td><td>M.S. MEAM, 2025</td>><td>Co-founder of Intelligence Factory</td></tr>
+        <tr><td>Jalaj Shukla</td><td>M.S. MEAM, 2025</td><td>Co-founder of Intelligence Factory</td></tr>
          <tr><td>Davin Tjandra</td><td>M.S. MEAM, 2025</td><td>Robotics Software Engineer at Intrinsic (Google)</td></tr>       
         <tr><td>George [Jiayuan] Gao</td><td>M.S. Robotics, 2025</td><td>Research Engineer at Dyna Robotics</td></tr>
         <tr><td>Yi-Hsuan Cheng</td><td>M.S. Robotics, 2025</td><td>ML-AI Robotics Engineer at RoboForce</td></tr>
