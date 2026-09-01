@@ -310,15 +310,15 @@ permalink: /people/
     <div class="alumni-group">Research Engineers</div>
     <table class="alumni-table">
       <thead>
-        <tr><th>Name</th><th>Degree</th><th>Years</th><th>Next step / Notes</th></tr>
+        <tr><th>Name</th><th>Degree</th><th>Next position</th></tr>
       </thead>
       <tbody>
-        <tr><td>Jalaj Shukla</td><td>M.S. MEAM, 2025</td><td>2025</td><td>Senior Software Engineer at Blue Sky Robotics</td></tr>
-        <tr><td>George [Jiayuan] Gao</td><td>M.S. Robotics, 2025</td><td>2025</td><td>Research Engineer at Dyna Robotics</td></tr>
-        <tr><td>Yi-Hsuan Cheng</td><td>M.S. Robotics, 2025</td><td>2025</td><td>ML-AI Robotics Engineer at RoboForce</td></tr>
-        <tr><td>Davin Tjandra</td><td>M.S. MEAM, 2025</td><td>2025</td><td>Robotics Software Engineer at Intrinsic (Google)</td></tr>
-        <tr><td>Shaoting Peng</td><td>M.S. Robotics, 2024</td><td>2022-2024</td><td>PhD candidate at UIUC</td></tr>
-        <tr><td>Harshil Parekh</td><td>M.S. Robotics, 2023</td><td>2022–2024</td><td>Robotics Software Engineer at BotBuilt</td></tr>
+        <tr><td>Jalaj Shukla</td><td>M.S. MEAM, 2025</td>><td>Co-founder of Intelligence Factory</td></tr>
+         <tr><td>Davin Tjandra</td><td>M.S. MEAM, 2025</td><td>Robotics Software Engineer at Intrinsic (Google)</td></tr>       
+        <tr><td>George [Jiayuan] Gao</td><td>M.S. Robotics, 2025</td><td>Research Engineer at Dyna Robotics</td></tr>
+        <tr><td>Yi-Hsuan Cheng</td><td>M.S. Robotics, 2025</td><td>ML-AI Robotics Engineer at RoboForce</td></tr>
+        <tr><td>Shaoting Peng</td><td>M.S. Robotics, 2024</td><td>PhD student at UIUC</td></tr>
+        <tr><td>Harshil Parekh</td><td>M.S. Robotics, 2023</td><td>Robotics Software Engineer at BotBuilt</td></tr>
       </tbody>
     </table>
     <div class="alumni-group">Visiting Scholars</div>
@@ -334,49 +334,42 @@ permalink: /people/
     <div class="alumni-group">Master’s Thesis</div>
     <table class="alumni-table">
       <thead>
-        <tr><th>Name</th><th>Degree</th><th>Years</th><th>Thesis / Notes</th></tr>
+        <tr><th>Name</th><th>Degree</th><th>Thesis / Notes</th></tr>
       </thead>
       <tbody>
         <tr>
           <td>Paul [Sanghyub] Lee</td>
           <td>M.S. Robotics, 2025</td>
-          <td>2023–2025</td>
           <td>“Towards Real-Time Muscle Health Monitoring and Muscle-in-the-Loop Robotic Assistants via AI-Driven Wearable Ultrasound Processing”; now Ph.D. candidate in MEAM (Penn)</td>
         </tr>
         <tr>
           <td>George [Jiayuan] Gao</td>
           <td>M.S. Robotics, 2025</td>
-          <td>2024–2025</td>
           <td>“Visuomotor Object-Centric Out-Of-Distribution Recovery Policy”; <em>Outstanding Master’s Researcher Award in Robotics</em></td>
         </tr>
         <tr>
           <td>Ho Jin Choi</td>
           <td>M.S. MEAM, 2024</td>
-          <td>2022–2024</td>
           <td>“Gaussian Process-Based Active Exploration Strategies in Vision and Touch”; <em>Outstanding Master’s Researcher Award in MEAM</em>; Summer 2024 intern at MERL; now Ph.D. candidate in MEAM (Penn)</td>
         </tr>
         <tr>
           <td>Zhiquan Zhang</td>
           <td>M.S. ESE, 2024</td>
-          <td>2022–2024</td>
           <td>“Real-Time Safety-Critical Passive Torque Control with Analytic and Learning-based Constraints”; <em>Best Master’s Thesis in ESE</em>; now Ph.D. candidate at UIUC</td>
         </tr>
         <tr>
           <td>Haihui Gao</td>
           <td>M.S. ESE & MEAM, 2024</td>
-          <td>2022–2024</td>
           <td>“Advancing Dynamical Systems in Learning from Demonstration: A Novel Approach for Modeling Self-Crossing Trajectories”; now Ph.D. candidate at University of Montreal</td>
         </tr>
         <tr>
           <td>Satyajeet Das</td>
           <td>M.S. ESE, 2024</td>
-          <td>2023–2024</td>
           <td>“Towards Vision-based Safety: A Real-Time Approach for Generating Barrier Functions using Depth Sensors”; now Ph.D. candidate at USC (started Fall 2024)</td>
         </tr>
         <tr>
           <td>Haoming Li</td>
           <td>M.S. ESE, 2024</td>
-          <td>2023–2024</td>
           <td>“Towards Robust SLAM with Neural Implicit Representations”; Research Engineer at the University of Pennsylvania</td>
         </tr>
       </tbody>
