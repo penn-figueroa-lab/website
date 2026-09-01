@@ -110,12 +110,12 @@ permalink: /people/
 
   <!-- === PhD Students === -->
   <div class="people-section">
-    <h2>PhD Students</h2>
+    <h2>Ph.D. Students</h2>
     <div class="people-grid">
       <div class="person-card"><a href="http://imtianyuli.com/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/tianyu_li.JPG" alt="Tianyu Li"></a><a href="http://imtianyuli.com/" target="_blank" rel="noopener"><h3>Tianyu Li</h3></a><p>MEAM</p></div>
       <div class="person-card"><a href="https://www.linkedin.com/in/yifan-xue-523168178/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yifan_xue.JPG" alt="Yifan Xue"></a><a href="https://www.linkedin.com/in/yifan-xue-523168178/" target="_blank" rel="noopener"><h3>Yifan Xue</h3></a><p>MEAM</p></div>
-      <div class="person-card"><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/shafagh_keyvanian.jpg" alt="Shafagh Keyvanian"></a><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank" rel="noopener"><h3>Shafagh Keyvanian</h3></a><p>Co-advised with Michelle Johnson</p></div>
-      <div class="person-card"><a href="https://shaoyifei96.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/simon-800.jpg" alt="Yifei Simon Shao"></a><a href="https://shaoyifei96.github.io/" target="_blank" rel="noopener"><h3>Yifei Simon Shao</h3></a><p>CIS,<em>Close collaborator co-advised by V. Kumar & P. Chaudhari</em></p></div>
+      <div class="person-card"><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/shafagh_keyvanian.jpg" alt="Shafagh Keyvanian"></a><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank" rel="noopener"><h3>Shafagh Keyvanian</h3></a><p>MEAM, Co-advised with Michelle Johnson</p></div>
+      <div class="person-card"><a href="https://shaoyifei96.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/simon-800.jpg" alt="Yifei Simon Shao"></a><a href="https://shaoyifei96.github.io/" target="_blank" rel="noopener"><h3>Yifei Simon Shao</h3></a><p>CIS, Close collaborator co-advised by V. Kumar & P. Chaudhari</p></div>
       <!-- <div class="person-card"><a href="https://sites.google.com/view/farhad-nawaz" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/farhad_nawaz.JPG" alt="Farhad Nawaz"></a><a href="https://sites.google.com/view/farhad-nawaz" target="_blank" rel="noopener"><h3>Farhad Nawaz</h3></a><p>ESE, 2023–present<br><em>Co-advised with Nikolai Matni</em></p></div>   -->
       <div class="person-card"><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ho_jin_choi.JPG" alt="Ho Jin Choi"></a><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank" rel="noopener"><h3>Ho Jin Choi</h3></a><p>MEAM</p></div>
       <div class="person-card">
@@ -140,16 +140,114 @@ permalink: /people/
     </div>
   </div>
 
-  <!-- === Master's Thesis Students === -->
+    <!-- === Research Engineers === -->
   <div class="people-section">
-    <h2>Master's Thesis Students</h2>
+    <h2>Research Engineers</h2>
+        <div class="person-card">
+        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Natey Kim"></a>
+        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
+        <p>M.Sc. Robotics, 2026</p>
+      </div>  
+        <div class="person-card">
+        <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Navjot Singh Chahal"></a>
+        <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><h3>Navjot Singh Chahal</h3></a>
+        <p>M.Sc. EE 2026</p>
+      </div>
+      <div class="person-card">
+        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Michael North"></a>
+        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Michael North</h3></a>
+        <p>B.S. BE, 2026</p>
+      </div>                  
+    </div>
+  </div>
+
+
+  <!-- === M.Sc. Students === -->
+  <div class="people-section">
+    <h2>M.Sc. Students</h2>
     <div class="people-grid">
+      <div class="person-card">
+        <a href="hhttps://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Wanting Yao<"></a>
+        <a href="https://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><h3>Wanting Yao</h3></a>
+        <p>ROBO, Thesis</em></p>
+      </div>
+      <div class="person-card">
+        <a href="https://www.linkedin.com/in/aditya-vats42/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/AdityaVats.jpeg" alt="Aditya Vats"></a>
+        <a href="https://www.linkedin.com/in/aditya-vats42/" target="_blank" rel="noopener"><h3>Aditya Vats</h3></a>
+        <p>ROBO, Thesis</em></p>
+      </div>
+      <div class="person-card">
+        <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/guanhua_ji.JPG" alt="Guanhua Ji"></a>
+        <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank" rel="noopener"><h3>Guanhua Ji</h3></a>
+        <p>ROBO, Thesis</em></p>
+      </div>
+      <div class="person-card">
+        <a href="https://www.linkedin.com/in/tianyixia0618/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Tianyi Xia"></a>
+        <a href="https://www.linkedin.com/in/tianyixia0618/" target="_blank" rel="noopener"><h3>Tianyi Xia</h3></a>
+        <p>ROBO, Thesis</em></p>
+      </div> 
+      <div class="person-card">
+        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Dmitri Dobrynin"></a>
+        <a hhref="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Dmitri Dobrynin </h3></a>
+        <p>ROBO, Thesis</em></p>
+      </div>
+       <div class="person-card">
+        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Ily Rafaeli"></a>
+        <a hhref="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Ily Rafaeli </h3></a>
+        <p>ROBO, Independent Study</em></p>
+      </div>         
+       <div class="person-card">
+        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Zhengmiao Huang"></a>
+        <a hhref="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Zhengmiao Huang </h3></a>
+        <p>ROBO, Independent Study</em></p>
+      </div>      
+      <div class="person-card">
+        <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dayoon_suh.JPG" alt="Dayoon Suh"></a>
+        <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><h3>Dayoon Suh</h3></a>
+        <p>Robot, Intern</p>
+      </div>
+      <div class="person-card">
+        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Yifan Wu"></a>
+        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><h3>Yifan Wu</h3></a>
+        <p>Robot, Intern</p>
+      </div>
+      <div class="person-card">
+        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Ethan Yang"></a>
+        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><h3>Ethan Yang</h3></a>
+        <p>Robot, Intern</p>
+      </div>      
+    </div>
+  </div>
+
+  <!-- === Undergraduate Researchers === -->
+  <div class="people-section">
+    <h2>Undergraduate Researchers</h2>
+    <div class="people-grid">
+      <div class="person-card">
+        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Lily Zhang"></a>
+        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Lily Zhang</h3></a>
+        <p>MEAM</p>
+      </div>
+      <div class="person-card">
+        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Aditya Pasumarthi"></a>
+        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Aditya Pasumarthi</h3></a>
+        <p>BE</p>
+      </div>
+      <div class="person-card">
+        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Jessica Luo"></a>
+        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Jessica Luo</h3></a>
+        <p>BE</p>
+      </div>             
+    </div>
+  </div>
+
+
 <!--       <div class="person-card">
         <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/mateusz_jaszczuk.JPG" alt="Mateusz Jaszczuk"></a>
         <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><h3>Mateusz Jaszczuk</h3></a>
         <p>M.S. MEAM, 2026<br>2024–present<br><em>Thesis: “Learning to Feel: Force-Aware Data-Driven Estimation and Control for Fluid Physical Interaction”</em></p>
       </div> -->
-      <div class="person-card">  
+<!--       <div class="person-card">  
         <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ekaterina_skorniakova.JPG" alt="Ekaterina Skorniakova"></a>
         <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><h3>Ekaterina Skorniakova</h3></a>
         <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Coupled Passive Dynamical System Interaction Control on SE(3)”</em></p>
@@ -169,11 +267,9 @@ permalink: /people/
         <a href="{{ site.baseurl }}/people/"><h3>Felix [Yuchen] Zheng</h3></a>
         <p>M.S. Robotics, 2026<br>2025–present<br><em>Thesis: “Object-centric 3D Operator World Models for Planning Common Cooking Tasks”</em></p>
       </div>
-    </div>
-  </div>
-
+    </div> -->
   <!-- === Master's Research Interns === -->
-  <div class="people-section">
+<!--   <div class="people-section">
     <h2>Master's Research Interns</h2>
     <div class="people-grid">
       <div class="person-card">   
@@ -200,48 +296,18 @@ permalink: /people/
         <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yicong_wang.JPG" alt="Yicong Wang"></a>
         <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><h3>Yicong Wang</h3></a>
         <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
-      </div>
-      <div class="person-card">
-        <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/guanhua_ji.JPG" alt="Guanhua Ji"></a>
-        <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank" rel="noopener"><h3>Guanhua Ji</h3></a>
-        <p>M.S. Robotics, 2027<br>2025–present<br><em>Research Intern Fall 2025</em></p>
-      </div>
-      <div class="person-card">
-        <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dayoon_suh.JPG" alt="Dayoon Suh"></a>
-        <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><h3>Dayoon Suh</h3></a>
-        <p>M.S. Robotics, 2027<br>2025–present<br><em>Research Intern Fall 2025</em></p>
-      </div>
-    </div>
-  </div>
-
-  <!-- === Research Engineers === -->
-  <div class="people-section">
-    <h2>Research Engineers</h2>
-    <div class="people-grid">
+      </div> -->
+  <!-- </div> -->
+  <!--     <div class="people-grid">
       <div class="person-card">
         <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/daudi_zein.JPG" alt="Daudi Zein"></a>
         <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><h3>Daudi Zein</h3></a>
         <p>M.S. Robotics, 2025<br>2025-present<br><em>Research Engineer</em></p>
-      </div>
-    </div>
-  </div>
-
-  <!-- === Undergraduate Researchers === -->
-  <div class="people-section">
-    <h2>Undergraduate Researchers</h2>
-    <div class="people-grid">
-      <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/bio-photo.jpg" alt="Michael North"></a>
-        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Michael North</h3></a>
-        <p>B.S. BE, 2026<br>2024-present<br><em>Undergraduate Researcher</em></p>
-      </div>
-    </div>
-  </div>
+      </div> -->
 
   <!-- === Alumni (completed/⋆) === -->
   <div class="people-section">
     <h2>Alumni</h2>
-
     <div class="alumni-group">Research Engineers</div>
     <table class="alumni-table">
       <thead>
@@ -256,7 +322,6 @@ permalink: /people/
         <tr><td>Harshil Parekh</td><td>M.S. Robotics, 2023</td><td>2022–2024</td><td>Robotics Software Engineer at BotBuilt</td></tr>
       </tbody>
     </table>
-
     <div class="alumni-group">Visiting Scholars</div>
     <table class="alumni-table">
       <thead>
@@ -267,7 +332,6 @@ permalink: /people/
         <tr><td>Enrico Martini</td><td>Computer Science, University of Verona (Italy)</td><td>Spring 2024</td><td>Ph.D. Candidate; Visiting Research Scholar (advised by Nicola Bombieri)</td></tr>
       </tbody>
     </table>
-
     <div class="alumni-group">Master’s Thesis</div>
     <table class="alumni-table">
       <thead>
