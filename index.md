@@ -104,7 +104,7 @@ permalink: /
   margin: 0;
   color: #fff;
   font-weight: 800;
-  font-size: clamp(22px, 2.6vw + 6px, 42px);
+  font-size: clamp(20px, 2.6vw + 6px, 42px);
   line-height: 1.1;
   text-align: center;
   text-shadow:
