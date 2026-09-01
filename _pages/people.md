@@ -31,7 +31,7 @@ permalink: /people/
 /* ===== Sections ===== */
 .people-section{ padding: 1rem 0 .5rem; text-align: center; }
 .people-section + .people-section{ margin-top: .75rem; }
-.people-section h2{ font-size: 1.4rem; margin: .35rem 0 .7rem; font-weight: 700; }
+.people-section h2{ font-size: 1.2rem; margin: .35rem 0 .7rem; font-weight: 700; }
 
 /* ===== Grid (auto-fit, but max 4 per row) ===== */
 .people-grid{
@@ -55,7 +55,7 @@ permalink: /people/
   width: 200px;
   display: flex; flex-direction: column; align-items: center;
   text-align: center;
-  font-size: .9rem;
+  font-size: .8rem;
 }
 .person-card img{
   width: 200px; height: 200px;
@@ -63,7 +63,7 @@ permalink: /people/
   background: #f3f4f6; margin-bottom: .4rem;
 }
 .person-card h3{
-  font-size: .98rem; font-weight: 600;
+  font-size: .8rem; font-weight: 600;
   margin: .18rem 0; line-height: 1.18;
   word-wrap: break-word;
 }
@@ -75,7 +75,7 @@ permalink: /people/
   max-width: 1000px;
   margin: .6rem auto 1.6rem;   /* auto centers */
   border-collapse: collapse;
-  font-size: .9rem;
+  font-size: .8rem;
 }
 .alumni-table th, .alumni-table td{
   border-bottom: 1px solid #e5e7eb;
@@ -87,8 +87,8 @@ permalink: /people/
 .alumni-group{
   text-align: center;
   margin: 1.1rem 0 .5rem;
-  font-size: 1.05rem;
-  font-weight: 600;
+  font-size: 0.8rem;
+  font-weight: 00;
 }
 </style>
 

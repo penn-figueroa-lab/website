@@ -122,7 +122,7 @@ permalink: /
   padding: 0 0.8rem;
   text-align: center;
   font-size: clamp(0.9rem, 1vw + 0.35rem, 1.1rem);
-  line-height: 1.35;
+  line-height: 0.35;
   color: #333;
 }
 .hero-subtext a{
@@ -133,7 +133,7 @@ permalink: /
 .hero-subtext a:hover{ text-decoration: underline; }
 
 .hero-subtext.funding-logos{
-  max-width: 1500px;
+  max-width: 1700px;
 }
 .funding-logos-row{
   display: flex;
@@ -148,7 +148,7 @@ permalink: /
   height: auto;
   width: auto;
   max-height: clamp(32px, 8vw, 70px);
-  max-width: 22%;
+  max-width: 25%;
   object-fit: contain;
   flex: 0 1 auto;
 }
