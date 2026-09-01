@@ -23,7 +23,8 @@ permalink: /research/
   </div>
 
   <!-- ===== GRID (not clickable) ===== -->
-<!--   <section class="rb-grid">
+<!--
+  <section class="rb-grid">
     <div class="rb-card">
       <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Assistive_Robotics.JPG" alt="Assistive Robotics & Biomechanics"></div>
       <h3>Assistive Robotics &amp; Biomechanics</h3>
@@ -49,7 +50,8 @@ permalink: /research/
       <h3>Perception for Manipulation</h3>
     </div>
   </section>
-</section> -->
+-->
+</section>
 
 <style>
 /* 🔕 Hide pager & feed icon just on this page */
@@ -65,7 +67,7 @@ permalink: /research/
    - Narrower width to create larger side gutters
    - Manual left shift on very wide screens (same idea as publications) */
 .research-wrap{
-  width: min(82vw, 1200px);
+  width: min(82vw, 1100px);
   margin: 0 auto 1.5rem;
   padding: 0 12px;
 }
