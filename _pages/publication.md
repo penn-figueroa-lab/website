@@ -288,6 +288,7 @@ permalink: /publications/
   border-bottom: 2px solid #222;
   font-size: clamp(1.1rem, 1vw + .8rem, 1.5rem);
   font-weight: 800;
+  text-align: center;
 }
 .pub-heading:first-of-type{ margin-top: 0.6rem; }
 
