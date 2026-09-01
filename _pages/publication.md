@@ -7,8 +7,20 @@ permalink: /publications/
 <!-- ===== Wide, centered content band ===== -->
 <section class="pub-wrap">
 
-  <h2 class="pub-heading">Peer-Reviewed Journals and Transactions</h2>
+  <h2 class="pub-heading">2026</h2>
   <div class="pub-list">
+
+    <div class="pub-entry">
+      <div class="pub-title">N3P: Accelerated Automated Parking via a Learning-Based Naturalistic Three-Stage Scheme</div>
+      <div class="pub-authors">Xue, Y.*, Mohammadnejad, T., Tariq, F.M., Bae, S., Isele, D., Sakamoto, Y., Figueroa, N. and D&rsquo;sa, J.</div>
+      <div class="pub-venue"><em>IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)</em> <span class="pub-note">To be presented.</span> <a class="pub-link" href="https://arxiv.org/abs/2605.22722" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
+      <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
+      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China <span class="pub-note">Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
 
     <div class="pub-entry">
       <div class="pub-title">KGripper: A Push-On Twist-Off Passive Perching Mechanism</div>
@@ -20,77 +32,6 @@ permalink: /publications/
       <div class="pub-title">Surviving the Paper Deluge: A One-Year Study in Learning From Demonstration [Science and Technology Watch]</div>
       <div class="pub-authors">Billard, A., Detry, R., Figueroa, N., Foriest, M., Lee, D. and Yao, K.</div>
       <div class="pub-venue"><em>IEEE Robotics &amp; Automation Magazine</em>, 33(2):205&ndash;211, June 2026 <a class="pub-link" href="https://doi.org/10.1109/MRA.2026.3682522" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control</div>
-      <div class="pub-authors">Xue, Y.*, Zhang, Z.*, Åkesson, K. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE Robotics and Automation Letters</em>, 11(4):5096&ndash;5103, April 2026 <a class="pub-link" href="https://arxiv.org/abs/2601.10233" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">COMETH: Convex Optimization for Multi-view Estimation and Tracking of Humans</div>
-      <div class="pub-authors">Martini, E., Choi, H., Figueroa, N. and Bombieri, N.</div>
-      <div class="pub-venue"><em>Expert Systems With Applications</em>, February 2026 <a class="pub-link" href="https://arxiv.org/abs/2508.20920" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">WiRA: Reshaping Recognition in Robotics and Automation for Gender Equity [Women in Engineering]</div>
-      <div class="pub-authors">Psomopoulou, E., Figueroa, N. and Chalvatzaki, G.</div>
-      <div class="pub-venue"><em>IEEE Robotics &amp; Automation Magazine</em>, 32(4):118&ndash;120, Dec. 2025 <a class="pub-link" href="https://doi.org/10.1109/MRA.2025.3617625" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">Directionality-Aware Mixture Model Parallel Sampling for Efficient Linear Parameter Varying Dynamical System Learning</div>
-      <div class="pub-authors">Sun, S., Gao, H., Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE Robotics and Automation Letters (RA-L)</em>, 9(7):6248&ndash;6255, 2024 <a class="pub-link" href="https://ieeexplore.ieee.org/document/10530930" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">Reactive Collision-Free Motion Generation in Joint Space via Dynamical Systems and Sampling-Based MPC</div>
-      <div class="pub-authors">Koptev, M., Figueroa, N. and Billard, A.</div>
-      <div class="pub-venue"><em>The International Journal of Robotics Research (IJRR)</em>, 43(13):2049&ndash;2069, 2024 <a class="pub-link" href="https://journals.sagepub.com/doi/10.1177/02783649241246557" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">On-Manifold Strategies for Reactive Dynamical System Modulation with Non-Convex Obstacles</div>
-      <div class="pub-authors">Fourie, C., Figueroa, N. and Shah, J.</div>
-      <div class="pub-venue"><em>IEEE Transactions on Robotics (TRO)</em>, 40:2390&ndash;2409, 2024 <span class="pub-note">Honorable Mention for IEEE TRO King-Sun Fu Memorial Best Paper Award.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10473149" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">Ultrafast, Programmable, and Electronics-Free Soft Robots Enabled by Snapping Metacaps</div>
-      <div class="pub-authors">Jin, L., Yang, Y., Maldonado, B.O.T., Lee, S.D., Figueroa, N., Full, R.J. and Yang, S.</div>
-      <div class="pub-venue"><em>Advanced Intelligent Systems</em>, 2023 <a class="pub-link" href="https://doi.org/10.1002/aisy.202300039" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">Neural Joint-Space Implicit Distance Functions for Reactive Robot Manipulator Control</div>
-      <div class="pub-authors">Koptev, M., Figueroa, N., Billard, A.</div>
-      <div class="pub-venue"><em>IEEE Robotics and Automation Letters (RA-L)</em>, 8(2):480&ndash;487, 2023 <a class="pub-link" href="https://ieeexplore.ieee.org/document/9976191" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">Locally Active Globally Stable Dynamical Systems: Theory, Learning and Experiments</div>
-      <div class="pub-authors">Figueroa, N. and Billard, A.</div>
-      <div class="pub-venue"><em>The International Journal of Robotics Research (IJRR)</em>, 41(3):312&ndash;347, 2022 <a class="pub-link" href="https://journals.sagepub.com/doi/10.1177/02783649211030952" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-  </div>
-
-  <h2 class="pub-heading">Peer-Reviewed Conference Proceedings</h2>
-  <div class="pub-list">
-
-    <div class="pub-entry">
-      <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
-      <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China <span class="pub-note">To be presented. Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a></div>
-    </div>
-
-    <div class="pub-entry">
-      <div class="pub-title">N3P: Accelerated Automated Parking via a Learning-Based Naturalistic Three-Stage Scheme</div>
-      <div class="pub-authors">Xue, Y.*, Mohammadnejad, T., Tariq, F.M., Bae, S., Isele, D., Sakamoto, Y., Figueroa, N. and D&rsquo;sa, J.</div>
-      <div class="pub-venue"><em>IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)</em> <span class="pub-note">To be presented.</span> <a class="pub-link" href="https://arxiv.org/abs/2605.22722" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
@@ -124,33 +65,56 @@ permalink: /publications/
     </div>
 
     <div class="pub-entry">
+      <div class="pub-title">Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control</div>
+      <div class="pub-authors">Xue, Y.*, Zhang, Z.*, Åkesson, K. and Figueroa, N.</div>
+      <div class="pub-venue"><em>IEEE Robotics and Automation Letters</em>, 11(4):5096&ndash;5103, April 2026 <a class="pub-link" href="https://arxiv.org/abs/2601.10233" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">COMETH: Convex Optimization for Multi-view Estimation and Tracking of Humans</div>
+      <div class="pub-authors">Martini, E., Choi, H., Figueroa, N. and Bombieri, N.</div>
+      <div class="pub-venue"><em>Expert Systems With Applications</em>, February 2026 <a class="pub-link" href="https://arxiv.org/abs/2508.20920" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+    <div class="pub-entry">
       <div class="pub-title">RNBF: Real-Time RGB-D Based Neural Barrier Functions for Safe Robotic Navigation</div>
       <div class="pub-authors">Das, S., Xue, Y., Li, H. and Figueroa, N.</div>
       <div class="pub-venue"><em>18th IEEE/SICE Symposium on System Integration (SII)</em>, 2026, Cancun, Mexico <a class="pub-link" href="https://arxiv.org/abs/2505.02294" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
+  </div>
+
+  <h2 class="pub-heading">2025</h2>
+  <div class="pub-list">
+
+    <div class="pub-entry">
+      <div class="pub-title">WiRA: Reshaping Recognition in Robotics and Automation for Gender Equity [Women in Engineering]</div>
+      <div class="pub-authors">Psomopoulou, E., Figueroa, N. and Chalvatzaki, G.</div>
+      <div class="pub-venue"><em>IEEE Robotics &amp; Automation Magazine</em>, 32(4):118&ndash;120, Dec. 2025 <a class="pub-link" href="https://doi.org/10.1109/MRA.2025.3617625" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
     <div class="pub-entry">
       <div class="pub-title">Rapid Mismatch Estimation via Neural Network Informed Variational Inference</div>
       <div class="pub-authors">Jaszczuk, M. and Figueroa, N.</div>
-      <div class="pub-venue"><em>9th Conference on Robot Learning (CoRL)</em>, 2025 <span class="pub-note">To appear.</span> <a class="pub-link" href="https://openreview.net/forum?id=2CIKnIwSta#discussion" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>9th Conference on Robot Learning (CoRL)</em>, 2025 <a class="pub-link" href="https://openreview.net/forum?id=2CIKnIwSta#discussion" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
       <div class="pub-title">Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning</div>
       <div class="pub-authors">Li, T., Sun, S., Aditya, S., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2025 <span class="pub-note">To appear.</span> <a class="pub-link" href="https://arxiv.org/abs/2503.08029" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2025 <a class="pub-link" href="https://arxiv.org/abs/2503.08029" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
       <div class="pub-title">Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy for Visuomotor Imitation Learning</div>
       <div class="pub-authors">Gao, J., Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2025 <span class="pub-note">To appear.</span> <a class="pub-link" href="https://arxiv.org/abs/2411.03294" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2025 <a class="pub-link" href="https://arxiv.org/abs/2411.03294" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
       <div class="pub-title">Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments</div>
       <div class="pub-authors">Zhang, Z., Xue, Y., Figueroa, N. and Åkesson, K.</div>
-      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2025 <span class="pub-note">To appear.</span> <a class="pub-link" href="https://arxiv.org/abs/2504.03260" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2025 <a class="pub-link" href="https://arxiv.org/abs/2504.03260" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
@@ -171,6 +135,11 @@ permalink: /publications/
       <div class="pub-venue"><em>IEEE ICRA</em>, 2025 <span class="pub-note">Atlanta, USA.</span> <a class="pub-link" href="https://repository.upenn.edu/entities/publication/0c5b8627-d270-455a-9a74-0bd136f28eaa" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
+  </div>
+
+  <h2 class="pub-heading">2024</h2>
+  <div class="pub-list">
+
     <div class="pub-entry">
       <div class="pub-title">SE(3) Linear Parameter Varying Dynamical Systems for Globally Asymptotically Stable End-Effector Control</div>
       <div class="pub-authors">Sun, S. and Figueroa, N.</div>
@@ -187,6 +156,12 @@ permalink: /publications/
       <div class="pub-title">A Robust Filter for Marker-less Multi-person Tracking in Human-Robot Interaction Scenarios</div>
       <div class="pub-authors">Martini, E., Parekh, H., Peng, S., Bombieri, N., and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE RO-MAN</em>, 2024 <span class="pub-note">USA.</span> <a class="pub-link" href="https://arxiv.org/abs/2406.01832" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Directionality-Aware Mixture Model Parallel Sampling for Efficient Linear Parameter Varying Dynamical System Learning</div>
+      <div class="pub-authors">Sun, S., Gao, H., Li, T. and Figueroa, N.</div>
+      <div class="pub-venue"><em>IEEE Robotics and Automation Letters (RA-L)</em>, 9(7):6248&ndash;6255, July 2024 <a class="pub-link" href="https://ieeexplore.ieee.org/document/10530930" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
@@ -232,9 +207,61 @@ permalink: /publications/
     </div>
 
     <div class="pub-entry">
+      <div class="pub-title">Reactive Collision-Free Motion Generation in Joint Space via Dynamical Systems and Sampling-Based MPC</div>
+      <div class="pub-authors">Koptev, M., Figueroa, N. and Billard, A.</div>
+      <div class="pub-venue"><em>The International Journal of Robotics Research (IJRR)</em>, 43(13):2049&ndash;2069, 2024 <a class="pub-link" href="https://journals.sagepub.com/doi/10.1177/02783649241246557" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">On-Manifold Strategies for Reactive Dynamical System Modulation with Non-Convex Obstacles</div>
+      <div class="pub-authors">Fourie, C., Figueroa, N. and Shah, J.</div>
+      <div class="pub-venue"><em>IEEE Transactions on Robotics (TRO)</em>, 40:2390&ndash;2409, 2024 <span class="pub-note">Honorable Mention for IEEE TRO King-Sun Fu Memorial Best Paper Award.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10473149" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+  </div>
+
+  <h2 class="pub-heading">2023</h2>
+  <div class="pub-list">
+
+    <div class="pub-entry">
+      <div class="pub-title">Task Generalization with Stability Guarantees via Elastic Dynamical System Motion Policies</div>
+      <div class="pub-authors">Li, T. and Figueroa, N.</div>
+      <div class="pub-venue"><em>7th Conference on Robot Learning (CoRL)</em>, Nov 2023 <a class="pub-link" href="https://arxiv.org/abs/2309.01884" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+    <div class="pub-entry">
       <div class="pub-title">Learning Realistic Joint Space Boundaries for Range of Motion Analysis of Healthy and Impaired Human Arms</div>
       <div class="pub-authors">Keyvanian, S., Johnson, M.J. and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE Humanoids</em>, 2023 <span class="pub-note">Austin, USA.</span> <a class="pub-link" href="https://sites.google.com/seas.upenn.edu/learning-rom/home" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Ultrafast, Programmable, and Electronics-Free Soft Robots Enabled by Snapping Metacaps</div>
+      <div class="pub-authors">Jin, L., Yang, Y., Maldonado, B.O.T., Lee, S.D., Figueroa, N., Full, R.J. and Yang, S.</div>
+      <div class="pub-venue"><em>Advanced Intelligent Systems</em>, Feb. 2023 <a class="pub-link" href="https://doi.org/10.1002/aisy.202300039" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Neural Joint-Space Implicit Distance Functions for Reactive Robot Manipulator Control</div>
+      <div class="pub-authors">Koptev, M., Figueroa, N., Billard, A.</div>
+      <div class="pub-venue"><em>IEEE Robotics and Automation Letters (RA-L)</em>, 8(2):480&ndash;487, Feb. 2023 <a class="pub-link" href="https://ieeexplore.ieee.org/document/9976191" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+  </div>
+
+  <h2 class="pub-heading">2022</h2>
+  <div class="pub-list">
+
+    <div class="pub-entry">
+      <div class="pub-title">Temporal Logic Imitation: Learning Plan-Satisficing Motion Policies from Demonstrations</div>
+      <div class="pub-authors">Wang, Y., Figueroa, N., Li, S., Shah, A. and Shah, J.</div>
+      <div class="pub-venue"><em>6th Conference on Robot Learning (CoRL)</em>, PMLR 205:94&ndash;105, Dec 2022 <a class="pub-link" href="https://arxiv.org/abs/2206.04632" target="_blank" rel="noopener">[Link]</a></div>
+    </div>
+
+    <div class="pub-entry">
+      <div class="pub-title">Locally Active Globally Stable Dynamical Systems: Theory, Learning and Experiments</div>
+      <div class="pub-authors">Figueroa, N. and Billard, A.</div>
+      <div class="pub-venue"><em>The International Journal of Robotics Research (IJRR)</em>, 41(3):312&ndash;347, 2022 <a class="pub-link" href="https://journals.sagepub.com/doi/10.1177/02783649211030952" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
   </div>
@@ -281,7 +308,7 @@ permalink: /publications/
   }
 }
 
-/* Section headings */
+/* Section (year) headings */
 .pub-heading{
   margin: 1.8rem 0 0.9rem;
   padding-bottom: 0.3rem;
@@ -300,7 +327,7 @@ permalink: /publications/
   margin-bottom: 0.6rem;
 }
 
-.pub-entry{ line-height: 1.5; text-align: center; }
+.pub-entry{ line-height: 1.5; text-align: left; }
 
 .pub-title{
   font-weight: 700;
