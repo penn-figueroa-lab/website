@@ -19,17 +19,17 @@ permalink: /
     <img src="{{ '/assets/images/lab-pictures/IMG_4148.JPG' | relative_url }}" alt="Lab photo 1" class="hs-slide hs-current">
     <img src="{{ '/assets/images/lab-trips/lab_icra_2024.jpg' | relative_url }}" alt="Lab trip icra 2024 1" class="hs-slide">
     <img src="{{ '/assets/images/lab-trips/lab_icra_lunch_2024.jpg' | relative_url }}" alt="Lab trip icra 2024 2" class="hs-slide">
-    <img src="{{ '/assets/images/awards-presentations-grads/hojin_MS.JPG' | relative_url }}" alt="Hojin grad" class="hs-slide">    
+    <img src="{{ '/assets/images/awards-presentations-grads/hojin_MS.jpg' | relative_url }}" alt="Hojin grad" class="hs-slide">    
     <img src="{{ '/assets/images/lab-pictures/IMG_4075.JPG' | relative_url }}" alt="Lab photo 2" class="hs-slide">
     <img src="{{ '/assets/images/lab-trips/girls_icra_2025.jpg' | relative_url }}" alt="Lab trip icra 2024 2" class="hs-slide">
     <img src="{{ '/assets/images/lab-pictures/IMG_4115.JPG' | relative_url }}" alt="Lab photo 3" class="hs-slide">
     <img src="{{ '/assets/images/lab-trips/lab_rss_2025.JPG' | relative_url }}" alt="Lab trip rss 2025" class="hs-slide">
-    <img src="{{ '/assets/images/awards-presentations-grads/best-paper-award-team.JPG' | relative_url }}" alt="ICRA 2026 Best conference paper team" class="hs-slide">    
-    <img src="{{ '/assets/images/awards-presentations-grads/best-paper-award.JPG' | relative_url }}" alt="ICRA 2026 Best conference paper" class="hs-slide"> 
-    <img src="{{ '/assets/images/awards-presentations-grads/planning-award-team.JPG' | relative_url }}" alt="ICRA 2026 Best planning paper team" class="hs-slide">    
-    <img src="{{ '/assets/images/awards-presentations-grads/planning-award.JPG' | relative_url }}" alt="ICRA 2026 Best planning paper" class="hs-slide">
-    <img src="{{ '/assets/images/awards-presentations-grads/Vijay-Nadia-Yifei.JPG' | relative_url }}" alt="ICRA 2026 Best planning paper" class="hs-slide">    
-    <img src="{{ '/assets/images/awards-presentations-grads/yihan_MS_2.JPG' | relative_url }}" alt="Yihan grad" class="hs-slide">     
+    <img src="{{ '/assets/images/awards-presentations-grads/best-paper-award-team.jpg' | relative_url }}" alt="ICRA 2026 Best conference paper team" class="hs-slide">    
+    <img src="{{ '/assets/images/awards-presentations-grads/best-paper-award.jpg' | relative_url }}" alt="ICRA 2026 Best conference paper" class="hs-slide"> 
+    <img src="{{ '/assets/images/awards-presentations-grads/planning-award-team.jpg' | relative_url }}" alt="ICRA 2026 Best planning paper team" class="hs-slide">    
+    <img src="{{ '/assets/images/awards-presentations-grads/planning-award.jpg' | relative_url }}" alt="ICRA 2026 Best planning paper" class="hs-slide">
+    <img src="{{ '/assets/images/awards-presentations-grads/Vijay-Nadia-Yifei.jpg' | relative_url }}" alt="ICRA 2026 Best planning paper" class="hs-slide">    
+    <img src="{{ '/assets/images/awards-presentations-grads/yihan_MS_2.jpg' | relative_url }}" alt="Yihan grad" class="hs-slide">     
   </div>
 
   <button class="hs-nav hs-next" aria-label="Next slide">›</button>
