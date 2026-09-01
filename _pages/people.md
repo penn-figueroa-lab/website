@@ -120,8 +120,7 @@ permalink: /people/
       <div class="person-card"><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ho_jin_choi.JPG" alt="Ho Jin Choi"></a><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank" rel="noopener"><h3>Ho Jin Choi</h3></a><p>MEAM</p></div>
       <div class="person-card">
         <a href="https://sunan-sun.github.io/" target="_blank" rel="noopener">
-          <img src="{{ site.baseurl }}/assets/images/people/sunan_sun.JPG" alt="Sunan Sun">
-        </a>
+          <img src="{{ site.baseurl }}/assets/images/people/sunan_sun.JPG" alt="Sunan Sun"></a>
         <a href="https://sunan-sun.github.io/" target="_blank" rel="noopener"><h3>Sunan Sun</h3></a>
         <p>MEAM</p>
       </div>
@@ -143,13 +142,14 @@ permalink: /people/
     <!-- === Research Engineers === -->
   <div class="people-section">
     <h2>Research Engineers</h2>
+    <div class="people-grid">
         <div class="person-card">
         <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Natey Kim"></a>
         <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
         <p>M.Sc. Robotics, 2026</p>
       </div>  
         <div class="person-card">
-        <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Navjot Singh Chahal"></a>
+        <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Navjot Singh Chahal"></a>
         <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><h3>Navjot Singh Chahal</h3></a>
         <p>M.Sc. EE 2026</p>
       </div>
@@ -169,37 +169,37 @@ permalink: /people/
       <div class="person-card">
         <a href="hhttps://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Wanting Yao<"></a>
         <a href="https://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><h3>Wanting Yao</h3></a>
-        <p>ROBO, Thesis</em></p>
+        <p>ROBO, Thesis</p>
       </div>
       <div class="person-card">
         <a href="https://www.linkedin.com/in/aditya-vats42/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/AdityaVats.jpeg" alt="Aditya Vats"></a>
         <a href="https://www.linkedin.com/in/aditya-vats42/" target="_blank" rel="noopener"><h3>Aditya Vats</h3></a>
-        <p>ROBO, Thesis</em></p>
+        <p>ROBO, Thesis</p>
       </div>
       <div class="person-card">
         <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/guanhua_ji.JPG" alt="Guanhua Ji"></a>
         <a href="https://www.linkedin.com/in/guanhua-ji-a96053374/" target="_blank" rel="noopener"><h3>Guanhua Ji</h3></a>
-        <p>ROBO, Thesis</em></p>
+        <p>ROBO, Thesis</p>
       </div>
       <div class="person-card">
         <a href="https://www.linkedin.com/in/tianyixia0618/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Tianyi Xia"></a>
         <a href="https://www.linkedin.com/in/tianyixia0618/" target="_blank" rel="noopener"><h3>Tianyi Xia</h3></a>
-        <p>ROBO, Thesis</em></p>
+        <p>ROBO, Thesis</p>
       </div> 
       <div class="person-card">
         <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Dmitri Dobrynin"></a>
         <a hhref="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Dmitri Dobrynin </h3></a>
-        <p>ROBO, Thesis</em></p>
+        <p>ROBO, Thesis</p>
       </div>
        <div class="person-card">
         <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Ily Rafaeli"></a>
         <a hhref="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Ily Rafaeli </h3></a>
-        <p>ROBO, Independent Study</em></p>
+        <p>ROBO, Independent Study</p>
       </div>         
        <div class="person-card">
         <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Zhengmiao Huang"></a>
         <a hhref="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Zhengmiao Huang </h3></a>
-        <p>ROBO, Independent Study</em></p>
+        <p>ROBO, Independent Study</p>
       </div>      
       <div class="person-card">
         <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dayoon_suh.JPG" alt="Dayoon Suh"></a>
@@ -240,7 +240,6 @@ permalink: /people/
       </div>             
     </div>
   </div>
-
 
 <!--       <div class="person-card">
         <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/mateusz_jaszczuk.JPG" alt="Mateusz Jaszczuk"></a>
