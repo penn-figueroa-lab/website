@@ -1,3 +1,44 @@
+/* ===== TYPOGRAPHY PLAYGROUND =====
+   Tweak these values to experiment with font/size/color site-wide.
+   Order matters: rules further down / more specific override rules
+   above them, so if a change here doesn't seem to take effect, a
+   rule later in this file (like .page__content p below) is probably
+   already setting that same property more specifically. */
+
+/* 1) BASE TEXT — the fallback for everything on the site unless a
+      more specific rule overrides it. */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16px;     /* try 14px (smaller) to 18px (larger) */
+  color: #333;         /* darker = lower hex value, e.g. #222 or #111; lighter = higher, e.g. #666 */
+  line-height: 1.5;
+}
+
+/* 2) HEADINGS — h1 is your page titles, h2/h3 are section headings
+      like "Peer-Reviewed Journals..." or "Latest News". */
+h1, h2, h3, h4, h5, h6 {
+  color: #1a1a1a;       /* usually a bit darker than body text */
+}
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.15rem; }
+
+/* 3) BODY PARAGRAPHS — the actual page content text (research
+      statement, page__content areas). */
+.page__content p {
+  font-size: 0.95rem;   /* smaller number = smaller text */
+  color: #333;
+  line-height: 1.5;
+}
+
+/* 4) LINKS */
+a {
+  color: #0056b3;       /* link color */
+}
+a:hover {
+  color: #003d80;       /* darker on hover */
+}
+
 /* === Center the title and homepage content === */
 body,
 .page,
@@ -45,25 +86,25 @@ body,
    These overrides tighten all three so the header takes less vertical
    space. Adjust the em/rem values below to taste. */
 .masthead__inner-wrap {
-  padding: 0.25em 1em;
+  padding: 0.15em 1em;
   min-height: 0;
 }
 
 .masthead .site-title {
-  font-size: 1rem;
-  line-height: 1.1;
+  font-size: 0.95rem;
+  line-height: 1.05;
 }
 
 .greedy-nav a {
-  padding: 0.35em 0.75em;
-  font-size: 0.85rem;
+  padding: 0.2em 0.6em;
+  font-size: 0.8rem;
 }
 
 .greedy-nav .visible-links a {
-  padding-top: 0.35em;
-  padding-bottom: 0.35em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
 }
 
 .greedy-nav button.greedy-nav__toggle {
-  padding: 0.35em;
+  padding: 0.2em;
 }
