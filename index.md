@@ -29,7 +29,8 @@ permalink: /
     <img src="{{ '/assets/images/awards-presentations-grads/planning-award-team.jpg' | relative_url }}" alt="ICRA 2026 Best planning paper team" class="hs-slide">    
     <img src="{{ '/assets/images/awards-presentations-grads/planning-award.jpg' | relative_url }}" alt="ICRA 2026 Best planning paper" class="hs-slide">
     <img src="{{ '/assets/images/awards-presentations-grads/Vijay-Nadia-Yifei.jpg' | relative_url }}" alt="ICRA 2026 Best planning paper" class="hs-slide">    
-    <img src="{{ '/assets/images/awards-presentations-grads/yihan_MS_2.jpg' | relative_url }}" alt="Yihan grad" class="hs-slide">     
+    <img src="{{ '/assets/images/awards-presentations-grads/yihan_MS_2.jpg' | relative_url }}" alt="Yihan grad" class="hs-slide">
+    <img src="{{ '/assets/images/awards-presentations-grads/farhad_PhD.jpg' | relative_url }}" alt="Yihan grad" class="hs-slide">           
   </div>
 
   <button class="hs-nav hs-next" aria-label="Next slide">›</button>
