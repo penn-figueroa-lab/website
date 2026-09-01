@@ -104,7 +104,7 @@ permalink: /
   margin: 0;
   color: #fff;
   font-weight: 800;
-  font-size: clamp(20px, 2.6vw + 6px, 42px);
+  font-size: clamp(22px, 2.6vw + 6px, 42px);
   line-height: 1.1;
   text-align: center;
   text-shadow:
@@ -122,7 +122,7 @@ permalink: /
   padding: 0 0.8rem;
   text-align: center;
   font-size: clamp(0.9rem, 1vw + 0.35rem, 1.1rem);
-  line-height: 0.35;
+  line-height: 1.35;
   color: #333;
 }
 .hero-subtext a{
@@ -133,7 +133,7 @@ permalink: /
 .hero-subtext a:hover{ text-decoration: underline; }
 
 .hero-subtext.funding-logos{
-  max-width: 1700px;
+  max-width: 1500px;
 }
 .funding-logos-row{
   display: flex;
@@ -148,7 +148,7 @@ permalink: /
   height: auto;
   width: auto;
   max-height: clamp(32px, 8vw, 70px);
-  max-width: 25%;
+  max-width: 22%;
   object-fit: contain;
   flex: 0 1 auto;
 }
