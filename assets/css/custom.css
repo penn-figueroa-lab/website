@@ -98,6 +98,11 @@ body,
 .greedy-nav a {
   padding: 0.2em 0.6em;
   font-size: 0.8rem;
+  color: #000000;        /* menu links (Home/People/Research/...) darkened to black */
+}
+
+.greedy-nav a:hover {
+  color: #333333;         /* slightly softer on hover so it's not a flat, jarring flip */
 }
 
 .greedy-nav .visible-links a {
