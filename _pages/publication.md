@@ -284,28 +284,11 @@ permalink: /publications/
 .main .page__content{ padding-top:0.35rem; }
 
 /* ===== Centered wrapper with bigger side margins =====
-   Matches the /research/ page: narrower width for larger side gutters,
-   with the same manual left shift on very wide screens to line up
-   with the site header. */
+   Truly centered at every screen width — no manual pixel nudges. */
 .pub-wrap{
   width: min(82vw, 1100px);
   margin: 0 auto 1.5rem;
   padding: 0 12px;
-}
-
-/* Ultra-wide manual nudge (same as /research/) */
-@media (min-width: 1500px){
-  .pub-wrap{
-    margin-left: -300px;
-    margin-right: auto;
-  }
-}
-/* Re-center below that breakpoint */
-@media (max-width: 1499.98px){
-  .pub-wrap{
-    margin-left: auto;
-    margin-right: auto;
-  }
 }
 
 /* Section (year) headings */
