@@ -71,6 +71,20 @@ body,
   margin: 0 0.75rem;
 }
 
+/* ===== Remove phantom right-sidebar space =====
+   Minimal Mistakes reserves ~300px on the right of .page for an
+   author-profile/TOC sidebar even when none exists on this site.
+   That silently narrows .page__content and makes the width:min(Nvw,...)
+   wrappers on individual pages overflow instead of truly centering.
+   Reclaiming that space lets page content use the full column width
+   and center correctly. */
+.layout--single .page {
+  float: none;
+  width: 100%;
+  padding-inline-end: 0;
+}
+
+
 /* ===== Hide RSS/Feed icon completely ===== */
 .page__footer-follow .social-icons a[href$="feed.xml"],
 .page__footer-follow .social-icons a[href*="/feed"],
