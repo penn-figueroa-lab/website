@@ -46,20 +46,7 @@ permalink: /joining/
   padding: 0 12px;
 }
 
-/* Ultra-wide manual nudge (adjust -300px as needed to match header alignment) */
-@media (min-width: 1500px){
-  .joining-wrap{
-    margin-left: -300px;   /* manual left shift */
-    margin-right: auto;
-  }
-}
-/* Re-center below that breakpoint */
-@media (max-width: 1499.98px){
-  .joining-wrap{
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
+
 
 /* ===== Intro (match research typography) ===== */
 .rb-intro{
