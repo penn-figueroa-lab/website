@@ -17,7 +17,7 @@ body {
 /* 2) HEADINGS — h1 is your page titles, h2/h3 are section headings
       like "Peer-Reviewed Journals..." or "Latest News". */
 h1, h2, h3, h4, h5, h6 {
-  color: #1a1a1a;       /* usually a bit darker than body text */
+  color: #000000;       /* darkened from #1a1a1a to pure black */
 }
 h1 { font-size: 1.5rem; }
 h2 { font-size: 1.15rem; }
