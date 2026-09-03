@@ -63,26 +63,36 @@ permalink: /people/
 }
 .person-card p{ margin: .15rem 0 0; }
 
-/* ===== Alumni tables (centered) ===== */
-.alumni-table{
-  width: 90%;
-  max-width: 1000px;
-  margin: .6rem auto 1.6rem;   /* auto centers */
-  border-collapse: collapse;
-  font-size: .8rem;
-}
-.alumni-table th, .alumni-table td{
-  border-bottom: 1px solid #e5e7eb;
-  padding: .5rem .7rem;
-  text-align: left;
-  vertical-align: top;
-}
-.alumni-table th{ font-weight: 700; }
+/* ===== Alumni (list format) ===== */
 .alumni-group{
   text-align: center;
-  margin: 1.1rem 0 .5rem;
-  font-size: 0.8rem;
-  font-weight: 00;
+  margin: 1.4rem 0 .5rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #333;
+}
+.alumni-group:first-of-type{ margin-top: 0.6rem; }
+
+.alumni-list{
+  max-width: 700px;
+  margin: 0 auto 0.6rem;
+  text-align: left;
+}
+.alumni-entry{
+  padding: 0.6rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+.alumni-entry:last-child{ border-bottom: none; }
+.alumni-name{
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: #1a1a1a;
+}
+.alumni-detail{
+  margin-top: 0.15rem;
+  font-size: 0.85rem;
+  color: #555;
+  line-height: 1.45;
 }
 </style>
 
@@ -298,76 +308,97 @@ permalink: /people/
         <p>M.S. Robotics, 2025<br>2025-present<br><em>Research Engineer</em></p>
       </div> -->
 
-  <!-- === Alumni (completed/⋆) === -->
+  <!-- === Alumni (list format) === -->
   <div class="people-section">
     <h2>Alumni</h2>
+
     <div class="alumni-group">Research Engineers</div>
-    <table class="alumni-table">
-      <thead>
-        <tr><th>Name</th><th>Degree</th><th>Next position</th></tr>
-      </thead>
-      <tbody>
-        <tr><td>Jalaj Shukla</td><td>M.S. MEAM, 2025</td><td>Co-founder of Intelligence Factory</td></tr>
-         <tr><td>Davin Tjandra</td><td>M.S. MEAM, 2025</td><td>Robotics Software Engineer at Intrinsic (Google)</td></tr>       
-        <tr><td>George [Jiayuan] Gao</td><td>M.S. Robotics, 2025</td><td>Research Engineer at Dyna Robotics</td></tr>
-        <tr><td>Yi-Hsuan Cheng</td><td>M.S. Robotics, 2025</td><td>ML-AI Robotics Engineer at RoboForce</td></tr>
-        <tr><td>Shaoting Peng</td><td>M.S. Robotics, 2024</td><td>PhD student at UIUC</td></tr>
-        <tr><td>Harshil Parekh</td><td>M.S. Robotics, 2023</td><td>Robotics Software Engineer at BotBuilt</td></tr>
-      </tbody>
-    </table>
+    <div class="alumni-list">
+      <div class="alumni-entry">
+        <div class="alumni-name">Jalaj Shukla</div>
+        <div class="alumni-detail">M.S. MEAM, 2025</div>
+        <div class="alumni-detail">After Graduating: Co-founder of Intelligence Factory</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Davin Tjandra</div>
+        <div class="alumni-detail">M.S. MEAM, 2025</div>
+        <div class="alumni-detail">After Graduating: Robotics Software Engineer at Intrinsic (Google)</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">George [Jiayuan] Gao</div>
+        <div class="alumni-detail">M.S. Robotics, 2025</div>
+        <div class="alumni-detail">After Graduating: Research Engineer at Dyna Robotics</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Yi-Hsuan Cheng</div>
+        <div class="alumni-detail">M.S. Robotics, 2025</div>
+        <div class="alumni-detail">After Graduating: ML-AI Robotics Engineer at RoboForce</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Shaoting Peng</div>
+        <div class="alumni-detail">M.S. Robotics, 2024</div>
+        <div class="alumni-detail">After Graduating: PhD student at UIUC</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Harshil Parekh</div>
+        <div class="alumni-detail">M.S. Robotics, 2023</div>
+        <div class="alumni-detail">After Graduating: Robotics Software Engineer at BotBuilt</div>
+      </div>
+    </div>
+
     <div class="alumni-group">Visiting Scholars</div>
-    <table class="alumni-table">
-      <thead>
-        <tr><th>Name</th><th>Affiliation</th><th>Term</th><th>Notes</th></tr>
-      </thead>
-      <tbody>
-        <tr><td>Ze Zhang</td><td>Automation, Chalmers University of Technology (Sweden)</td><td>Fall 2024</td><td>Ph.D. Candidate; Visiting Research Scholar (advised by Knut Åkesson)</td></tr>
-        <tr><td>Enrico Martini</td><td>Computer Science, University of Verona (Italy)</td><td>Spring 2024</td><td>Ph.D. Candidate; Visiting Research Scholar (advised by Nicola Bombieri)</td></tr>
-      </tbody>
-    </table>
-    <div class="alumni-group">Master’s Thesis</div>
-    <table class="alumni-table">
-      <thead>
-        <tr><th>Name</th><th>Degree</th><th>Thesis / Notes</th></tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Paul [Sanghyub] Lee</td>
-          <td>M.S. Robotics, 2025</td>
-          <td>“Towards Real-Time Muscle Health Monitoring and Muscle-in-the-Loop Robotic Assistants via AI-Driven Wearable Ultrasound Processing”; now Ph.D. candidate in MEAM (Penn)</td>
-        </tr>
-        <tr>
-          <td>George [Jiayuan] Gao</td>
-          <td>M.S. Robotics, 2025</td>
-          <td>“Visuomotor Object-Centric Out-Of-Distribution Recovery Policy”; <em>Outstanding Master’s Researcher Award in Robotics</em></td>
-        </tr>
-        <tr>
-          <td>Ho Jin Choi</td>
-          <td>M.S. MEAM, 2024</td>
-          <td>“Gaussian Process-Based Active Exploration Strategies in Vision and Touch”; <em>Outstanding Master’s Researcher Award in MEAM</em>; Summer 2024 intern at MERL; now Ph.D. candidate in MEAM (Penn)</td>
-        </tr>
-        <tr>
-          <td>Zhiquan Zhang</td>
-          <td>M.S. ESE, 2024</td>
-          <td>“Real-Time Safety-Critical Passive Torque Control with Analytic and Learning-based Constraints”; <em>Best Master’s Thesis in ESE</em>; now Ph.D. candidate at UIUC</td>
-        </tr>
-        <tr>
-          <td>Haihui Gao</td>
-          <td>M.S. ESE & MEAM, 2024</td>
-          <td>“Advancing Dynamical Systems in Learning from Demonstration: A Novel Approach for Modeling Self-Crossing Trajectories”; now Ph.D. candidate at University of Montreal</td>
-        </tr>
-        <tr>
-          <td>Satyajeet Das</td>
-          <td>M.S. ESE, 2024</td>
-          <td>“Towards Vision-based Safety: A Real-Time Approach for Generating Barrier Functions using Depth Sensors”; now Ph.D. candidate at USC (started Fall 2024)</td>
-        </tr>
-        <tr>
-          <td>Haoming Li</td>
-          <td>M.S. ESE, 2024</td>
-          <td>“Towards Robust SLAM with Neural Implicit Representations”; Research Engineer at the University of Pennsylvania</td>
-        </tr>
-      </tbody>
-    </table>
+    <div class="alumni-list">
+      <div class="alumni-entry">
+        <div class="alumni-name">Ze Zhang</div>
+        <div class="alumni-detail">Automation, Chalmers University of Technology (Sweden) &mdash; Fall 2024</div>
+        <div class="alumni-detail">Ph.D. Candidate; Visiting Research Scholar (advised by Knut Åkesson)</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Enrico Martini</div>
+        <div class="alumni-detail">Computer Science, University of Verona (Italy) &mdash; Spring 2024</div>
+        <div class="alumni-detail">Ph.D. Candidate; Visiting Research Scholar (advised by Nicola Bombieri)</div>
+      </div>
+    </div>
+
+    <div class="alumni-group">Master&rsquo;s Thesis</div>
+    <div class="alumni-list">
+      <div class="alumni-entry">
+        <div class="alumni-name">Paul [Sanghyub] Lee</div>
+        <div class="alumni-detail">M.S. Robotics, 2025</div>
+        <div class="alumni-detail"><em>&ldquo;Towards Real-Time Muscle Health Monitoring and Muscle-in-the-Loop Robotic Assistants via AI-Driven Wearable Ultrasound Processing&rdquo;</em>; now Ph.D. candidate in MEAM (Penn)</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">George [Jiayuan] Gao</div>
+        <div class="alumni-detail">M.S. Robotics, 2025</div>
+        <div class="alumni-detail"><em>&ldquo;Visuomotor Object-Centric Out-Of-Distribution Recovery Policy&rdquo;</em>; Outstanding Master&rsquo;s Researcher Award in Robotics</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Ho Jin Choi</div>
+        <div class="alumni-detail">M.S. MEAM, 2024</div>
+        <div class="alumni-detail"><em>&ldquo;Gaussian Process-Based Active Exploration Strategies in Vision and Touch&rdquo;</em>; Outstanding Master&rsquo;s Researcher Award in MEAM; Summer 2024 intern at MERL; now Ph.D. candidate in MEAM (Penn)</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Zhiquan Zhang</div>
+        <div class="alumni-detail">M.S. ESE, 2024</div>
+        <div class="alumni-detail"><em>&ldquo;Real-Time Safety-Critical Passive Torque Control with Analytic and Learning-based Constraints&rdquo;</em>; Best Master&rsquo;s Thesis in ESE; now Ph.D. candidate at UIUC</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Haihui Gao</div>
+        <div class="alumni-detail">M.S. ESE &amp; MEAM, 2024</div>
+        <div class="alumni-detail"><em>&ldquo;Advancing Dynamical Systems in Learning from Demonstration: A Novel Approach for Modeling Self-Crossing Trajectories&rdquo;</em>; now Ph.D. candidate at University of Montreal</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Satyajeet Das</div>
+        <div class="alumni-detail">M.S. ESE, 2024</div>
+        <div class="alumni-detail"><em>&ldquo;Towards Vision-based Safety: A Real-Time Approach for Generating Barrier Functions using Depth Sensors&rdquo;</em>; now Ph.D. candidate at USC (started Fall 2024)</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Haoming Li</div>
+        <div class="alumni-detail">M.S. ESE, 2024</div>
+        <div class="alumni-detail"><em>&ldquo;Towards Robust SLAM with Neural Implicit Representations&rdquo;</em>; Research Engineer at the University of Pennsylvania</div>
+      </div>
+    </div>
+
   </div>
 
 </div>
