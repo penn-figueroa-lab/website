@@ -61,7 +61,12 @@ permalink: /people/
   margin: .18rem 0; line-height: 1.18;
   word-wrap: break-word;
 }
-.person-card p{ margin: .15rem 0 0; }
+.person-card p{
+  margin: .15rem 0 0;
+  font-size: .7rem;
+  color: #555;
+}
+
 
 /* ===== Alumni (list format) ===== */
 .alumni-group{
