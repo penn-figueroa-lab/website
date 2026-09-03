@@ -16,9 +16,9 @@ permalink: /people/
 
 /* ===== Centered wrapper (matches research/publications pattern) ===== */
 .people-wrap{
-  width: min(96vw, 1400px);    /* roomy but constrained */
-  margin: 0 auto;              /* center on page */
-  padding: 0 16px;             /* small gutter */
+  width: min(96vw, 1100px);
+  margin: 0 auto;
+  padding: 0 16px;
 }
 
 
