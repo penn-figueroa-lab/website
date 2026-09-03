@@ -72,20 +72,6 @@ permalink: /research/
   padding: 0 12px;
 }
 
-/* Ultra-wide manual nudge (adjust -400px as needed to match header alignment) */
-@media (min-width: 1500px){
-  .research-wrap{
-    margin-left: -300px;   /* manual left shift */
-    margin-right: auto;
-  }
-}
-/* Re-center below that breakpoint */
-@media (max-width: 1499.98px){
-  .research-wrap{
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
 
 /* ===== Intro ===== */
 .rb-intro{
