@@ -11,7 +11,7 @@ permalink: /research/
     <p>
       Our goal is to study and develop the <b>physical and perceptual adaptive intelligence</b> necessary for robots to learn from and interact with humans, while being able to adapt to a wide-range of human capabilities, needs and ever-changing environments. We call this vision <b>fluid human-robot collaborative autonomy</b>; i.e., when humans and robots collaborate harmoniously. We focus on applications where such fluid collaboration is necessary or safety critical, such as teaching robots cumbersome dexterous manipulation tasks with minimal human effort, navigating swiftly and safely in busy human-centric spaces, physically assisting humans in heavy work and contact-rich activities, physical therapy and rehabilitation. We tackle these problems by developing novel and tightly coupled learning, control and estimation algorithms that enjoy from <b>stability, safety, efficiency and robustness guarantees</b>. This involves research at the intersection of control theory, machine learning, artificial intelligence, perception and biomechanics — with a physical human-robot interaction perspective.
     </p>
-<!--     <p>
+    <p>
       Below Prof. Figueroa's most recent research statement.
     </p>
     <p>
@@ -19,11 +19,10 @@ permalink: /research/
     </p>
     <p align="center">
       <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:90%; max-width:860px;">
-    </p> -->
+    </p>
   </div>
 
   <!-- ===== GRID (not clickable) ===== -->
-<!--
   <section class="rb-grid">
     <div class="rb-card">
       <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Assistive_Robotics.JPG" alt="Assistive Robotics & Biomechanics"></div>
@@ -50,7 +49,6 @@ permalink: /research/
       <h3>Perception for Manipulation</h3>
     </div>
   </section>
--->
 </section>
 
 <style>
@@ -64,14 +62,12 @@ permalink: /research/
 .main .page__content{ padding-top:0.35rem; }
 
 /* ===== Centered wrapper with bigger side margins =====
-   - Narrower width to create larger side gutters
-   - Manual left shift on very wide screens (same idea as publications) */
+   Truly centered at every screen width — no manual pixel nudges. */
 .research-wrap{
   width: min(82vw, 1100px);
   margin: 0 auto 1.5rem;
   padding: 0 12px;
 }
-
 
 /* ===== Intro ===== */
 .rb-intro{
