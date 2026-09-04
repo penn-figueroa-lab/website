@@ -25,7 +25,7 @@ permalink: /
     <img src="{{ 'assets/images/lab-trips/lab_ICRA_2025.jpeg' | relative_url }}" alt="Lab icra 2025" class="hs-slide">
     <img src="{{ '/assets/images/lab-pictures/IMG_4115.JPG' | relative_url }}" alt="Lab photo 3" class="hs-slide">
     <img src="{{ '/assets/images/lab-trips/lab_rss_2025.JPG' | relative_url }}" alt="Lab trip rss 2025" class="hs-slide">
-    <img src="{{ 'assets/images/lab-trips/PINGPONG.PNG' | relative_url }}" alt="Lab trip rss 2025" class="hs-slide">
+    <img src="{{ 'assets/images/lab-trips/PINGPONG.jpeg' | relative_url }}" alt="Lab trip rss 2025" class="hs-slide">
     <img src="{{ '/assets/images/awards-presentations-grads/best-paper-award-team.jpg' | relative_url }}" alt="ICRA 2026 Best conference paper team" class="hs-slide">    
     <img src="{{ '/assets/images/awards-presentations-grads/best-paper-award.jpg' | relative_url }}" alt="ICRA 2026 Best conference paper" class="hs-slide"> 
     <img src="{{ '/assets/images/awards-presentations-grads/planning-award-team.jpg' | relative_url }}" alt="ICRA 2026 Best planning paper team" class="hs-slide">    
