@@ -20,68 +20,58 @@ permalink: /publications/
       <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
       <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China </div>
-      <span class="pub-note">:military_medal: Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a></div>
+      <span class="pub-note">:trophy: Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a> <a class="pub-page" href="https://kilianft.github.io/DemoStitching/" target="_blank" rel="noopener">[Webpage]</a>   </div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">KGripper: A Push-On Twist-Off Passive Perching Mechanism</div>
       <div class="pub-authors">Weakly, J., Gong, V., Kang, T., Li, T., Figueroa, N. and Sung, C.</div>
       <div class="pub-venue"><em>ASME Journal of Mechanisms and Robotics</em>, 18(8):081005, August 2026 <a class="pub-link" href="https://asmedigitalcollection.asme.org/mechanismsrobotics/article/18/8/081005/1234110/KGripper-A-Push-On-Lift-Twist-Off-Passive-Perching" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Surviving the Paper Deluge: A One-Year Study in Learning From Demonstration [Science and Technology Watch]</div>
       <div class="pub-authors">Billard, A., Detry, R., Figueroa, N., Foriest, M., Lee, D. and Yao, K.</div>
       <div class="pub-venue"><em>IEEE Robotics &amp; Automation Magazine</em>, 33(2):205&ndash;211, June 2026 <a class="pub-link" href="https://doi.org/10.1109/MRA.2026.3682522" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Viability-Preserving Passive Torque Control</div>
       <div class="pub-authors">Zhang, Z., Wang, Y., Zhang, Z., Li, T. and Figueroa, N.</div>
       <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <a class="pub-link" href="https://arxiv.org/abs/2510.03367" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data</div>
       <div class="pub-authors">Li, T., Li, Y., Zhang, Z. and Figueroa, N.</div>
       <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <a class="pub-link" href="https://arxiv.org/abs/2510.02738" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation</div>
       <div class="pub-authors">Shao, Y., Zheng, Y., Sun, S., Chaudhari, P., Kumar, V., and Figueroa, N.</div>
       <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <span class="pub-note">:trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and :trophy: Best Conference Paper Award.</span> <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Occupancy-Aware Trajectory Planning for Autonomous Valet Parking in Uncertain Dynamic Environments</div>
       <div class="pub-authors">Nawaz, F., Sung, M., Gadginmath, D., D&rsquo;sa, J., Bae, S., Isele, D., Figueroa, N., Matni, N. and Tariq, F.M.</div>
       <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <a class="pub-link" href="https://arxiv.org/abs/2509.09206" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">VLMgineer: Vision Language Models as Robotic Toolsmiths</div>
       <div class="pub-authors">Gao, G.*, Li, T.*, Shi, J., Li, Y., Zhang, Z., Figueroa, N. and Jayaraman, D.</div>
       <div class="pub-venue"><em>Fourteenth International Conference on Learning Representations (ICLR)</em>, 2026, Rio de Janeiro, Brazil <a class="pub-link" href="https://arxiv.org/abs/2507.12644" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control</div>
       <div class="pub-authors">Xue, Y.*, Zhang, Z.*, Åkesson, K. and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE Robotics and Automation Letters</em>, 11(4):5096&ndash;5103, April 2026 <a class="pub-link" href="https://arxiv.org/abs/2601.10233" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">COMETH: Convex Optimization for Multi-view Estimation and Tracking of Humans</div>
       <div class="pub-authors">Martini, E., Choi, H., Figueroa, N. and Bombieri, N.</div>
       <div class="pub-venue"><em>Expert Systems With Applications</em>, February 2026 <a class="pub-link" href="https://arxiv.org/abs/2508.20920" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">RNBF: Real-Time RGB-D Based Neural Barrier Functions for Safe Robotic Navigation</div>
       <div class="pub-authors">Das, S., Xue, Y., Li, H. and Figueroa, N.</div>
       <div class="pub-venue"><em>18th IEEE/SICE Symposium on System Integration (SII)</em>, 2026, Cancun, Mexico <a class="pub-link" href="https://arxiv.org/abs/2505.02294" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
   </div>
 
   <h3 class="pub-heading">2025</h3>
@@ -344,6 +334,15 @@ permalink: /publications/
   white-space: nowrap;
 }
 .pub-link:hover{ text-decoration: underline; }
+
+/* Separate clickable link, bracketed like [Webpage] */
+.pub-page{
+  font-weight: 600;
+  color: #0056b3;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.pub-page:hover{ text-decoration: underline; }
 
 /* Mobile tweaks */
 @media (max-width: 480px){
