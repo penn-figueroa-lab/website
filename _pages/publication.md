@@ -333,6 +333,8 @@ permalink: /publications/
 }
 
 .pub-note{
+  margin-top: 0.1rem;
+  font-size: 0.80rem;
   color: #777;
 }
 
