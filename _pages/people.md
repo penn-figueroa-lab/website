@@ -253,18 +253,18 @@ permalink: /people/
     <h2>Undergraduate Research Interns</h2>
     <div class="people-grid">
       <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Lily Zhang"></a>
-        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Lily Zhang</h3></a>
+        <a href="https://www.linkedin.com/in/haoqin-lily-zhang/"><img src="{{ site.baseurl }}/assets/images/people/lily_zhang.jpeg" alt="Lily Zhang"></a>
+        <a href="https://www.linkedin.com/in/haoqin-lily-zhang/" target="_blank" rel="noopener"><h3>Lily Zhang</h3></a>
         <p>MEAM</p>
       </div>
       <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Aditya Pasumarthi"></a>
-        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Aditya Pasumarthi</h3></a>
+        <a href="https://www.linkedin.com/in/adityapasumarthi/"><img src="{{ site.baseurl }}/assets/images/people/aditya_pasumarthi.jpeg" alt="Aditya Pasumarthi"></a>
+        <a href="https://www.linkedin.com/in/adityapasumarthi/" target="_blank" rel="noopener"><h3>Aditya Pasumarthi</h3></a>
         <p>BE</p>
       </div>
       <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Jessica Luo"></a>
-        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Jessica Luo</h3></a>
+        <a href="https://www.linkedin.com/in/jessica-luo-eng28/"><img src="{{ site.baseurl }}/assets/images/people/jessica_luo.jpeg" alt="Jessica Luo"></a>
+        <a href="https://www.linkedin.com/in/jessica-luo-eng28/" target="_blank" rel="noopener"><h3>Jessica Luo</h3></a>
         <p>BE</p>
       </div>             
     </div>
