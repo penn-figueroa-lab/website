@@ -147,16 +147,17 @@ permalink: /people/
     </div>
   </div>
 
-  <!-- === Visiting Scholes === -->
+  <!-- === Visiting Research Scholars === -->
   <div class="people-section">
-    <h2>Research Engineers</h2>
+    <h2>Visiting Research Scholars</h2>
     <div class="people-grid">
-      <div class="person-card">
+        <div class="person-card">
         <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Michael North"></a>
         <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Daniel Da Silva Justino</h3></a>
         <p>Ph.D. Student at DLR (Germany)</p>
-      </div>      
-  </div>
+       </div>      
+     </div>
+    </div>
 
     <!-- === Research Engineers === -->
   <div class="people-section">
@@ -186,7 +187,7 @@ permalink: /people/
     <h2>Master's Students</h2>
     <div class="people-grid">
       <div class="person-card">
-        <a href="hhttps://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Wanting Yao<"></a>
+        <a href="hhttps://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/wanting_linkedin.png" alt="Wanting Yao<"></a>
         <a href="https://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><h3>Wanting Yao</h3></a>
         <p>ROBO, Thesis</p>
       </div>
@@ -211,13 +212,13 @@ permalink: /people/
         <p>ROBO, Thesis</p>
       </div>
        <div class="person-card">
-        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Ily Rafaeli"></a>
-        <a hhref="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Ily Rafaeli </h3></a>
+        <a href="https://ilyrr.github.io/index.html" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/Ily.jpeg" alt="Ily Rafaeli"></a>
+        <a hhref="https://ilyrr.github.io/index.html" target="_blank" rel="noopener"><h3>Ily Rafaeli </h3></a>
         <p>ROBO, Independent Study</p>
       </div>         
        <div class="person-card">
-        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Zhengmiao Huang"></a>
-        <a hhref="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Zhengmiao Huang </h3></a>
+        <a href="https://www.linkedin.com/in/zhengmiao-huang/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Zhengmiao Huang"></a>
+        <a hhref="https://www.linkedin.com/in/zhengmiao-huang/" target="_blank" rel="noopener"><h3>Zhengmiao Huang </h3></a>
         <p>ROBO, Independent Study</p>
       </div>      
       <div class="person-card">
@@ -236,7 +237,7 @@ permalink: /people/
         <p>ROBO, Intern</p>
       </div>
       <div class="person-card">
-        <a href="https://liyifei1218.github.io/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Yifei (Bruce) Li"></a>
+        <a href="https://liyifei1218.github.io/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yifei_bruce_li.jpg" alt="Yifei (Bruce) Li"></a>
         <a href="https://liyifei1218.github.io/"  target="_blank" rel="noopener"><h3>Yifei (Bruce) Li</h3></a>
         <p>ROBO, Intern</p>
       </div>
@@ -314,7 +315,7 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Davin Tjandra</div>
         <div class="alumni-detail">M.S. MEAM, 2025</div>
-        <div class="alumni-detail"><b>Next position:</b> Robotics Software Engineer at <a href="https://www.intrinsic.ai/" style="text-decoration:none" target="_blank" rel="noopener">f(i) Google Intrinsic</a></div>
+        <div class="alumni-detail"><b>Next position:</b> Robotics Software Engineer at <a href="https://www.intrinsic.ai/" style="text-decoration:none" target="_blank" rel="noopener">Google Intrinsic</a></div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Daudi Zein</div>
