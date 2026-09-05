@@ -46,7 +46,7 @@ permalink: /publications/
       <div class="pub-title">SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation</div>
       <div class="pub-authors">Shao, Y., Zheng, Y., Sun, S., Chaudhari, P., Kumar, V., and Figueroa, N.</div>
       <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria </div>
-      <div class="pub-note">:trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and :trophy: Best Conference Paper Award.</span> <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-note">:trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and :trophy: Best Conference Paper Award. <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Occupancy-Aware Trajectory Planning for Autonomous Valet Parking in Uncertain Dynamic Environments</div>
