@@ -9,7 +9,7 @@ permalink: /publications/
 
    <h3>For a complete list of publications by Prof. Figueroa, including pre-prints and papers from before the lab was founded (in 2022), please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.</h3>
 
-  <h2 class="pub-heading">2026</h2>
+  <h3 class="pub-heading">2026</h3>
   <div class="pub-list">
 
     <div class="pub-entry">
@@ -86,7 +86,7 @@ permalink: /publications/
 
   </div>
 
-  <h2 class="pub-heading">2025</h2>
+  <h3 class="pub-heading">2025</h3>
   <div class="pub-list">
 
     <div class="pub-entry">
@@ -139,7 +139,7 @@ permalink: /publications/
 
   </div>
 
-  <h2 class="pub-heading">2024</h2>
+  <h3 class="pub-heading">2024</h3>
   <div class="pub-list">
 
     <div class="pub-entry">
@@ -222,7 +222,7 @@ permalink: /publications/
 
   </div>
 
-  <h2 class="pub-heading">2023</h2>
+  <h3 class="pub-heading">2023</h3>
   <div class="pub-list">
 
     <div class="pub-entry">
@@ -251,7 +251,7 @@ permalink: /publications/
 
   </div>
 
-  <h2 class="pub-heading">2022</h2>
+  <h3 class="pub-heading">2022</h3>
   <div class="pub-list">
 
     <div class="pub-entry">
