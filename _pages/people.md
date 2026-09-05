@@ -261,18 +261,18 @@ permalink: /people/
     <div class="alumni-group">Ph.D. Students</div>
     <div class="alumni-list">
       <div class="alumni-entry">
-        <div class="alumni-name"><a href="https://sites.google.com/view/farhad-nawaz" target="_blank" rel="noopener">Farhad Nawaz</a> </div>
-        <div class="alumni-detail">ESE, 2026, Co-advised with Nikolai Matni<</div>
-        <div class="alumni-detail">After Graduating: Research Scientist at <a href="https://www.lila.ai/" target="_blank" rel="noopener">Lila Sciences</a>
+        <div class="alumni-name"><a href="https://sites.google.com/view/farhad-nawaz" style="text-decoration:none" target="_blank" rel="noopener">Farhad Nawaz</a> </div>
+        <div class="alumni-detail">ESE, 2026, Co-advised with Nikolai Matni</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Research Scientist at <a href="https://www.lila.ai/" style="text-decoration:none" target="_blank" rel="noopener">Lila Sciences</a>
           </div>
       </div>
     </div>
-    <div class="alumni-group">Visiting Scholars</div>
+    <div class="alumni-group">Visiting Research Scholars</div>
     <div class="alumni-list">
       <div class="alumni-entry">
         <div class="alumni-name">Ze Zhang</div>
-        <div class="alumni-detail">Automation, Chalmers University of Technology (Sweden) &mdash; Fall 2024</div>
-        <div class="alumni-detail">Ph.D. Candidate; Visiting Research Scholar (advised by Knut Åkesson)</div>
+        <div class="alumni-detail">Ph.D. Automation, Chalmers University of Technology (advised by Knut Åkesson) &mdash; Fall 2024</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Senior AI (Robotics) Engineer at  <a href="https://www.agile-robots.com/en/" style="text-decoration:none" target="_blank" rel="noopener">Agile Robots SE</a> </div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Enrico Martini</div>
