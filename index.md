@@ -68,7 +68,7 @@ permalink: /
     <div class="news-item">
       <div class="news-date">Aug 2026</div>
       <div class="news-body">
-        <div class="news-title">:sports_medal: Zero-Shot Generalization paper named CASE 2026 Best Conference Paper Finalist</div>
+        <div class="news-title">:trophy: Zero-Shot Generalization paper named CASE 2026 Best Conference Paper Finalist</div>
         <p>Congratulations to Kilian Freitag, Alvin Combrink, and Prof. Figueroa on their paper being selected as a finalist for the <a href="https://2026.ieeecase.org/awards/" target="_blank" rel="noopener">Best Conference Paper Award</a> at IEEE CASE 2026 in Shenyang, China.</p>
       </div>
     </div>

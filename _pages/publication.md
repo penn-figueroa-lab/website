@@ -19,14 +19,15 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
       <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China </div>
-      <span class="pub-note">:trophy: Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a> <a class="pub-page" href="https://kilianft.github.io/DemoStitching/" target="_blank" rel="noopener">[Webpage]</a>   </div>
+      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a> <a class="pub-page" href="https://kilianft.github.io/DemoStitching/" target="_blank" rel="noopener">[Webpage]</a></div>
+      <span class="pub-note">:trophy: Finalist for CASE 2026 Best Conference Paper.</span> </div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">KGripper: A Push-On Twist-Off Passive Perching Mechanism</div>
       <div class="pub-authors">Weakly, J., Gong, V., Kang, T., Li, T., Figueroa, N. and Sung, C.</div>
       <div class="pub-venue"><em>ASME Journal of Mechanisms and Robotics</em>, 18(8):081005, August 2026 <a class="pub-link" href="https://asmedigitalcollection.asme.org/mechanismsrobotics/article/18/8/081005/1234110/KGripper-A-Push-On-Lift-Twist-Off-Passive-Perching" target="_blank" rel="noopener">[Link]</a></div>
     </div>
+    
     <div class="pub-entry">
       <div class="pub-title">Surviving the Paper Deluge: A One-Year Study in Learning From Demonstration [Science and Technology Watch]</div>
       <div class="pub-authors">Billard, A., Detry, R., Figueroa, N., Foriest, M., Lee, D. and Yao, K.</div>
@@ -309,7 +310,7 @@ permalink: /publications/
 }
 
 .pub-authors{
-  margin-top: 0.15rem;
+  margin-top: 0.1rem;
   font-size: 0.80rem;
   color: #333;
 }
