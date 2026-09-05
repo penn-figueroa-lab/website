@@ -7,6 +7,8 @@ permalink: /publications/
 <!-- ===== Wide, centered content band ===== -->
 <section class="pub-wrap">
 
+   For a complete list of publications by Prof. Figueroa, including pre-prints and papers from before the Figueroa Lab was founded (2022)please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.
+
   <h2 class="pub-heading">2026</h2>
   <div class="pub-list">
 
@@ -314,19 +316,19 @@ permalink: /publications/
 
 .pub-title{
   font-weight: 700;
-  font-size: 1.02rem;
+  font-size: 0.90rem;
   color: #1a1a1a;
 }
 
 .pub-authors{
   margin-top: 0.15rem;
-  font-size: 0.95rem;
+  font-size: 0.80rem;
   color: #333;
 }
 
 .pub-venue{
   margin-top: 0.1rem;
-  font-size: 0.92rem;
+  font-size: 0.80rem;
   color: #555;
 }
 
