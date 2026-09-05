@@ -159,12 +159,12 @@ permalink: /people/
         <div class="person-card">
         <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Navjot Singh Chahal"></a>
         <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><h3>Navjot Singh Chahal</h3></a>
-        <p>M.Sc. EE 2026</p>
+        <p>M.Sc. EE, 2026</p>
       </div>
       <div class="person-card">
         <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Michael North"></a>
         <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Michael North</h3></a>
-        <p>B.S. BE, 2026</p>
+        <p>B.Sc. BE, 2026</p>
       </div>                  
     </div>
   </div>
@@ -369,7 +369,7 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Satyajeet Das</div>
         <div class="alumni-detail">M.S. ESE, 2024</div>
-        <div class="alumni-detail"><em>&ldquo;Towards Vision-based Safety: A Real-Time Approach for Generating Barrier Functions using Depth Sensors&rdquo;</em>; now Ph.D. candidate at USC (started Fall 2024)</div>
+        <div class="alumni-detail"><em>&ldquo;Towards Vision-based Safety: A Real-Time Approach for Generating Barrier Functions using Depth Sensors&rdquo;</em>; now Ph.D. candidate at USC</div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Haoming Li</div>
