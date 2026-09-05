@@ -228,7 +228,12 @@ permalink: /people/
         <a href="https://liyifei1218.github.io/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Yifei (Bruce) Li"></a>
         <a href="https://liyifei1218.github.io/"  target="_blank" rel="noopener"><h3>Yifei (Bruce) Li</h3></a>
         <p>ROBO, Intern</p>
-      </div>                         
+      </div>
+        <div class="person-card">
+        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Boyan Zhang"></a>
+        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><h3>Boyan Zhang</h3></a>
+        <p>ROBO, Intern</p>
+      </div>                             
     </div>
   </div>
 
@@ -262,7 +267,7 @@ permalink: /people/
     <div class="alumni-list">
       <div class="alumni-entry">
         <!-- <div class="alumni-name"><a href="https://sites.google.com/view/farhad-nawaz" style="text-decoration:none" target="_blank" rel="noopener">Farhad Nawaz</a> </div> -->
-         <div class="alumni-name">Farhad Nawaz</div>       
+         <div class="alumni-name">Farhad Nawaz </div>       
         <div class="alumni-detail">ESE, 2026, Co-advised with Nikolai Matni</div>
         <div class="alumni-detail"><b>After Graduating:</b> Scientist at <a href="https://www.lila.ai/" style="text-decoration:none" target="_blank" rel="noopener">Lila Sciences</a>
           </div>
@@ -288,17 +293,17 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Zizhe Zhang</div>
         <div class="alumni-detail">M.S. Robotics, 2026</div>
-        <div class="alumni-detail"><b>Next position:</b>Ph.D student at Johns Hopkins University</div>
+        <div class="alumni-detail"><b>Next position:</b> Ph.D student at Johns Hopkins University</div>
       </div>      
       <div class="alumni-entry">
         <div class="alumni-name">Jalaj Shukla</div>
         <div class="alumni-detail">M.S. MEAM, 2025</div>
-        <div class="alumni-detail"><b>Next position:</b> Co-founder of Intelligence Factory</div>
+        <div class="alumni-detail"><b>Next position:</b> Co-founder of <a href="https://www.intelligence-factory.com/" style="text-decoration:none" target="_blank" rel="noopener">f(i) Intelligence Factory</a></div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Davin Tjandra</div>
         <div class="alumni-detail">M.S. MEAM, 2025</div>
-        <div class="alumni-detail"><b>Next position:</b> Robotics Software Engineer at Google Intrinsic</div>
+        <div class="alumni-detail"><b>Next position:</b> Robotics Software Engineer at <a href="https://www.intrinsic.ai/" style="text-decoration:none" target="_blank" rel="noopener">f(i) Google Intrinsic</a></div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Daudi Zein</div>
