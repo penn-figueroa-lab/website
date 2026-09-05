@@ -304,7 +304,7 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Zizhe Zhang</div>
         <div class="alumni-detail">M.S. Robotics, 2026</div>
-        <div class="alumni-detail"><b>Next position:</b> Ph.D student at Johns Hopkins University advised by <a href="https://haiminhu.org/ style="text-decoration:none" target="_blank" rel="noopener">Haimin Hu</a></div>
+        <div class="alumni-detail"><b>Next position:</b> Ph.D student at Johns Hopkins University advised by <a href="https://haiminhu.org/" style="text-decoration:none" target="_blank" rel="noopener">Haimin Hu</a></div>
       </div>      
       <div class="alumni-entry">
         <div class="alumni-name">Jalaj Shukla</div>
