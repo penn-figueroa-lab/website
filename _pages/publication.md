@@ -7,7 +7,7 @@ permalink: /publications/
 <!-- ===== Wide, centered content band ===== -->
 <section class="pub-wrap">
 
-   For a complete list of publications by Prof. Figueroa, including pre-prints and papers from before the Figueroa Lab was founded (2022)please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.
+   <h2>For a complete list of publications by Prof. Figueroa, including pre-prints and papers from before the lab was founded (2022), please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.</h2>
 
   <h2 class="pub-heading">2026</h2>
   <div class="pub-list">
