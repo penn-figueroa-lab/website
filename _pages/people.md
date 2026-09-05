@@ -261,9 +261,10 @@ permalink: /people/
     <div class="alumni-group">Ph.D. Students</div>
     <div class="alumni-list">
       <div class="alumni-entry">
-        <div class="alumni-name"><a href="https://sites.google.com/view/farhad-nawaz" style="text-decoration:none" target="_blank" rel="noopener">Farhad Nawaz</a> </div>
+        <!-- <div class="alumni-name"><a href="https://sites.google.com/view/farhad-nawaz" style="text-decoration:none" target="_blank" rel="noopener">Farhad Nawaz</a> </div> -->
+         <div class="alumni-name">Farhad Nawaz</a> </div>       
         <div class="alumni-detail">ESE, 2026, Co-advised with Nikolai Matni</div>
-        <div class="alumni-detail"><b>After Graduating:</b> Research Scientist at <a href="https://www.lila.ai/" style="text-decoration:none" target="_blank" rel="noopener">Lila Sciences</a>
+        <div class="alumni-detail"><b>After Graduating:</b> Scientist at <a href="https://www.lila.ai/" style="text-decoration:none" target="_blank" rel="noopener">Lila Sciences</a>
           </div>
       </div>
     </div>
