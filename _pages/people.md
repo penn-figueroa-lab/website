@@ -151,8 +151,8 @@ permalink: /people/
     <h2>Visiting Research Scholars</h2>
     <div class="people-grid">
         <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Michael North"></a>
-        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Daniel Da Silva Justino</h3></a>
+        <a href="https://www.linkedin.com/in/daniel-justino/"><img src="{{ site.baseurl }}/assets/images/people/daniel_justino.jpeg" alt="Daniel Da Silva Justino"></a>
+        <a href="https://www.linkedin.com/in/daniel-justino/" target="_blank" rel="noopener"><h3>Daniel Da Silva Justino</h3></a>
         <p>Ph.D. Student at DLR (Germany)</p>
        </div>      
      </div>
@@ -173,8 +173,8 @@ permalink: /people/
         <p>M.S. EE, 2026</p>
       </div>
       <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Michael North"></a>
-        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Michael North</h3></a>
+        <a href="https://www.linkedin.com/in/michaelgnorth/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Michael North"></a>
+        <a href="https://www.linkedin.com/in/michaelgnorth/" target="_blank" rel="noopener"><h3>Michael North</h3></a>
         <p>B.S. BE, 2026</p>
       </div>                  
     </div>
@@ -201,13 +201,13 @@ permalink: /people/
         <p>ROBO, Thesis</p>
       </div>
       <div class="person-card">
-        <a href="https://www.linkedin.com/in/tianyixia0618/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Tianyi Xia"></a>
+        <a href="https://www.linkedin.com/in/tianyixia0618/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/tianyi_xia.jpg" alt="Tianyi Xia"></a>
         <a href="https://www.linkedin.com/in/tianyixia0618/" target="_blank" rel="noopener"><h3>Tianyi Xia</h3></a>
         <p>ROBO, Thesis</p>
       </div> 
       <div class="person-card">
-        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Dmitri Dobrynin"></a>
-        <a hhref="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Dmitri Dobrynin </h3></a>
+        <a href="https://www.linkedin.com/in/dmitri-dobrynin-9b7b59385/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Dmitri Dobrynin"></a>
+        <a hhref="https://www.linkedin.com/in/dmitri-dobrynin-9b7b59385/" target="_blank" rel="noopener"><h3>Dmitri Dobrynin </h3></a>
         <p>ROBO, Thesis</p>
       </div>
        <div class="person-card">
@@ -226,13 +226,13 @@ permalink: /people/
         <p>ROBO, Intern</p>
       </div>
       <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Yifan Wu"></a>
-        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><h3>Yifan Wu</h3></a>
+        <a href=""  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Yifan Wu"></a>
+        <a href=""  target="_blank" rel="noopener"><h3>Yifan Wu</h3></a>
         <p>ROBO, Intern</p>
       </div>
       <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Ethan Yang"></a>
-        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><h3>Ethan Yang</h3></a>
+        <a href=""  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/Ethan_NEW.jpeg" alt="Ethan Yang"></a>
+        <a href=""  target="_blank" rel="noopener"><h3>Ethan Yang</h3></a>
         <p>ROBO, Intern</p>
       </div>
       <div class="person-card">
@@ -241,8 +241,8 @@ permalink: /people/
         <p>ROBO, Intern</p>
       </div>
         <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Boyan Zhang"></a>
-        <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><h3>Boyan Zhang</h3></a>
+        <a href="https://www.linkedin.com/in/boyanz0417/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/boyan_zhang.jpeg" alt="Boyan Zhang"></a>
+        <a href="https://www.linkedin.com/in/boyanz0417/"  target="_blank" rel="noopener"><h3>Boyan Zhang</h3></a>
         <p>ROBO, Intern</p>
       </div>                             
     </div>
