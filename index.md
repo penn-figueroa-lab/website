@@ -69,7 +69,7 @@ permalink: /
       <div class="news-date">Aug 2026</div>
       <div class="news-body">
         <div class="news-title">:trophy: Zero-Shot Generalization paper named CASE 2026 Best Conference Paper Finalist</div>
-        <p>Congratulations to Lukas Freitag, Alvin Combrink, and Prof. Figueroa on their paper being selected as a finalist for the <a href="https://2026.ieeecase.org/awards/" target="_blank" rel="noopener">Best Conference Paper Award</a> at IEEE CASE 2026 in Shenyang, China.</p>
+        <p>Congratulations to Kilian Freitag, Alvin Combrink, and Prof. Figueroa on their paper being selected as a finalist for the <a href="https://2026.ieeecase.org/awards/" target="_blank" rel="noopener">Best Conference Paper Award</a> at IEEE CASE 2026 in Shenyang, China.</p>
       </div>
     </div>
 
@@ -160,7 +160,7 @@ permalink: /
 .hero-subtext a:hover{ text-decoration: underline; }
 
 .hero-subtext.funding-logos{
-  max-width: 1500px;
+  max-width: 1600px;
 }
 .funding-logos-row{
   display: flex;
@@ -175,7 +175,7 @@ permalink: /
   height: auto;
   width: auto;
   max-height: clamp(32px, 8vw, 70px);
-  max-width: 22%;
+  max-width: 25%;
   object-fit: contain;
   flex: 0 1 auto;
 }

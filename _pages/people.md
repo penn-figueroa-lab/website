@@ -262,7 +262,7 @@ permalink: /people/
     <div class="alumni-list">
       <div class="alumni-entry">
         <!-- <div class="alumni-name"><a href="https://sites.google.com/view/farhad-nawaz" style="text-decoration:none" target="_blank" rel="noopener">Farhad Nawaz</a> </div> -->
-         <div class="alumni-name">Farhad Nawaz</a> </div>       
+         <div class="alumni-name">Farhad Nawaz</div>       
         <div class="alumni-detail">ESE, 2026, Co-advised with Nikolai Matni</div>
         <div class="alumni-detail"><b>After Graduating:</b> Scientist at <a href="https://www.lila.ai/" style="text-decoration:none" target="_blank" rel="noopener">Lila Sciences</a>
           </div>
@@ -272,46 +272,47 @@ permalink: /people/
     <div class="alumni-list">
       <div class="alumni-entry">
         <div class="alumni-name">Ze Zhang</div>
-        <div class="alumni-detail">Ph.D. Automation, Chalmers University of Technology (advised by Knut Åkesson) &mdash; Fall 2024</div>
+        <div class="alumni-detail">Ph.D. in Automation, Chalmers University of Technology, Sweden </div>
+        <div class="alumni-detail">Advised by Knut Åkesson &mdash; Fall 2024 </div>
         <div class="alumni-detail"><b>After Graduating:</b> Senior AI (Robotics) Engineer at  <a href="https://www.agile-robots.com/en/" style="text-decoration:none" target="_blank" rel="noopener">Agile Robots SE</a> </div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Enrico Martini</div>
-        <div class="alumni-detail">Computer Science, University of Verona (Italy) &mdash; Spring 2024</div>
-        <div class="alumni-detail">Ph.D. Candidate; Visiting Research Scholar (advised by Nicola Bombieri)</div>
+        <div class="alumni-detail">Ph.D. in Computer Science, University of Verona, Italy </div>
+        <div class="alumni-detail">Advised by Nicola Bombieri &mdash; Spring 2024 </div>
+        <div class="alumni-detail"><b>After Graduating:</b> Postdoctoral Researcher/Lecturer at  <a href="https://www.univr.it/en/university" style="text-decoration:none" target="_blank" rel="noopener">University of Verona</a></div>
       </div>
     </div>
     <div class="alumni-group">Research Engineers</div>
     <div class="alumni-list">
       <div class="alumni-entry">
+        <div class="alumni-name">Zizhe Zhang</div>
+        <div class="alumni-detail">M.S. Robotics, 2026</div>
+        <div class="alumni-detail"><b>Next position:</b>Ph.D student at Johns Hopkins University</div>
+      </div>      
+      <div class="alumni-entry">
         <div class="alumni-name">Jalaj Shukla</div>
         <div class="alumni-detail">M.S. MEAM, 2025</div>
-        <div class="alumni-detail">After Graduating: Co-founder of Intelligence Factory</div>
+        <div class="alumni-detail"><b>Next position:</b> Co-founder of Intelligence Factory</div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Davin Tjandra</div>
         <div class="alumni-detail">M.S. MEAM, 2025</div>
-        <div class="alumni-detail">After Graduating: Robotics Software Engineer at Intrinsic (Google)</div>
+        <div class="alumni-detail"><b>Next position:</b> Robotics Software Engineer at Google Intrinsic</div>
       </div>
       <div class="alumni-entry">
-        <div class="alumni-name">George [Jiayuan] Gao</div>
-        <div class="alumni-detail">M.S. Robotics, 2025</div>
-        <div class="alumni-detail">After Graduating: Research Engineer at Dyna Robotics</div>
-      </div>
+        <div class="alumni-name">Daudi Zein</div>
+        <div class="alumni-detail">M.S. MEAM, 2025</div>
+      </div>      
       <div class="alumni-entry">
         <div class="alumni-name">Yi-Hsuan Cheng</div>
         <div class="alumni-detail">M.S. Robotics, 2025</div>
-        <div class="alumni-detail">After Graduating: ML-AI Robotics Engineer at RoboForce</div>
-      </div>
-      <div class="alumni-entry">
-        <div class="alumni-name">Shaoting Peng</div>
-        <div class="alumni-detail">M.S. Robotics, 2024</div>
-        <div class="alumni-detail">After Graduating: PhD student at UIUC</div>
-      </div>
+        <div class="alumni-detail"><b>Next position:</b> Member of Technical Staff at RoboForce</div>
+      </div>  
       <div class="alumni-entry">
         <div class="alumni-name">Harshil Parekh</div>
         <div class="alumni-detail">M.S. Robotics, 2023</div>
-        <div class="alumni-detail">After Graduating: Robotics Software Engineer at BotBuilt</div>
+        <div class="alumni-detail"><b>Next position:</b> Robotics Solutions Engineer at Path Robotics</div>
       </div>
     </div>
 <!--       <div class="person-card">
