@@ -68,7 +68,7 @@ permalink: /
     <div class="news-item">
       <div class="news-date">Aug 2026</div>
       <div class="news-body">
-        <div class="news-title">Zero-Shot Generalization paper named CASE 2026 Best Conference Paper Finalist</div>
+        <div class="news-title">:trophy: Zero-Shot Generalization paper named CASE 2026 Best Conference Paper Finalist</div>
         <p>Congratulations to Lukas Freitag, Alvin Combrink, and Prof. Figueroa on their paper being selected as a finalist for the <a href="https://2026.ieeecase.org/awards/" target="_blank" rel="noopener">Best Conference Paper Award</a> at IEEE CASE 2026 in Shenyang, China.</p>
       </div>
     </div>
@@ -76,7 +76,7 @@ permalink: /
     <div class="news-item">
       <div class="news-date">May 2026</div>
       <div class="news-body">
-        <div class="news-title">Two Best Paper Awards at ICRA 2026</div>
+        <div class="news-title">:trophy::trophy: Two Best Paper Awards at ICRA 2026</div>
         <p>SymSkill won both the <a href="https://2026.ieee-icra.org/awards/" target="_blank" rel="noopener">Best Paper Award in Planning and Control and the overall Best Conference Paper Award</a> at IEEE ICRA 2026 in Vienna, Austria &mdash; congratulations to the team!</p>
       </div>
     </div>
