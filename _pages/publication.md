@@ -7,7 +7,7 @@ permalink: /publications/
 <!-- ===== Wide, centered content band ===== -->
 <section class="pub-wrap">
 
-   <h3>Below we list all peer-reviewed conference, journal and transactions papers published since the lab was founded in 2022. For a complete list of publications including pre-prints and papers from prior years, please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.</h3>
+   <h3>Below we list all peer-reviewed conference, journal and transactions papers published since the lab was founded in 2022. For a complete list of publications, please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.</h3>
 
   <h3 class="pub-heading">2026</h3>
   <div class="pub-list">
@@ -35,7 +35,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Viability-Preserving Passive Torque Control</div>
       <div class="pub-authors">Zhang, Z., Wang, Y., Zhang, Z., Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <a class="pub-link" href="https://arxiv.org/abs/2510.03367" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <a class="pub-link" href="https://arxiv.org/abs/2510.03367" target="_blank" rel="noopener">[Link]</a><a class="pub-page" href="https://vpp-tc.github.io/webpage/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=GWP8MLrufxc" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data</div>
@@ -335,6 +335,24 @@ permalink: /publications/
   white-space: nowrap;
 }
 .pub-page:hover{ text-decoration: underline; }
+
+/* Separate clickable link, bracketed like [Code] */
+.pub-code{
+  font-weight: 600;
+  color: #0056b3;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.pub-code:hover{ text-decoration: underline; }
+
+/* Separate clickable link, bracketed like [Video] */
+.pub-video{
+  font-weight: 600;
+  color: #0056b3;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.pub-video:hover{ text-decoration: underline; }
 
 /* Mobile tweaks */
 @media (max-width: 480px){
