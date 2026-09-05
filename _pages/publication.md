@@ -11,19 +11,17 @@ permalink: /publications/
 
   <h3 class="pub-heading">2026</h3>
   <div class="pub-list">
-
     <div class="pub-entry">
       <div class="pub-title">N3P: Accelerated Automated Parking via a Learning-Based Naturalistic Three-Stage Scheme</div>
       <div class="pub-authors">Xue, Y.*, Mohammadnejad, T., Tariq, F.M., Bae, S., Isele, D., Sakamoto, Y., Figueroa, N. and D&rsquo;sa, J.</div>
       <div class="pub-venue"><em>IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)</em> <span class="pub-note">To be presented.</span> <a class="pub-link" href="https://arxiv.org/abs/2605.22722" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
       <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China <span class="pub-note">:sports_medal: Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China </div>
+      <span class="pub-note">:military_medal: Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">KGripper: A Push-On Twist-Off Passive Perching Mechanism</div>
       <div class="pub-authors">Weakly, J., Gong, V., Kang, T., Li, T., Figueroa, N. and Sung, C.</div>
