@@ -147,6 +147,17 @@ permalink: /people/
     </div>
   </div>
 
+  <!-- === Visiting Scholes === -->
+  <div class="people-section">
+    <h2>Research Engineers</h2>
+    <div class="people-grid">
+      <div class="person-card">
+        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Michael North"></a>
+        <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Daniel Da Silva Justino</h3></a>
+        <p>Ph.D. Student at DLR (Germany)</p>
+      </div>      
+  </div>
+
     <!-- === Research Engineers === -->
   <div class="people-section">
     <h2>Research Engineers</h2>
@@ -154,17 +165,17 @@ permalink: /people/
         <div class="person-card">
         <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Natey Kim"></a>
         <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
-        <p>M.Sc. Robotics, 2026</p>
+        <p>M.S. Robotics, 2026</p>
       </div>  
         <div class="person-card">
         <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Navjot Singh Chahal"></a>
         <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><h3>Navjot Singh Chahal</h3></a>
-        <p>M.Sc. EE, 2026</p>
+        <p>M.S. EE, 2026</p>
       </div>
       <div class="person-card">
         <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Michael North"></a>
         <a href="{{ site.baseurl }}/people/" target="_blank" rel="noopener"><h3>Michael North</h3></a>
-        <p>B.Sc. BE, 2026</p>
+        <p>B.S. BE, 2026</p>
       </div>                  
     </div>
   </div>
@@ -172,7 +183,7 @@ permalink: /people/
 
   <!-- === M.Sc. Students === -->
   <div class="people-section">
-    <h2>M.Sc. Students</h2>
+    <h2>Master's Students</h2>
     <div class="people-grid">
       <div class="person-card">
         <a href="hhttps://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Wanting Yao<"></a>
@@ -239,7 +250,7 @@ permalink: /people/
 
   <!-- === Undergraduate Researchers === -->
   <div class="people-section">
-    <h2>Undergraduate Researchers</h2>
+    <h2>Undergraduate Research Interns</h2>
     <div class="people-grid">
       <div class="person-card">
         <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Lily Zhang"></a>
