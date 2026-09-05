@@ -125,7 +125,6 @@ permalink: /people/
       <div class="person-card"><a href="https://www.linkedin.com/in/yifan-xue-523168178/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yifan_xue.JPG" alt="Yifan Xue"></a><a href="https://www.linkedin.com/in/yifan-xue-523168178/" target="_blank" rel="noopener"><h3>Yifan Xue</h3></a><p>MEAM</p></div>
       <div class="person-card"><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/shafagh_keyvanian.jpg" alt="Shafagh Keyvanian"></a><a href="https://www.linkedin.com/in/shafagh-keyvanian-609b607a/" target="_blank" rel="noopener"><h3>Shafagh Keyvanian</h3></a><p>MEAM, Co-advised with Michelle Johnson</p></div>
       <div class="person-card"><a href="https://shaoyifei96.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/simon-800.jpg" alt="Yifei Simon Shao"></a><a href="https://shaoyifei96.github.io/" target="_blank" rel="noopener"><h3>Yifei Simon Shao</h3></a><p>CIS, Close collaborator co-advised by V. Kumar & P. Chaudhari</p></div>
-      <!-- <div class="person-card"><a href="https://sites.google.com/view/farhad-nawaz" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/farhad_nawaz.JPG" alt="Farhad Nawaz"></a><a href="https://sites.google.com/view/farhad-nawaz" target="_blank" rel="noopener"><h3>Farhad Nawaz</h3></a><p>ESE, 2023–present<br><em>Co-advised with Nikolai Matni</em></p></div>   -->
       <div class="person-card"><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ho_jin_choi.JPG" alt="Ho Jin Choi"></a><a href="https://www.linkedin.com/in/ho-jin-choi-425856208/" target="_blank" rel="noopener"><h3>Ho Jin Choi</h3></a><p>MEAM</p></div>
       <div class="person-card">
         <a href="https://sunan-sun.github.io/" target="_blank" rel="noopener">
@@ -213,18 +212,23 @@ permalink: /people/
       <div class="person-card">
         <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dayoon_suh.JPG" alt="Dayoon Suh"></a>
         <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><h3>Dayoon Suh</h3></a>
-        <p>Robot, Intern</p>
+        <p>ROBO, Intern</p>
       </div>
       <div class="person-card">
         <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Yifan Wu"></a>
         <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><h3>Yifan Wu</h3></a>
-        <p>Robot, Intern</p>
+        <p>ROBO, Intern</p>
       </div>
       <div class="person-card">
         <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Ethan Yang"></a>
         <a href="{{ site.baseurl }}/people/"  target="_blank" rel="noopener"><h3>Ethan Yang</h3></a>
-        <p>Robot, Intern</p>
-      </div>      
+        <p>ROBO, Intern</p>
+      </div>
+      <div class="person-card">
+        <a href="https://liyifei1218.github.io/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Yifei (Bruce) Li"></a>
+        <a href="https://liyifei1218.github.io/"  target="_blank" rel="noopener"><h3>Yifei (Bruce) Li</h3></a>
+        <p>ROBO, Intern</p>
+      </div>                         
     </div>
   </div>
 
@@ -250,73 +254,32 @@ permalink: /people/
     </div>
   </div>
 
-<!--       <div class="person-card">
-        <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/mateusz_jaszczuk.JPG" alt="Mateusz Jaszczuk"></a>
-        <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><h3>Mateusz Jaszczuk</h3></a>
-        <p>M.S. MEAM, 2026<br>2024–present<br><em>Thesis: “Learning to Feel: Force-Aware Data-Driven Estimation and Control for Fluid Physical Interaction”</em></p>
-      </div> -->
-<!--       <div class="person-card">  
-        <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ekaterina_skorniakova.JPG" alt="Ekaterina Skorniakova"></a>
-        <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><h3>Ekaterina Skorniakova</h3></a>
-        <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Coupled Passive Dynamical System Interaction Control on SE(3)”</em></p>
-      </div>
-      <div class="person-card">
-        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Natey Kim"></a>
-        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
-        <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Real-time Human Limb Dynamics Tracking via HD-sEMG driven Musculoskeletal Digital Twin Modeling”</em></p>
-      </div>
-      <div class="person-card">  
-        <a href="http://www.yihanli.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yihan_li.JPG" alt="Yihan Li"></a>
-        <a href="http://www.yihanli.io/" target="_blank" rel="noopener"><h3>Yihan Li</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Thesis: “RoboHockey: A Robotic Benchmark for Dynamic Whole-body Contact-rich Tasks”</em></p>
-      </div>
-      <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/bio-photo.jpg" alt="Felix Zheng"></a>
-        <a href="{{ site.baseurl }}/people/"><h3>Felix [Yuchen] Zheng</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Thesis: “Object-centric 3D Operator World Models for Planning Common Cooking Tasks”</em></p>
-      </div>
-    </div> -->
-  <!-- === Master's Research Interns === -->
-<!--   <div class="people-section">
-    <h2>Master's Research Interns</h2>
-    <div class="people-grid">
-      <div class="person-card">   
-        <a href="https://zizhe.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/zizhe_zhang.JPG" alt="Zizhe Zhang"></a>
-        <a href="https://zizhe.io/" target="_blank" rel="noopener"><h3>Zizhe Zhang</h3></a>
-        <p>M.S. Robotics, 2026<br>2024–present<br><em>Research Intern Spring-Fall 2025</em></p>
-      </div>
-      <div class="person-card">   
-        <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/jason_chen.JPG" alt="Jason Chen"></a>
-        <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank" rel="noopener"><h3>Jason Chen</h3></a>
-        <p>M.S. MEAM, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
-      </div>
-      <div class="person-card">   
-        <a href="https://lintao-zheng.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/Lintao Zheng.JPG" alt="Lintao Zheng"></a>
-        <a href="https://lintao-zheng.github.io/" target="_blank" rel="noopener"><h3>Lintao Zheng</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
-      </div>
-      <div class="person-card">   
-        <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dhyey_shah.JPG" alt="Dhyey Shah"></a>
-        <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank" rel="noopener"><h3>Dhyey Shah</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
-      </div>
-      <div class="person-card">   
-        <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yicong_wang.JPG" alt="Yicong Wang"></a>
-        <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><h3>Yicong Wang</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
-      </div> -->
-  <!-- </div> -->
-  <!--     <div class="people-grid">
-      <div class="person-card">
-        <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/daudi_zein.JPG" alt="Daudi Zein"></a>
-        <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><h3>Daudi Zein</h3></a>
-        <p>M.S. Robotics, 2025<br>2025-present<br><em>Research Engineer</em></p>
-      </div> -->
 
   <!-- === Alumni (list format) === -->
   <div class="people-section">
     <h2>Alumni</h2>
-
+    <div class="alumni-group">Ph.D. Students</div>
+    <div class="alumni-list">
+      <div class="alumni-entry">
+        <div class="alumni-name"><a href="https://sites.google.com/view/farhad-nawaz" target="_blank" rel="noopener">Farhad Nawaz</a> </div>
+        <div class="alumni-detail">ESE, 2026, Co-advised with Nikolai Matni<</div>
+        <div class="alumni-detail">After Graduating: Research Scientist at <a href="https://www.lila.ai/" target="_blank" rel="noopener">Lila Sciences</a>
+          </div>
+      </div>
+    </div>
+    <div class="alumni-group">Visiting Scholars</div>
+    <div class="alumni-list">
+      <div class="alumni-entry">
+        <div class="alumni-name">Ze Zhang</div>
+        <div class="alumni-detail">Automation, Chalmers University of Technology (Sweden) &mdash; Fall 2024</div>
+        <div class="alumni-detail">Ph.D. Candidate; Visiting Research Scholar (advised by Knut Åkesson)</div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Enrico Martini</div>
+        <div class="alumni-detail">Computer Science, University of Verona (Italy) &mdash; Spring 2024</div>
+        <div class="alumni-detail">Ph.D. Candidate; Visiting Research Scholar (advised by Nicola Bombieri)</div>
+      </div>
+    </div>
     <div class="alumni-group">Research Engineers</div>
     <div class="alumni-list">
       <div class="alumni-entry">
@@ -350,22 +313,33 @@ permalink: /people/
         <div class="alumni-detail">After Graduating: Robotics Software Engineer at BotBuilt</div>
       </div>
     </div>
-
-    <div class="alumni-group">Visiting Scholars</div>
-    <div class="alumni-list">
-      <div class="alumni-entry">
-        <div class="alumni-name">Ze Zhang</div>
-        <div class="alumni-detail">Automation, Chalmers University of Technology (Sweden) &mdash; Fall 2024</div>
-        <div class="alumni-detail">Ph.D. Candidate; Visiting Research Scholar (advised by Knut Åkesson)</div>
+<!--       <div class="person-card">
+        <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/mateusz_jaszczuk.JPG" alt="Mateusz Jaszczuk"></a>
+        <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><h3>Mateusz Jaszczuk</h3></a>
+        <p>M.S. MEAM, 2026<br>2024–present<br><em>Thesis: “Learning to Feel: Force-Aware Data-Driven Estimation and Control for Fluid Physical Interaction”</em></p>
+      </div> -->
+<!--       <div class="person-card">  
+        <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ekaterina_skorniakova.JPG" alt="Ekaterina Skorniakova"></a>
+        <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><h3>Ekaterina Skorniakova</h3></a>
+        <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Coupled Passive Dynamical System Interaction Control on SE(3)”</em></p>
       </div>
-      <div class="alumni-entry">
-        <div class="alumni-name">Enrico Martini</div>
-        <div class="alumni-detail">Computer Science, University of Verona (Italy) &mdash; Spring 2024</div>
-        <div class="alumni-detail">Ph.D. Candidate; Visiting Research Scholar (advised by Nicola Bombieri)</div>
+      <div class="person-card">
+        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Natey Kim"></a>
+        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
+        <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Real-time Human Limb Dynamics Tracking via HD-sEMG driven Musculoskeletal Digital Twin Modeling”</em></p>
       </div>
-    </div>
-
-    <div class="alumni-group">Master&rsquo;s Thesis</div>
+      <div class="person-card">  
+        <a href="http://www.yihanli.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yihan_li.JPG" alt="Yihan Li"></a>
+        <a href="http://www.yihanli.io/" target="_blank" rel="noopener"><h3>Yihan Li</h3></a>
+        <p>M.S. Robotics, 2026<br>2025–present<br><em>Thesis: “RoboHockey: A Robotic Benchmark for Dynamic Whole-body Contact-rich Tasks”</em></p>
+      </div>
+      <div class="person-card">
+        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/bio-photo.jpg" alt="Felix Zheng"></a>
+        <a href="{{ site.baseurl }}/people/"><h3>Felix [Yuchen] Zheng</h3></a>
+        <p>M.S. Robotics, 2026<br>2025–present<br><em>Thesis: “Object-centric 3D Operator World Models for Planning Common Cooking Tasks”</em></p>
+      </div>
+    </div> -->
+    <div class="alumni-group">Master&rsquo;s Theses</div>
     <div class="alumni-list">
       <div class="alumni-entry">
         <div class="alumni-name">Paul [Sanghyub] Lee</div>
@@ -403,6 +377,44 @@ permalink: /people/
         <div class="alumni-detail"><em>&ldquo;Towards Robust SLAM with Neural Implicit Representations&rdquo;</em>; Research Engineer at the University of Pennsylvania</div>
       </div>
     </div>
+
+      <!-- === Master's Research Interns === -->
+<!--   <div class="people-section">
+    <h2>Master's Research Interns</h2>
+    <div class="people-grid">
+      <div class="person-card">   
+        <a href="https://zizhe.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/zizhe_zhang.JPG" alt="Zizhe Zhang"></a>
+        <a href="https://zizhe.io/" target="_blank" rel="noopener"><h3>Zizhe Zhang</h3></a>
+        <p>M.S. Robotics, 2026<br>2024–present<br><em>Research Intern Spring-Fall 2025</em></p>
+      </div>
+      <div class="person-card">   
+        <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/jason_chen.JPG" alt="Jason Chen"></a>
+        <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank" rel="noopener"><h3>Jason Chen</h3></a>
+        <p>M.S. MEAM, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
+      </div>
+      <div class="person-card">   
+        <a href="https://lintao-zheng.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/Lintao Zheng.JPG" alt="Lintao Zheng"></a>
+        <a href="https://lintao-zheng.github.io/" target="_blank" rel="noopener"><h3>Lintao Zheng</h3></a>
+        <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
+      </div>
+      <div class="person-card">   
+        <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dhyey_shah.JPG" alt="Dhyey Shah"></a>
+        <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank" rel="noopener"><h3>Dhyey Shah</h3></a>
+        <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
+      </div>
+      <div class="person-card">   
+        <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yicong_wang.JPG" alt="Yicong Wang"></a>
+        <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><h3>Yicong Wang</h3></a>
+        <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
+      </div> -->
+  <!-- </div> -->
+  <!--     <div class="people-grid">
+      <div class="person-card">
+        <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/daudi_zein.JPG" alt="Daudi Zein"></a>
+        <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><h3>Daudi Zein</h3></a>
+        <p>M.S. Robotics, 2025<br>2025-present<br><em>Research Engineer</em></p>
+      </div> -->
+
 
   </div>
 
