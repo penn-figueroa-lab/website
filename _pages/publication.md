@@ -20,12 +20,12 @@ permalink: /publications/
       <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
       <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China </div>
-      <span class="pub-note">:trophy: Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a> <a class="pub-page" href="https://kilianft.github.io/DemoStitching/" target="_blank" rel="noopener">[Webpage]</a></div>
+      <div class="pub-note">:trophy: Finalist for CASE 2026 Best Conference Paper. <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a> <a class="pub-page" href="https://kilianft.github.io/DemoStitching/" target="_blank" rel="noopener">[Webpage]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">KGripper: A Push-On Twist-Off Passive Perching Mechanism</div>
       <div class="pub-authors">Weakly, J., Gong, V., Kang, T., Li, T., Figueroa, N. and Sung, C.</div>
-      <div class="pub-venue"><em>ASME Journal of Mechanisms and Robotics</em>, 18(8):081005, August 2026 <a class="pub-link" href="https://asmedigitalcollection.asme.org/mechanismsrobotics/article/18/8/081005/1234110/KGripper-A-Push-On-Lift-Twist-Off-Passive-Perching" target="_blank" rel="noopener">[Link]</a></div></div>
+      <div class="pub-venue"><em>ASME Journal of Mechanisms and Robotics</em>, 18(8):081005, August 2026 <a class="pub-link" href="https://asmedigitalcollection.asme.org/mechanismsrobotics/article/18/8/081005/1234110/KGripper-A-Push-On-Lift-Twist-Off-Passive-Perching" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
@@ -78,55 +78,46 @@ permalink: /publications/
 
   <h3 class="pub-heading">2025</h3>
   <div class="pub-list">
-
     <div class="pub-entry">
       <div class="pub-title">WiRA: Reshaping Recognition in Robotics and Automation for Gender Equity [Women in Engineering]</div>
       <div class="pub-authors">Psomopoulou, E., Figueroa, N. and Chalvatzaki, G.</div>
       <div class="pub-venue"><em>IEEE Robotics &amp; Automation Magazine</em>, 32(4):118&ndash;120, Dec. 2025 <a class="pub-link" href="https://doi.org/10.1109/MRA.2025.3617625" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Rapid Mismatch Estimation via Neural Network Informed Variational Inference</div>
       <div class="pub-authors">Jaszczuk, M. and Figueroa, N.</div>
       <div class="pub-venue"><em>9th Conference on Robot Learning (CoRL)</em>, 2025 <a class="pub-link" href="https://openreview.net/forum?id=2CIKnIwSta#discussion" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning</div>
       <div class="pub-authors">Li, T., Sun, S., Aditya, S., and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2025 <a class="pub-link" href="https://arxiv.org/abs/2503.08029" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy for Visuomotor Imitation Learning</div>
       <div class="pub-authors">Gao, J., Li, T. and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2025 <a class="pub-link" href="https://arxiv.org/abs/2411.03294" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments</div>
       <div class="pub-authors">Zhang, Z., Xue, Y., Figueroa, N. and Åkesson, K.</div>
       <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2025 <a class="pub-link" href="https://arxiv.org/abs/2504.03260" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Graph-based Path Planning with Dynamic Obstacle Avoidance for Autonomous Parking</div>
       <div class="pub-authors">Nawaz, F., Sung, M., Gadginmath, D., D&rsquo;sa, J., Bae, S., Isele, D., Figueroa, N., Matni, N. and Tariq, F.M.</div>
       <div class="pub-venue"><em>IEEE Intelligent Vehicles Symposium (IV)</em>, 2025 <span class="pub-note">Romania.</span> <a class="pub-link" href="https://arxiv.org/abs/2504.12616" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">ADMM-MCBF-LCA: A Layered Control Architecture for Safe Real-Time Navigation</div>
       <div class="pub-authors">Srikanthan, A.*, Xue, Y.*, Kumar, V., Matni, N. and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE ICRA</em>, 2025 <span class="pub-note">Atlanta, USA &mdash; Equal contribution.</span> <a class="pub-link" href="https://arxiv.org/abs/2503.02208" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">MOrF: Magnetic Origami Folding System for Repeatably Reconfigurable Structures with Enhanced Fold Angle Control</div>
       <div class="pub-authors">Unger, G., Shenoy, S., Li, T., Figueroa, N., and Sung, C.</div>
       <div class="pub-venue"><em>IEEE ICRA</em>, 2025 <span class="pub-note">Atlanta, USA.</span> <a class="pub-link" href="https://repository.upenn.edu/entities/publication/0c5b8627-d270-455a-9a74-0bd136f28eaa" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
   </div>
 
   <h3 class="pub-heading">2024</h3>
