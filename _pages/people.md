@@ -289,13 +289,13 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Ze Zhang</div>
         <div class="alumni-detail">Ph.D. in Automation, Chalmers University of Technology, Sweden </div>
-        <div class="alumni-detail">Advised by Knut Åkesson &mdash; Fall 2024 </div>
+        <div class="alumni-detail">Advised by Knut Åkesson &mdash; Visited Fall 2024 </div>
         <div class="alumni-detail"><b>After Graduating:</b> Senior AI (Robotics) Engineer at  <a href="https://www.agile-robots.com/en/" style="text-decoration:none" target="_blank" rel="noopener">Agile Robots SE</a> </div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Enrico Martini</div>
         <div class="alumni-detail">Ph.D. in Computer Science, University of Verona, Italy </div>
-        <div class="alumni-detail">Advised by Nicola Bombieri &mdash; Spring 2024 </div>
+        <div class="alumni-detail">Advised by Nicola Bombieri &mdash; Visited Spring 2024 </div>
         <div class="alumni-detail"><b>After Graduating:</b> Postdoctoral Researcher/Lecturer at  <a href="https://www.univr.it/en/university" style="text-decoration:none" target="_blank" rel="noopener">University of Verona</a></div>
       </div>
     </div>
@@ -336,15 +336,15 @@ permalink: /people/
         <div class="alumni-entry">
           <div class="alumni-name">Mateusz Jaszczuk</div>
           <div class="alumni-detail">M.S. MEAM, 2026</div>
-          <div class="alumni-detail"><em>&ldquo;Learning to Feel: Force-Aware Data-Driven Estimation and Control for Fluid Physical Interaction&rdquo;</em></div>
+          <div class="alumni-detail"><em>&ldquo;Learning to Feel: Force-Aware Data-Driven Estimation and Control for Adaptive Physical Interactions&rdquo;</em></div>
           <div class="alumni-detail">:trophy: Oustanding Master's Researcher Award in MEAM</div> 
-          <div class="alumni-detail"><b>After Graduating:</b>Ph.D. Student at Figueroa Robotics Lab</div>
+          <div class="alumni-detail"><b>After Graduating:</b> Ph.D. Student at Figueroa Robotics Lab</div>
        </div>
         <div class="alumni-entry">
           <div class="alumni-name">Ekaterina Skorniakova</div>
           <div class="alumni-detail">M.S. Robotics, 2026</div>
           <div class="alumni-detail"><em>&ldquo;Experimental Characterization of Oscillations in Passive Dynamical System Controllers and Design Guidance&rdquo;</em></div> 
-          <div class="alumni-detail"><b>After Graduating:</b>Ph.D. Student at Cornell advised by <a href="https://geodesic.mae.cornell.edu/" style="text-decoration:none" target="_blank" rel="noopener">Jake Welde</a></div>
+          <div class="alumni-detail"><b>After Graduating:</b> Ph.D. Student at Cornell advised by <a href="https://geodesic.mae.cornell.edu/" style="text-decoration:none" target="_blank" rel="noopener">Jake Welde</a></div>
        </div>
         <div class="alumni-entry">
           <div class="alumni-name">Natey Kim</div>
