@@ -21,7 +21,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
       <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China <span class="pub-note">Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China <span class="pub-note">:2nd_place_medal: Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
@@ -51,7 +51,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation</div>
       <div class="pub-authors">Shao, Y., Zheng, Y., Sun, S., Chaudhari, P., Kumar, V., and Figueroa, N.</div>
-      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <span class="pub-note">Winner of ICRA 2026 Best Paper Award in Planning and Control and Best Conference Paper Award.</span> <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <span class="pub-note">:trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and :trophy: Best Conference Paper Award.</span> <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
