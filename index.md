@@ -22,8 +22,10 @@ permalink: /
     <img src="{{ '/assets/images/awards-presentations-grads/hojin_MS.jpg' | relative_url }}" alt="Hojin grad" class="hs-slide">    
     <img src="{{ '/assets/images/lab-pictures/IMG_4075.JPG' | relative_url }}" alt="Lab photo 2" class="hs-slide">
     <img src="{{ '/assets/images/lab-trips/girls_icra_2025.jpg' | relative_url }}" alt="Lab trip icra 2024 2" class="hs-slide">
+    <img src="{{ 'assets/images/lab-trips/lab_ICRA_2025.jpeg' | relative_url }}" alt="Lab icra 2025" class="hs-slide">
     <img src="{{ '/assets/images/lab-pictures/IMG_4115.JPG' | relative_url }}" alt="Lab photo 3" class="hs-slide">
     <img src="{{ '/assets/images/lab-trips/lab_rss_2025.JPG' | relative_url }}" alt="Lab trip rss 2025" class="hs-slide">
+    <img src="{{ 'assets/images/lab-trips/PINGPONG.jpeg' | relative_url }}" alt="Lab trip rss 2025" class="hs-slide">
     <img src="{{ '/assets/images/awards-presentations-grads/best-paper-award-team.jpg' | relative_url }}" alt="ICRA 2026 Best conference paper team" class="hs-slide">    
     <img src="{{ '/assets/images/awards-presentations-grads/best-paper-award.jpg' | relative_url }}" alt="ICRA 2026 Best conference paper" class="hs-slide"> 
     <img src="{{ '/assets/images/awards-presentations-grads/planning-award-team.jpg' | relative_url }}" alt="ICRA 2026 Best planning paper team" class="hs-slide">    
