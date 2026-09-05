@@ -304,7 +304,7 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Zizhe Zhang</div>
         <div class="alumni-detail">M.S. Robotics, 2026</div>
-        <div class="alumni-detail"><b>Next position:</b> Ph.D student at Johns Hopkins University advised by <a href="https://haiminhu.org/" style="text-decoration:none" target="_blank" rel="noopener">Haimin Hu</a></div>
+        <div class="alumni-detail"><b>Next position:</b> Ph.D student at Johns Hopkins University advised by <a href="https://alliance-ai.cs.jhu.edu/" style="text-decoration:none" target="_blank" rel="noopener">Haimin Hu</a></div>
       </div>      
       <div class="alumni-entry">
         <div class="alumni-name">Jalaj Shukla</div>
@@ -346,19 +346,22 @@ permalink: /people/
         <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
         <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Real-time Human Limb Dynamics Tracking via HD-sEMG driven Musculoskeletal Digital Twin Modeling”</em></p>
       </div>
-      <div class="person-card">  
-        <a href="http://www.yihanli.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yihan_li.JPG" alt="Yihan Li"></a>
-        <a href="http://www.yihanli.io/" target="_blank" rel="noopener"><h3>Yihan Li</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Thesis: “RoboHockey: A Robotic Benchmark for Dynamic Whole-body Contact-rich Tasks”</em></p>
-      </div>
-      <div class="person-card">
-        <a href="{{ site.baseurl }}/people/"><img src="{{ site.baseurl }}/assets/images/people/bio-photo.jpg" alt="Felix Zheng"></a>
-        <a href="{{ site.baseurl }}/people/"><h3>Felix [Yuchen] Zheng</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Thesis: “Object-centric 3D Operator World Models for Planning Common Cooking Tasks”</em></p>
-      </div>
     </div> -->
+    https://robin-lab.cs.utexas.edu/
     <div class="alumni-group">Master&rsquo;s Theses</div>
     <div class="alumni-list">
+        <div class="alumni-entry">
+        <div class="alumni-name">Yihan Li</div>
+        <div class="alumni-detail">M.S. Robotics, 2026</div>
+        <div class="alumni-detail"><em>&ldquo;RoboHockey: A Robotic Benchmark for Dynamic Whole-body Contact-rich Tasks&rdquo;</em></div> 
+        <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at UT Austin advised by <a href="https://robin-lab.cs.utexas.edu/" style="text-decoration:none" target="_blank" rel="noopener">Roberto Martin-Martin</a></div>
+      </div>     
+       <div class="alumni-entry">
+        <div class="alumni-name">Felix [Yuchen] Zheng</div>
+        <div class="alumni-detail">M.S. Robotics, 2026</div>
+        <div class="alumni-detail"><em>&ldquo;Predicate-Free Language-to-Plan Validation with Learnded 3D Operator World Models&rdquo;</em></div> 
+        <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at Georgia Tech advised by <a href="https://www.gt-rail.com/" style="text-decoration:none" target="_blank" rel="noopener">Sonia Chernova</a></div>
+      </div>     
       <div class="alumni-entry">
         <div class="alumni-name">Paul [Sanghyub] Lee</div>
         <div class="alumni-detail">M.S. Robotics, 2025</div>
