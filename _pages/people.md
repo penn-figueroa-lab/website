@@ -331,31 +331,33 @@ permalink: /people/
         <div class="alumni-detail"><b>Next position:</b> Robotics Solutions Engineer at <a href="https://www.path-robotics.com/" style="text-decoration:none" target="_blank" rel="noopener">Path Robotics</a></div>
       </div>
     </div>
-<!--       <div class="person-card">
-        <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/mateusz_jaszczuk.JPG" alt="Mateusz Jaszczuk"></a>
-        <a href="https://mateuszjaszczuk.com/" target="_blank" rel="noopener"><h3>Mateusz Jaszczuk</h3></a>
-        <p>M.S. MEAM, 2026<br>2024–present<br><em>Thesis: “Learning to Feel: Force-Aware Data-Driven Estimation and Control for Fluid Physical Interaction”</em></p>
-      </div> -->
-<!--       <div class="person-card">  
-        <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ekaterina_skorniakova.JPG" alt="Ekaterina Skorniakova"></a>
-        <a href="https://www.linkedin.com/in/ekaterina-skorniakova/" target="_blank" rel="noopener"><h3>Ekaterina Skorniakova</h3></a>
-        <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Coupled Passive Dynamical System Interaction Control on SE(3)”</em></p>
-      </div>
-      <div class="person-card">
-        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim.JPG" alt="Natey Kim"></a>
-        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
-        <p>M.S. Robotics, 2026<br>2023–present<br><em>Thesis: “Real-time Human Limb Dynamics Tracking via HD-sEMG driven Musculoskeletal Digital Twin Modeling”</em></p>
-      </div>
-    </div> -->
-    https://robin-lab.cs.utexas.edu/
     <div class="alumni-group">Master&rsquo;s Theses</div>
     <div class="alumni-list">
         <div class="alumni-entry">
-        <div class="alumni-name">Yihan Li</div>
-        <div class="alumni-detail">M.S. Robotics, 2026</div>
-        <div class="alumni-detail"><em>&ldquo;RoboHockey: A Robotic Benchmark for Dynamic Whole-body Contact-rich Tasks&rdquo;</em></div> 
-        <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at UT Austin advised by <a href="https://robin-lab.cs.utexas.edu/" style="text-decoration:none" target="_blank" rel="noopener">Roberto Martin-Martin</a></div>
-      </div>     
+          <div class="alumni-name">Mateusz Jaszczuk</div>
+          <div class="alumni-detail">M.S. MEAM, 2026</div>
+          <div class="alumni-detail"><em>&ldquo;Learning to Feel: Force-Aware Data-Driven Estimation and Control for Fluid Physical Interaction&rdquo;</em></div>
+          <div class="alumni-detail">:trophy: Oustanding Master's Researcher Award in MEAM</div> 
+          <div class="alumni-detail"><b>After Graduating:</b>Ph.D. Student at Figueroa Robotics Lab</div>
+       </div>
+        <div class="alumni-entry">
+          <div class="alumni-name">Ekaterina Skorniakova</div>
+          <div class="alumni-detail">M.S. Robotics, 2026</div>
+          <div class="alumni-detail"><em>&ldquo;Experimental Characterization of Oscillations in Passive Dynamical System Controllers and Design Guidance&rdquo;</em></div> 
+          <div class="alumni-detail"><b>After Graduating:</b>Ph.D. Student at Cornell advised by <a href="https://geodesic.mae.cornell.edu/" style="text-decoration:none" target="_blank" rel="noopener">Jake Welde</a></div>
+       </div>
+        <div class="alumni-entry">
+          <div class="alumni-name">Natey Kim</div>
+          <div class="alumni-detail">M.S. Robotics, 2026</div>
+          <div class="alumni-detail"><em>&ldquo;Real-time Human Limb Dynamics Tracking via HD-sEMG driven Musculoskeletal Digital Twin Modelings&rdquo;</em></div> 
+          <div class="alumni-detail"><b>After Graduating:</b> Research Engineer at Figueroa Robotics Lab</div>
+       </div>
+        <div class="alumni-entry">
+          <div class="alumni-name">Yihan Li</div>
+          <div class="alumni-detail">M.S. Robotics, 2026</div>
+          <div class="alumni-detail"><em>&ldquo;RoboHockey: A Robotic Benchmark for Dynamic Whole-body Contact-rich Tasks&rdquo;</em></div>
+          <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at UT Austin advised by <a href="https://robin-lab.cs.utexas.edu/" style="text-decoration:none" target="_blank" rel="noopener">Roberto Martin-Martin</a></div>
+       </div>     
        <div class="alumni-entry">
         <div class="alumni-name">Felix [Yuchen] Zheng</div>
         <div class="alumni-detail">M.S. Robotics, 2026</div>
@@ -363,15 +365,17 @@ permalink: /people/
         <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at Georgia Tech advised by <a href="https://www.gt-rail.com/" style="text-decoration:none" target="_blank" rel="noopener">Sonia Chernova</a></div>
       </div>     
       <div class="alumni-entry">
+        <div class="alumni-name">George [Jiayuan] Gao</div>
+        <div class="alumni-detail">M.S. Robotics, 2025</div>
+        <div class="alumni-detail"><em>&ldquo;Visuomotor Object-Centric Out-Of-Distribution Recovery Policy&rdquo;</em></div>
+        <div class="alumni-detail">:trophy: Oustanding Master's Researcher Award in Robotics</div> 
+        <div class="alumni-detail"><b>After Graduating:</b> Research Staff Member at <a href="https://www.dyna.co/" style="text-decoration:none" target="_blank" rel="noopener">Dyna Robotics</a></div>
+      </div>
+      <div class="alumni-entry">
         <div class="alumni-name">Paul [Sanghyub] Lee</div>
         <div class="alumni-detail">M.S. Robotics, 2025</div>
         <div class="alumni-detail"><em>&ldquo;Towards Real-Time Muscle Health Monitoring and Muscle-in-the-Loop Robotic Assistants via AI-Driven Wearable Ultrasound Processing&rdquo;</em>; now Ph.D. candidate in MEAM (Penn)</div>
-      </div>
-      <div class="alumni-entry">
-        <div class="alumni-name">George [Jiayuan] Gao</div>
-        <div class="alumni-detail">M.S. Robotics, 2025</div>
-        <div class="alumni-detail"><em>&ldquo;Visuomotor Object-Centric Out-Of-Distribution Recovery Policy&rdquo;</em>; Outstanding Master&rsquo;s Researcher Award in Robotics</div>
-      </div>
+      </div>      
       <div class="alumni-entry">
         <div class="alumni-name">Ho Jin Choi</div>
         <div class="alumni-detail">M.S. MEAM, 2024</div>
