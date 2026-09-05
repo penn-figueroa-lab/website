@@ -25,9 +25,9 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">KGripper: A Push-On Twist-Off Passive Perching Mechanism</div>
       <div class="pub-authors">Weakly, J., Gong, V., Kang, T., Li, T., Figueroa, N. and Sung, C.</div>
-      <div class="pub-venue"><em>ASME Journal of Mechanisms and Robotics</em>, 18(8):081005, August 2026 <a class="pub-link" href="https://asmedigitalcollection.asme.org/mechanismsrobotics/article/18/8/081005/1234110/KGripper-A-Push-On-Lift-Twist-Off-Passive-Perching" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>ASME Journal of Mechanisms and Robotics</em>, 18(8):081005, August 2026 <a class="pub-link" href="https://asmedigitalcollection.asme.org/mechanismsrobotics/article/18/8/081005/1234110/KGripper-A-Push-On-Lift-Twist-Off-Passive-Perching" target="_blank" rel="noopener">[Link]</a></div></div>
     </div>
-    
+
     <div class="pub-entry">
       <div class="pub-title">Surviving the Paper Deluge: A One-Year Study in Learning From Demonstration [Science and Technology Watch]</div>
       <div class="pub-authors">Billard, A., Detry, R., Figueroa, N., Foriest, M., Lee, D. and Yao, K.</div>
@@ -46,7 +46,8 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation</div>
       <div class="pub-authors">Shao, Y., Zheng, Y., Sun, S., Chaudhari, P., Kumar, V., and Figueroa, N.</div>
-      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <span class="pub-note">:trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and :trophy: Best Conference Paper Award.</span> <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <\div>
+      <span class="pub-note">:trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and :trophy: Best Conference Paper Award.</span> <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Occupancy-Aware Trajectory Planning for Autonomous Valet Parking in Uncertain Dynamic Environments</div>
