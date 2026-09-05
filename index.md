@@ -175,7 +175,7 @@ permalink: /
   height: auto;
   width: auto;
   max-height: clamp(32px, 8vw, 70px);
-  max-width: 25%;
+  max-width: 30%;
   object-fit: contain;
   flex: 0 1 auto;
 }
