@@ -72,7 +72,7 @@ permalink: /people/
 .alumni-group{
   text-align: center;
   margin: 1.4rem 0 .5rem;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   font-weight: 700;
   color: #333;
 }
@@ -90,12 +90,12 @@ permalink: /people/
 .alumni-entry:last-child{ border-bottom: none; }
 .alumni-name{
   font-weight: 700;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   color: #1a1a1a;
 }
 .alumni-detail{
   margin-top: 0.15rem;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   color: #555;
   line-height: 1.45;
 }
