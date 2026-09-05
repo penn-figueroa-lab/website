@@ -20,7 +20,7 @@ permalink: /publications/
       <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
       <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China </div>
-      <div class="pub-note">:trophy: Finalist for CASE 2026 Best Conference Paper. <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a> <a class="pub-page" href="https://kilianft.github.io/DemoStitching/" target="_blank" rel="noopener">[Webpage]</a></div>
+      <div class="pub-note">:trophy: Finalist for CASE 2026 Best Conference Paper. <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a> <a class="pub-link" href="https://kilianft.github.io/DemoStitching/" target="_blank" rel="noopener">[Webpage]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">KGripper: A Push-On Twist-Off Passive Perching Mechanism</div>
@@ -35,7 +35,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Viability-Preserving Passive Torque Control</div>
       <div class="pub-authors">Zhang, Z., Wang, Y., Zhang, Z., Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <a class="pub-link" href="https://arxiv.org/abs/2510.03367" target="_blank" rel="noopener">[Link]</a><a class="pub-page" href="https://vpp-tc.github.io/webpage/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=GWP8MLrufxc" target="_blank" rel="noopener">[Video]</a></div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <a class="pub-link" href="https://arxiv.org/abs/2510.03367" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://vpp-tc.github.io/webpage/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=GWP8MLrufxc" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data</div>
@@ -46,7 +46,7 @@ permalink: /publications/
       <div class="pub-title">SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation</div>
       <div class="pub-authors">Shao, Y., Zheng, Y., Sun, S., Chaudhari, P., Kumar, V., and Figueroa, N.</div>
       <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria </div>
-      <div class="pub-note">:trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and :trophy: Best Conference Paper Award. <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-note">:trophy::trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and Best Conference Paper Award. <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://symskill.github.io/" target="_blank" rel="noopener">[Webpage]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Occupancy-Aware Trajectory Planning for Autonomous Valet Parking in Uncertain Dynamic Environments</div>
@@ -326,33 +326,6 @@ permalink: /publications/
   white-space: nowrap;
 }
 .pub-link:hover{ text-decoration: underline; }
-
-/* Separate clickable link, bracketed like [Webpage] */
-.pub-page{
-  font-weight: 600;
-  color: #0056b3;
-  text-decoration: none;
-  white-space: nowrap;
-}
-.pub-page:hover{ text-decoration: underline; }
-
-/* Separate clickable link, bracketed like [Code] */
-.pub-code{
-  font-weight: 600;
-  color: #0056b3;
-  text-decoration: none;
-  white-space: nowrap;
-}
-.pub-code:hover{ text-decoration: underline; }
-
-/* Separate clickable link, bracketed like [Video] */
-.pub-video{
-  font-weight: 600;
-  color: #0056b3;
-  text-decoration: none;
-  white-space: nowrap;
-}
-.pub-video:hover{ text-decoration: underline; }
 
 /* Mobile tweaks */
 @media (max-width: 480px){
