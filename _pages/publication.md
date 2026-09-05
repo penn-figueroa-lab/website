@@ -7,7 +7,7 @@ permalink: /publications/
 <!-- ===== Wide, centered content band ===== -->
 <section class="pub-wrap">
 
-   <h2>For a complete list of publications by Prof. Figueroa, including pre-prints and papers from before the lab was founded (2022), please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.</h2>
+   <h3>For a complete list of publications by Prof. Figueroa, including pre-prints and papers from before the lab was founded (in 2022), please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.</h3>
 
   <h2 class="pub-heading">2026</h2>
   <div class="pub-list">
@@ -21,7 +21,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
       <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China <span class="pub-note">:2nd_place_medal: Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China <span class="pub-note">:sports_medal: Finalist for CASE 2026 Best Conference Paper.</span> <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
     <div class="pub-entry">
@@ -217,7 +217,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">On-Manifold Strategies for Reactive Dynamical System Modulation with Non-Convex Obstacles</div>
       <div class="pub-authors">Fourie, C., Figueroa, N. and Shah, J.</div>
-      <div class="pub-venue"><em>IEEE Transactions on Robotics (TRO)</em>, 40:2390&ndash;2409, 2024 <span class="pub-note">Honorable Mention for IEEE TRO King-Sun Fu Memorial Best Paper Award.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10473149" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE Transactions on Robotics (TRO)</em>, 40:2390&ndash;2409, 2024 <span class="pub-note">:sports_medal: Honorable Mention for IEEE TRO King-Sun Fu Memorial Best Paper Award.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10473149" target="_blank" rel="noopener">[Link]</a></div>
     </div>
 
   </div>
