@@ -7,7 +7,7 @@ permalink: /research/
 <section class="research-wrap">
   <!-- ===== INTRO ===== -->
   <div class="rb-intro">
-    <h1>Our Research</h1>
+    <h2>Our Research</h2>
     <p>
       Our goal is to study and develop the <b>physical and perceptual adaptive intelligence</b> necessary for robots to learn from and interact with humans, while being able to adapt to a wide-range of human capabilities, needs and ever-changing environments. We call this vision <b>fluid human-robot collaborative autonomy</b>; i.e., when humans and robots collaborate harmoniously. We focus on applications where such fluid collaboration is necessary or safety critical, such as teaching robots cumbersome dexterous manipulation tasks with minimal human effort, navigating swiftly and safely in busy human-centric spaces, physically assisting humans in heavy work and contact-rich activities, physical therapy and rehabilitation. We tackle these problems by developing novel and tightly coupled learning, control and estimation algorithms that enjoy from <b>stability, safety, efficiency and robustness guarantees</b>. This involves research at the intersection of control theory, machine learning, artificial intelligence, perception and biomechanics — with a physical human-robot interaction perspective.
     </p>
@@ -15,39 +15,41 @@ permalink: /research/
       Below Prof. Figueroa's most recent research statement.
     </p>
     <p>
-      <iframe src="{{ site.baseurl }}/assets/docs/Figueroa_Research_Statement_2026.pdf" width="100%" height="600px" style="border:none;" title="Embedded PDF Viewer"></iframe>
+      <iframe src="{{ site.baseurl }}/assets/docs/Figueroa_Research_Statement_2026.pdf" width="100%" height="800px" style="border:none;" title="Embedded PDF Viewer"></iframe>
     </p>
-    <p align="center">
+    <h3>Research Thrust 1: Certified Imitation Learning</h2>
+    <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=GeEvOU9jM0_SH9Ns&amp;list=PL6IPRkjKLtCvFLpPvVmKCF7GXRF5PIHz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
+    <h3>Research Thrust 2: Safety, Viability and Liveness</h2>
+    <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BZT0Djs_PqZ-FMR4&amp;list=PL6IPRkjKLtCsZ_hf6PESmmy5f9C7Es6hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
+    <h3>Research Thrust 3: Estimation for Interactive and Assistive Tasks</h2>
+    <p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=6BDKHXr_TsqpmRPg&amp;list=PL6IPRkjKLtCuJEHjbz8xlwvdpQs5WQvTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>     
+<!--     <p align="center">
       <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:90%; max-width:860px; max-height:1000px;">
-    <p>
-    <h2>Research Thrust 1: Certified Imitation Learning</h2>
-    <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=GeEvOU9jM0_SH9Ns&amp;list=PL6IPRkjKLtCvFLpPvVmKCF7GXRF5PIHz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </p>
-  </div>
-
+    <p> -->
   <!-- ===== GRID (not clickable) ===== -->
   <section class="rb-grid">
     <div class="rb-card">
       <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Assistive_Robotics.JPG" alt="Assistive Robotics & Biomechanics"></div>
       <h3>Assistive Robotics &amp; Biomechanics</h3>
     </div>
-
     <div class="rb-card">
       <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Control_Estimation.JPG" alt="Control & Estimation"></div>
       <h3>Control &amp; Estimation</h3>
     </div>
-
     <div class="rb-card">
       <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/hardware.JPG" alt="Hardware"></div>
       <h3>Hardware</h3>
     </div>
-
     <div class="rb-card">
       <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Imitation_Learning.JPG" alt="Imitation Learning"></div>
       <h3>Imitation Learning</h3>
     </div>
-
     <div class="rb-card">
       <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Perception_for_manipulation.JPG" alt="Perception for Manipulation"></div>
       <h3>Perception for Manipulation</h3>
