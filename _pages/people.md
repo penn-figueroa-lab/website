@@ -374,20 +374,20 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Paul [Sanghyub] Lee</div>
         <div class="alumni-detail">M.S. Robotics, 2025</div>
-        <div class="alumni-detail"><em>&ldquo;Towards Real-Time Muscle Health Monitoring and Muscle-in-the-Loop Robotic Assistants via AI-Driven Wearable Ultrasound Processing&rdquo;</div> 
+        <div class="alumni-detail"><em>&ldquo;Towards Real-Time Muscle Health Monitoring and Muscle-in-the-Loop Robotic Assistants via AI-Driven Wearable Ultrasound Processing&rdquo;</em></div> 
          <div class="alumni-detail"><b>After Graduating:</b> Ph.D. Student at Figueroa Robotics Lab</div>
       </div>      
       <div class="alumni-entry">
         <div class="alumni-name">Ho Jin Choi</div>
         <div class="alumni-detail">M.S. MEAM, 2024</div>
-        <div class="alumni-detail"><em>&ldquo;Gaussian Process-Based Active Exploration Strategies in Vision and Touch&rdquo;</div> 
+        <div class="alumni-detail"><em>&ldquo;Gaussian Process-Based Active Exploration Strategies in Vision and Touch&rdquo;</em></div> 
         <div class="alumni-detail">:trophy: Outstanding Master&rsquo;s Researcher Award in MEAM</div>
         <div class="alumni-detail"><b>After Graduating:</b> Ph.D. Student at Figueroa Robotics Lab</div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Zhiquan Zhang</div>
         <div class="alumni-detail">M.S. ESE, 2024</div>
-        <div class="alumni-detail"><em>&ldquo;Real-Time Safety-Critical Passive Torque Control with Analytic and Learning-based Constraints&rdquo;</div> 
+        <div class="alumni-detail"><em>&ldquo;Real-Time Safety-Critical Passive Torque Control with Analytic and Learning-based Constraints&rdquo;</em></div> 
         <div class="alumni-detail">:trophy: Best Master&rsquo;s Thesis in ESE</div>
         <div class="alumni-detail"><b>After Graduating:</b> Ph.D. candidate at UIUC advised by <a href="https://mornik.web.illinois.edu/research/group/" style="text-decoration:none" target="_blank" rel="noopener">Melkior Ornik</a></div>
       </div>
@@ -406,7 +406,7 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Haoming Li</div>
         <div class="alumni-detail">M.S. ESE, 2024</div>
-        <div class="alumni-detail"><em>&ldquo;Towards Robust SLAM with Neural Implicit Representations&rdquo;</div>
+        <div class="alumni-detail"><em>&ldquo;Towards Robust SLAM with Neural Implicit Representations&rdquo;</em></div>
         <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at Arizona State University advised by <a href="https://faculty.engineering.asu.edu/yezhouyang/" style="text-decoration:none" target="_blank" rel="noopener">‘YZ’ Yezhou Yang</a></div>
       </div>
     </div>
