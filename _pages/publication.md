@@ -67,12 +67,12 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">COMETH: Convex Optimization for Multi-view Estimation and Tracking of Humans</div>
       <div class="pub-authors">Martini, E., Choi, H., Figueroa, N. and Bombieri, N.</div>
-      <div class="pub-venue"><em>Expert Systems With Applications</em>, February 2026 <a class="pub-link" href="https://arxiv.org/abs/2508.20920" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://parco-lab.github.io/COMETH/" target="_blank" rel="noopener">[Webpage]</a></div>
+      <div class="pub-venue"><em>Expert Systems With Applications</em>, February 2026 <a class="pub-link" href="https://www.sciencedirect.com/science/article/pii/S095741742600641X" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://parco-lab.github.io/COMETH/" target="_blank" rel="noopener">[Webpage]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">RNBF: Real-Time RGB-D Based Neural Barrier Functions for Safe Robotic Navigation</div>
       <div class="pub-authors">Das, S., Xue, Y., Li, H. and Figueroa, N.</div>
-      <div class="pub-venue"><em>18th IEEE/SICE Symposium on System Integration (SII)</em>, 2026, Cancun, Mexico <a class="pub-link" href="https://arxiv.org/abs/2505.02294" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://www.youtube.com/watch?v=ndqLv25Goxc" target="_blank" rel="noopener">[Video]</a></div>
+      <div class="pub-venue"><em>18th IEEE/SICE Symposium on System Integration (SII)</em>, 2026, Cancun, Mexico <a class="pub-link" href="https://ieeexplore.ieee.org/document/11404711" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://www.youtube.com/watch?v=ndqLv25Goxc" target="_blank" rel="noopener">[Video]</a></div>
     </div>
   </div>
 
