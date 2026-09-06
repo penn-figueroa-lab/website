@@ -8,7 +8,7 @@ permalink: /joining/
 <section class="joining-wrap">
   <!-- ===== INTRO ===== -->
   <div class="rb-intro">
-    <h1>Joining</h1>
+    <h1>Opportunities</h1>
     <p align="center">
       Information on how to join the Figueroa Robotics Lab will be posted soon!
     </p>
@@ -19,12 +19,12 @@ permalink: /joining/
        Currently pointing at the OLD doc as a placeholder/test —
        swap the src below for the new doc's published URL once
        it's finished, no other changes needed. -->
-  <div class="rb-gdoc">
+<!--   <div class="rb-gdoc">
     <h2>New Research Projects</h2>
     <div class="rb-gdoc-frame">
       <iframe src="https://docs.google.com/document/d/e/2PACX-1vS5m0OD5v2otO8EukJFPlaXsFMHuc-_StVhxLMznkSpHXddslt4k4IUyG2bGly2Bth81z33nfjHE-MP/pub?embedded=true" title="New Research Projects"></iframe>
     </div>
-  </div>
+  </div> -->
 </section>
 
 <style>
