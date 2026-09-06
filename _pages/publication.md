@@ -61,7 +61,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control</div>
       <div class="pub-authors">Xue, Y.*, Zhang, Z.*, Åkesson, K. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE Robotics and Automation Letters</em>, 11(4):5096&ndash;5103, April 2026 <a class="pub-link" href="https://arxiv.org/abs/2601.10233" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://www.youtube.com/watch?v=_88Xy9EZr3c" target="_blank" rel="noopener">[Video]</a></div></div>
+      <div class="pub-venue"><em>IEEE Robotics and Automation Letters</em>, 11(4):5096&ndash;5103, April 2026 <a class="pub-link" href="https://arxiv.org/abs/2601.10233" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://www.youtube.com/watch?v=_88Xy9EZr3c" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">COMETH: Convex Optimization for Multi-view Estimation and Tracking of Humans</div>
