@@ -411,8 +411,8 @@ permalink: /people/
     </div>
 
   <!-- === Master's Research Interns === -->
-  <div class="people-section">
-    <h2>Master's Research Interns</h2>
+  <div class="alumni-group">Master's Research Interns</div>
+    <div class="alumni-list">
       <div class="alumni-entry">
         <div class="alumni-name">Yicong Wang</div>
         <div class="alumni-detail">MS. Robotics, 2026</div>
@@ -468,8 +468,8 @@ permalink: /people/
     </div>
 
   <!-- === Undergrad Research Interns === -->
-  <div class="people-section">
-    <h2>Undergraduate Research Interns</h2>
+  <div class="alumni-group">Undergraduate Research Intern</div>
+    <div class="alumni-list">    
       <div class="alumni-entry">
         <div class="alumni-name">Miyu Yamane</div>
         <div class="alumni-detail">MEA BS Student from Princeton</div>
