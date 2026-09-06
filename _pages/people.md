@@ -344,7 +344,7 @@ permalink: /people/
           <div class="alumni-name">Ekaterina Skorniakova</div>
           <div class="alumni-detail">M.S. Robotics, 2026</div>
           <div class="alumni-detail"><em>&ldquo;Experimental Characterization of Oscillations in Passive Dynamical System Controllers and Design Guidance&rdquo;</em></div> 
-          <div class="alumni-detail"><b>After Graduating:</b> Ph.D. Student at Cornell advised by <a href="https://geodesic.mae.cornell.edu/" style="text-decoration:none" target="_blank" rel="noopener">Jake Welde</a></div>
+          <div class="alumni-detail"><b>After Graduating:</b> Ph.D. Student at Cornell University advised by <a href="https://geodesic.mae.cornell.edu/" style="text-decoration:none" target="_blank" rel="noopener">Jake Welde</a></div>
        </div>
         <div class="alumni-entry">
           <div class="alumni-name">Natey Kim</div>
@@ -388,7 +388,7 @@ permalink: /people/
         <div class="alumni-detail">M.S. ESE, 2024</div>
         <div class="alumni-detail"><em>&ldquo;Real-Time Safety-Critical Passive Torque Control with Analytic and Learning-based Constraints&rdquo;</em></div> 
         <div class="alumni-detail">:trophy: Best Master&rsquo;s Thesis in ESE</div>
-        <div class="alumni-detail"><b>After Graduating:</b> Ph.D. candidate at UIUC advised by <a href="https://mornik.web.illinois.edu/research/group/" style="text-decoration:none" target="_blank" rel="noopener">Melkior Ornik</a></div>
+        <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at University of Illinois Urbana-Champaign advised by <a href="https://mornik.web.illinois.edu/research/group/" style="text-decoration:none" target="_blank" rel="noopener">Melkior Ornik</a></div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Haihui Gao</div>
@@ -410,44 +410,55 @@ permalink: /people/
       </div>
     </div>
 
-      <!-- === Master's Research Interns === -->
-<!--   <div class="people-section">
+  <!-- === Master's Research Interns === -->
+  <div class="people-section">
     <h2>Master's Research Interns</h2>
-    <div class="people-grid">
-      <div class="person-card">   
-        <a href="https://zizhe.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/zizhe_zhang.JPG" alt="Zizhe Zhang"></a>
-        <a href="https://zizhe.io/" target="_blank" rel="noopener"><h3>Zizhe Zhang</h3></a>
-        <p>M.S. Robotics, 2026<br>2024–present<br><em>Research Intern Spring-Fall 2025</em></p>
+      <div class="alumni-entry">
+        <div class="alumni-name">Yicong Wang</div>
+        <div class="alumni-detail">MS. Robotics, 2026</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at Purdue University advised by <a href="https://www.purduemars.com/home" style="text-decoration:none" target="_blank" rel="noopener">Yu She</a></div>
+      </div> 
+      <div class="alumni-entry">
+        <div class="alumni-name">Jingshuo Li</div>
+        <div class="alumni-detail">MS. MEAM, 2026</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at George Washington University.</div>
       </div>
-      <div class="person-card">   
-        <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/jason_chen.JPG" alt="Jason Chen"></a>
-        <a href="https://www.linkedin.com/in/jason-chen-2580621b7/" target="_blank" rel="noopener"><h3>Jason Chen</h3></a>
-        <p>M.S. MEAM, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
+      <div class="alumni-entry">
+        <div class="alumni-name">Lintao Zheng</div>
+        <div class="alumni-detail">MS. Robotics, 2026</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at Boston University.</div>
+      </div>  
+      <div class="alumni-entry">
+        <div class="alumni-name">Dhyey Shah</div>
+        <div class="alumni-detail">MS. Robotics, 2026</div>
       </div>
-      <div class="person-card">   
-        <a href="https://lintao-zheng.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/Lintao Zheng.JPG" alt="Lintao Zheng"></a>
-        <a href="https://lintao-zheng.github.io/" target="_blank" rel="noopener"><h3>Lintao Zheng</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
+      <div class="alumni-entry">
+        <div class="alumni-name">Shubhodeep Shiv Aditya</div>
+        <div class="alumni-detail">MS. Robotics, 2025</div>
+        <div class="alumni-detail"><b>After Graduating:</b> AI Computer Engineer at <a href="https://mytra.ai/" style="text-decoration:none" target="_blank" rel="noopener">Mytra</a></div>
       </div>
-      <div class="person-card">   
-        <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dhyey_shah.JPG" alt="Dhyey Shah"></a>
-        <a href="http://www.linkedin.com/in/dhyey-shah-3039371b5" target="_blank" rel="noopener"><h3>Dhyey Shah</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
-      </div>
-      <div class="person-card">   
-        <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yicong_wang.JPG" alt="Yicong Wang"></a>
-        <a href="https://www.linkedin.com/in/yicong-wang-0a8b60324/" target="_blank" rel="noopener"><h3>Yicong Wang</h3></a>
-        <p>M.S. Robotics, 2026<br>2025–present<br><em>Research Intern Fall 2025</em></p>
-      </div> -->
-  <!-- </div> -->
-  <!--     <div class="people-grid">
-      <div class="person-card">
-        <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/daudi_zein.JPG" alt="Daudi Zein"></a>
-        <a href="https://www.linkedin.com/in/daudizein/" target="_blank" rel="noopener"><h3>Daudi Zein</h3></a>
-        <p>M.S. Robotics, 2025<br>2025-present<br><em>Research Engineer</em></p>
-      </div> -->
+       <div class="alumni-entry">
+        <div class="alumni-name">Yuxin Li</div>
+        <div class="alumni-detail">MS. MEAM, 2025</div>
+      </div>                            
+    </div>
 
-
+  <!-- === Undergrad Research Interns === -->
+  <div class="people-section">
+    <h2>Undergraduate Research Interns</h2>
+      <div class="alumni-entry">
+        <div class="alumni-name">Miyu Yamane</div>
+        <div class="alumni-detail">MEA BS Student from Princeton</div>
+        <div class="alumni-detail">Summer 2026 visitor advised by <a href="https://irom-lab.princeton.edu/" style="text-decoration:none" target="_blank" rel="noopener">Anirudha Majumdar</a></div>
+      </div>    
+      <div class="alumni-entry">
+        <div class="alumni-name">Jason Chen</div>
+        <div class="alumni-detail">B.S. + M.S. MEAM, 2026</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Fleet Root Cause Engineer at <a href="https://www.dyna.co/" style="text-decoration:none" target="_blank" rel="noopener">Tesla</a></div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Michael North</div>
+        <div class="alumni-detail">B.S. Bioengineering, 2026</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Research Engineering at the Figueroa Robotics Lab</div>
+      </div>
   </div>
-
-</div>
