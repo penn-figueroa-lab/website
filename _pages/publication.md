@@ -57,12 +57,12 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">VLMgineer: Vision Language Models as Robotic Toolsmiths</div>
       <div class="pub-authors">Gao, G.*, Li, T.*, Shi, J., Li, Y., Zhang, Z., Figueroa, N. and Jayaraman, D.</div>
-      <div class="pub-venue"><em>Fourteenth International Conference on Learning Representations (ICLR)</em>, 2026, Rio de Janeiro, Brazil <a class="pub-link" href="https://arxiv.org/abs/2507.12644" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://vlmgineer.github.io/" target="_blank" rel="noopener">[Webpage]</a></div>
+      <div class="pub-venue"><em>Fourteenth International Conference on Learning Representations (ICLR)</em>, 2026, Rio de Janeiro, Brazil <a class="pub-link" href="https://openreview.net/forum?id=nESyz4PvJL" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://vlmgineer.github.io/" target="_blank" rel="noopener">[Webpage]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control</div>
       <div class="pub-authors">Xue, Y.*, Zhang, Z.*, Åkesson, K. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE Robotics and Automation Letters</em>, 11(4):5096&ndash;5103, April 2026 <a class="pub-link" href="https://arxiv.org/abs/2601.10233" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://www.youtube.com/watch?v=_88Xy9EZr3c" target="_blank" rel="noopener">[Video]</a></div>
+      <div class="pub-venue"><em>IEEE Robotics and Automation Letters</em>, 11(4):5096&ndash;5103, April 2026 <a class="pub-link" href="https://ieeexplore.ieee.org/document/11417391" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://www.youtube.com/watch?v=_88Xy9EZr3c" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">COMETH: Convex Optimization for Multi-view Estimation and Tracking of Humans</div>
@@ -106,20 +106,25 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Graph-based Path Planning with Dynamic Obstacle Avoidance for Autonomous Parking</div>
       <div class="pub-authors">Nawaz, F., Sung, M., Gadginmath, D., D&rsquo;sa, J., Bae, S., Isele, D., Figueroa, N., Matni, N. and Tariq, F.M.</div>
-      <div class="pub-venue"><em>IEEE Intelligent Vehicles Symposium (IV)</em>, 2025 <span class="pub-note">Romania.</span> <a class="pub-link" href="https://arxiv.org/abs/2504.12616" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE Intelligent Vehicles Symposium (IV)</em>, 2025 <span class="pub-note">Romania.</span> 
+      <a class="pub-link" href="https://arxiv.org/abs/2504.12616" target="_blank" rel="noopener">[Link]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">ADMM-MCBF-LCA: A Layered Control Architecture for Safe Real-Time Navigation</div>
       <div class="pub-authors">Srikanthan, A.*, Xue, Y.*, Kumar, V., Matni, N. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE ICRA</em>, 2025 <span class="pub-note">Atlanta, USA &mdash; Equal contribution.</span> <a class="pub-link" href="https://arxiv.org/abs/2503.02208" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE ICRA</em>, 2025 <span class="pub-note">Atlanta, USA &mdash; Equal contribution.</span> 
+      <a class="pub-link" href="https://ieeexplore.ieee.org/document/11128869" target="_blank" rel="noopener">[Link]</a>
+      <a class="pub-link" href="https://https://www.youtube.com/watch?v=YhL_OHK8AZ8" target="_blank" rel="noopener">[Video]</a>
+      </div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">MOrF: Magnetic Origami Folding System for Repeatably Reconfigurable Structures with Enhanced Fold Angle Control</div>
       <div class="pub-authors">Unger, G., Shenoy, S., Li, T., Figueroa, N., and Sung, C.</div>
-      <div class="pub-venue"><em>IEEE ICRA</em>, 2025 <span class="pub-note">Atlanta, USA.</span> <a class="pub-link" href="https://repository.upenn.edu/entities/publication/0c5b8627-d270-455a-9a74-0bd136f28eaa" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE ICRA</em>, 2025 <span class="pub-note">Atlanta, USA.</span> 
+      <a class="pub-link" href="https://repository.upenn.edu/entities/publication/0c5b8627-d270-455a-9a74-0bd136f28eaa" target="_blank" rel="noopener">[Link]</a>
+      <a class="pub-link" href="https://www.youtube.com/watch?v=ngPe3-jrLyo" target="_blank" rel="noopener">[Video]</a></div>
     </div>
   </div>
-
   <h3 class="pub-heading">2024</h3>
   <div class="pub-list">
 
