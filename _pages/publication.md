@@ -7,7 +7,7 @@ permalink: /publications/
 <!-- ===== Wide, centered content band ===== -->
 <section class="pub-wrap">
 
-   <h3>Below we list all peer-reviewed conference, journal and transactions papers published since the lab was founded in 2022. For a complete list of publications, please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.</h3>
+   <h3>Below we list all peer-reviewed papers published since the lab was founded in 2022. For a complete list of publications, please visit <a href="https://scholar.google.ch/citations?user=1NQRXHQAAAAJ&hl=en" style="text-decoration:none" target="_blank" rel="noopener">Google Scholar</a>.</h3>
 
   <h3 class="pub-heading">2026</h3>
   <div class="pub-list">
@@ -93,6 +93,7 @@ permalink: /publications/
       <div class="pub-authors">Li, T., Sun, S., Aditya, S., and Figueroa, N.</div>
       <div class="pub-venue"><em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Hangzhou, China <a class="pub-link" href="https://ieeexplore.ieee.org/document/11246142" target="_blank" rel="noopener">[Link]<a class="pub-link" href="https://elastic-motion-policy.github.io/EMP/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=ynb6iU2t4jU" target="_blank" rel="noopener">[Video]</a></div>
     </div>
+    
     <div class="pub-entry">
       <div class="pub-title">Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy for Visuomotor Imitation Learning</div>
       <div class="pub-authors">Gao, J., Li, T. and Figueroa, N.</div>

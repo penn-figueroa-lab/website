@@ -17,11 +17,11 @@ permalink: /research/
     <p>
       <iframe src="{{ site.baseurl }}/assets/docs/Figueroa_Research_Statement_2026.pdf" width="100%" height="1000px" style="border:none;" title="Embedded PDF Viewer"></iframe>
     </p>
-    <h3>Research Thrust 1: Certified Imitation Learning</h3>
+    <h3>Research Thrust 1: Certified Adaptive Imitation Learning</h3>
     <p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=GeEvOU9jM0_SH9Ns&amp;list=PL6IPRkjKLtCvFLpPvVmKCF7GXRF5PIHz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </p>
-    <h3>Research Thrust 2: Safety, Viability and Liveness</h3>
+    <h3>Research Thrust 2: Safety, Passivity, Viability and Liveness Guarantees</h3>
     <p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BZT0Djs_PqZ-FMR4&amp;list=PL6IPRkjKLtCsZ_hf6PESmmy5f9C7Es6hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </p>
@@ -31,8 +31,7 @@ permalink: /research/
     <p>     
 <!--     <p align="center">
       <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:90%; max-width:860px; max-height:1000px;">
-    <p> -->
-  </section>    
+    <p> -->    
   <!-- ===== GRID (not clickable) ===== -->
   <section class="rb-grid">
     <div class="rb-card">
@@ -56,6 +55,7 @@ permalink: /research/
       <h3>Perception for Manipulation</h3>
     </div>
   </section>
+  
 </section>
 
 <style>
