@@ -19,7 +19,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Zero-Shot Generalization from Motion Demonstrations to New Tasks</div>
       <div class="pub-authors">Freitag, L., Combrink, A., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China </div>
+      <div class="pub-venue"><em>IEEE 22nd International Conference on Automation Science and Engineering (CASE)</em>, Shenyang, China, August 2026 </div>
       <div class="pub-note">:trophy: Finalist for CASE 2026 Best Conference Paper. <a class="pub-link" href="https://arxiv.org/abs/2603.15445" target="_blank" rel="noopener">[Link]</a> <a class="pub-link" href="https://kilianft.github.io/DemoStitching/" target="_blank" rel="noopener">[Webpage]</a></div>
     </div>
     <div class="pub-entry">
@@ -112,15 +112,15 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">ADMM-MCBF-LCA: A Layered Control Architecture for Safe Real-Time Navigation</div>
       <div class="pub-authors">Srikanthan, A.*, Xue, Y.*, Kumar, V., Matni, N. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE ICRA</em>, 2025 <span class="pub-note">Atlanta, USA &mdash; Equal contribution.</span> 
+      <div class="pub-venue"><em>2025 IEEE International Conference on Robotics and Automation (ICRA)</em>, <span class="pub-note">Atlanta, USA &mdash; Equal contribution.</span> 
       <a class="pub-link" href="https://ieeexplore.ieee.org/document/11128869" target="_blank" rel="noopener">[Link]</a>
-      <a class="pub-link" href="https://https://www.youtube.com/watch?v=YhL_OHK8AZ8" target="_blank" rel="noopener">[Video]</a>
+      <a class="pub-link" href="https://www.youtube.com/watch?v=YhL_OHK8AZ8" target="_blank" rel="noopener">[Video]</a>
       </div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">MOrF: Magnetic Origami Folding System for Repeatably Reconfigurable Structures with Enhanced Fold Angle Control</div>
       <div class="pub-authors">Unger, G., Shenoy, S., Li, T., Figueroa, N., and Sung, C.</div>
-      <div class="pub-venue"><em>IEEE ICRA</em>, 2025 <span class="pub-note">Atlanta, USA.</span> 
+      <div class="pub-venue"><em>2025 IEEE International Conference on Robotics and Automation (ICRA)</em>, <span class="pub-note">Atlanta, USA.</span> 
       <a class="pub-link" href="https://repository.upenn.edu/entities/publication/0c5b8627-d270-455a-9a74-0bd136f28eaa" target="_blank" rel="noopener">[Link]</a>
       <a class="pub-link" href="https://www.youtube.com/watch?v=ngPe3-jrLyo" target="_blank" rel="noopener">[Video]</a></div>
     </div>
