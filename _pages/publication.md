@@ -107,7 +107,7 @@ permalink: /publications/
       <div class="pub-title">Graph-based Path Planning with Dynamic Obstacle Avoidance for Autonomous Parking</div>
       <div class="pub-authors">Nawaz, F., Sung, M., Gadginmath, D., D&rsquo;sa, J., Bae, S., Isele, D., Figueroa, N., Matni, N. and Tariq, F.M.</div>
       <div class="pub-venue"><em>IEEE Intelligent Vehicles Symposium (IV)</em>, 2025 <span class="pub-note">Romania.</span> 
-      <a class="pub-link" href="https://arxiv.org/abs/2504.12616" target="_blank" rel="noopener">[Link]</a></div>
+      <a class="pub-link" href="https://ieeexplore.ieee.org/document/11097823" target="_blank" rel="noopener">[Link]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">ADMM-MCBF-LCA: A Layered Control Architecture for Safe Real-Time Navigation</div>
