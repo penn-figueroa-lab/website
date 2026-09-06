@@ -18,7 +18,11 @@ permalink: /research/
       <iframe src="{{ site.baseurl }}/assets/docs/Figueroa_Research_Statement_2026.pdf" width="100%" height="600px" style="border:none;" title="Embedded PDF Viewer"></iframe>
     </p>
     <p align="center">
-      <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:90%; max-width:860px;">
+      <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:90%; max-width:860px; max-height:1000px;">
+    <p>
+    <h2>Research Thrust 1: Certified Imitation Learning</h2>
+    <p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=GeEvOU9jM0_SH9Ns&amp;list=PL6IPRkjKLtCvFLpPvVmKCF7GXRF5PIHz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </p>
   </div>
 
