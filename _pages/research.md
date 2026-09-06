@@ -55,7 +55,7 @@ permalink: /research/
       <h3>Perception for Manipulation</h3>
     </div>
   </section> -->
-  
+
 </section>
 
 <style>
@@ -86,7 +86,7 @@ permalink: /research/
   text-align:center;
   margin-bottom:0.7rem;
   font-weight:800;
-  font-size:clamp(1rem, 1vw + 0.85rem, 1.45rem);
+  font-size:clamp(0.9rem, 0.9vw + 0.75rem, 1.25rem);
 }
 .rb-intro p{
   margin:0.6rem 0;
