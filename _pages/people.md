@@ -337,7 +337,7 @@ permalink: /people/
           <div class="alumni-name">Mateusz Jaszczuk</div>
           <div class="alumni-detail">M.S. MEAM, 2026</div>
           <div class="alumni-detail"><em>&ldquo;Learning to Feel: Force-Aware Data-Driven Estimation and Control for Adaptive Physical Interactions&rdquo;</em></div>
-          <div class="alumni-detail">:trophy: Oustanding Master's Researcher Award in MEAM</div> 
+          <div class="alumni-detail">:trophy: Outstanding Master's Researcher Award in MEAM</div> 
           <div class="alumni-detail"><b>After Graduating:</b> Ph.D. Student at Figueroa Robotics Lab</div>
        </div>
         <div class="alumni-entry">
@@ -368,7 +368,7 @@ permalink: /people/
         <div class="alumni-name">George [Jiayuan] Gao</div>
         <div class="alumni-detail">M.S. Robotics, 2025</div>
         <div class="alumni-detail"><em>&ldquo;Visuomotor Object-Centric Out-Of-Distribution Recovery Policy&rdquo;</em></div>
-        <div class="alumni-detail">:trophy: Oustanding Master's Researcher Award in Robotics</div> 
+        <div class="alumni-detail">:trophy: Outstanding Master's Researcher Award in Robotics</div> 
         <div class="alumni-detail"><b>After Graduating:</b> Research Staff Member at <a href="https://www.dyna.co/" style="text-decoration:none" target="_blank" rel="noopener">Dyna Robotics</a></div>
       </div>
       <div class="alumni-entry">
