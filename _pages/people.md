@@ -483,6 +483,6 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Michael North</div>
         <div class="alumni-detail">B.S. Bioengineering, 2026</div>
-        <div class="alumni-detail"><b>After Graduating:</b> Research Engineering at the Figueroa Robotics Lab</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Research Engineer at the Figueroa Robotics Lab</div>
       </div>
   </div>

@@ -190,7 +190,7 @@ permalink: /
   padding-bottom: 0.4rem;
   border-bottom: 2px solid #222;
   font-weight: 800;
-  font-size: clamp(1.1rem, 1vw + .8rem, 1.5rem);
+  font-size: clamp(1.0rem, 1vw + .8rem, 1.4rem);
 }
 .news-list{
   display: flex;
@@ -212,13 +212,13 @@ permalink: /
 }
 .news-title{
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 0.9rem;
   color: #1a1a1a;
   margin-bottom: 0.2rem;
 }
 .news-body p{
   margin: 0;
-  font-size: 0.92rem;
+  font-size: 0.85rem;
   line-height: 1.5;
   color: #333;
 }
