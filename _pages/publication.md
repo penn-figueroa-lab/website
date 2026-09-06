@@ -35,8 +35,8 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Viability-Preserving Passive Torque Control</div>
       <div class="pub-authors">Zhang, Z., Wang, Y., Zhang, Z., Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria </div>
-      <div class="pub-note">:trophy::trophy: Winner of Best Contribution Award at IROS 2025 Workshop on <a href="https://sites.google.com/view/e-rlc2025/home-page" style="text-decoration:none" target="_blank" rel="noopener"> E-RLC</a> and Best Student Paper Award at IROS 2025 Workshop on <a href="https://building-safe-robots-workshop.github.io/" style="text-decoration:none" target="_blank" rel="noopener"> Building Safe Robots</a>. <a class="pub-link" href="https://arxiv.org/abs/2510.03367" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://vpp-tc.github.io/webpage/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=GWP8MLrufxc" target="_blank" rel="noopener">[Video]</a></div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <a class="pub-link" href="https://arxiv.org/abs/2510.03367" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://vpp-tc.github.io/webpage/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=GWP8MLrufxc" target="_blank" rel="noopener">[Video]</a></div>
+      <div class="pub-note">:trophy::trophy: Winner of Best Contribution Award at IROS 2025 Workshop on <a href="https://sites.google.com/view/e-rlc2025/home-page" style="text-decoration:none" target="_blank" rel="noopener"> E-RLC</a> and Best Student Paper Award at IROS 2025 Workshop on <a href="https://building-safe-robots-workshop.github.io/" style="text-decoration:none" target="_blank" rel="noopener"> Building Safe Robots</a>. </div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data</div>
@@ -46,9 +46,9 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation</div>
       <div class="pub-authors">Shao, Y., Zheng, Y., Sun, S., Chaudhari, P., Kumar, V., and Figueroa, N.</div>
-      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria </div>
-      <div class="pub-note">:trophy::trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and Best Conference Paper Award. <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://symskill.github.io/" target="_blank" rel="noopener">[Webpage]</a></div>
+      <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://symskill.github.io/" target="_blank" rel="noopener">[Webpage]</a><
     </div><a class="pub-link" href="https://www.youtube.com/watch?v=sEVQPj6EZpo" target="_blank" rel="noopener">[Video]</a></div>
+      <div class="pub-note">:trophy::trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and Best Conference Paper Award.</div>
     <div class="pub-entry">
       <div class="pub-title">Occupancy-Aware Trajectory Planning for Autonomous Valet Parking in Uncertain Dynamic Environments</div>
       <div class="pub-authors">Nawaz, F., Sung, M., Gadginmath, D., D&rsquo;sa, J., Bae, S., Isele, D., Figueroa, N., Matni, N. and Tariq, F.M.</div>
