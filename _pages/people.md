@@ -437,10 +437,34 @@ permalink: /people/
         <div class="alumni-detail">MS. Robotics, 2025</div>
         <div class="alumni-detail"><b>After Graduating:</b> AI Computer Engineer at <a href="https://mytra.ai/" style="text-decoration:none" target="_blank" rel="noopener">Mytra</a></div>
       </div>
-       <div class="alumni-entry">
+      <div class="alumni-entry">
         <div class="alumni-name">Yuxin Li</div>
         <div class="alumni-detail">MS. MEAM, 2025</div>
-      </div>                            
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Shaoting Peng</div>
+        <div class="alumni-detail">MS. Robotics, 2024</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Ph.D. student at University of Illinois Urbana-Champaign advised by <a href="https://thehcalab.web.illinois.edu/" style="text-decoration:none" target="_blank" rel="noopener">Katherine Driggs-Campbell</a></div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Atharva Makarand Pradhan</div>
+        <div class="alumni-detail">MS. MEAM, 2024</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Simulation Engineer at Caterpillar Inc. </div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Parth Sanghavi</div>
+        <div class="alumni-detail">MS. MEAM, 2024</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Simulation Engineer at Mitek Systems. </div>
+      </div>
+       <div class="alumni-entry">
+        <div class="alumni-name">Vaibhav Wanere</div>
+        <div class="alumni-detail">MS. MEAM, 2024</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Manufacturing Engineer III at Caterpillar Inc. </div>
+      </div>
+      <div class="alumni-entry">
+        <div class="alumni-name">Qi Xue</div>
+        <div class="alumni-detail">MS. CIS, 2023</div>
+      </div>                                                            
     </div>
 
   <!-- === Undergrad Research Interns === -->
