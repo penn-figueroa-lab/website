@@ -216,7 +216,7 @@ permalink: /people/
         <p>ROBO, Independent Study</p>
       </div>         
        <div class="person-card">
-        <a href="https://www.linkedin.com/in/zhengmiao-huang/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Zhengmiao Huang"></a>
+        <a href="https://www.linkedin.com/in/zhengmiao-huang/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/zhengmiao.jpeg" alt="Zhengmiao Huang"></a>
         <a hhref="https://www.linkedin.com/in/zhengmiao-huang/" target="_blank" rel="noopener"><h3>Zhengmiao Huang </h3></a>
         <p>ROBO, Independent Study</p>
       </div>      
