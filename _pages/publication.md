@@ -48,6 +48,7 @@ permalink: /publications/
       <div class="pub-authors">Shao, Y., Zheng, Y., Sun, S., Chaudhari, P., Kumar, V., and Figueroa, N.</div>
       <div class="pub-venue"><em>2026 IEEE International Conference on Robotics and Automation (ICRA)</em>, Vienna, Austria</div>
       <div class="pub-note">:trophy::trophy: Winner of ICRA 2026 Best Paper Award in Planning and Control and Best Conference Paper Award. <a class="pub-link" href="https://arxiv.org/abs/2510.01661" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://symskill.github.io/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=sEVQPj6EZpo" target="_blank" rel="noopener">[Video]</a></div>
+    </div>
     <div class="pub-entry">
       <div class="pub-title">Occupancy-Aware Trajectory Planning for Autonomous Valet Parking in Uncertain Dynamic Environments</div>
       <div class="pub-authors">Nawaz, F., Sung, M., Gadginmath, D., D&rsquo;sa, J., Bae, S., Isele, D., Figueroa, N., Matni, N. and Tariq, F.M.</div>
