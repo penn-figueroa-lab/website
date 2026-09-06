@@ -112,7 +112,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">ADMM-MCBF-LCA: A Layered Control Architecture for Safe Real-Time Navigation</div>
       <div class="pub-authors">Srikanthan, A.*, Xue, Y.*, Kumar, V., Matni, N. and Figueroa, N.</div>
-      <div class="pub-venue"><em>2025 IEEE International Conference on Robotics and Automation (ICRA)</em>, <span class="pub-note">Atlanta, USA</span> 
+      <div class="pub-venue"><em>2025 IEEE International Conference on Robotics and Automation (ICRA)</em>, <span class="pub-note">Atlanta, USA.</span> 
       <a class="pub-link" href="https://ieeexplore.ieee.org/document/11128869" target="_blank" rel="noopener">[Link]</a>
       <a class="pub-link" href="https://www.youtube.com/watch?v=YhL_OHK8AZ8" target="_blank" rel="noopener">[Video]</a>
       </div>
