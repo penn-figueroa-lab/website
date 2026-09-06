@@ -86,22 +86,22 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Rapid Mismatch Estimation via Neural Network Informed Variational Inference</div>
       <div class="pub-authors">Jaszczuk, M. and Figueroa, N.</div>
-      <div class="pub-venue"><em>9th Conference on Robot Learning (CoRL)</em>, 2025 <a class="pub-link" href="https://openreview.net/forum?id=2CIKnIwSta#discussion" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>9th Conference on Robot Learning (CoRL)</em>, 2025, Seoul, Korea <a class="pub-link" href="https://openreview.net/forum?id=2CIKnIwSta#discussion" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://mateusz-jaszczuk.github.io/rme/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=5A9QALBbuzc" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning</div>
       <div class="pub-authors">Li, T., Sun, S., Aditya, S., and Figueroa, N.</div>
-      <div class="pub-venue"><em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, <a class="pub-link" href="https://arxiv.org/abs/2503.08029" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Hangzhou, China <a class="pub-link" href="https://ieeexplore.ieee.org/document/11246142" target="_blank" rel="noopener">[Link]<a class="pub-link" href="https://elastic-motion-policy.github.io/EMP/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=ynb6iU2t4jU" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy for Visuomotor Imitation Learning</div>
       <div class="pub-authors">Gao, J., Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, <a class="pub-link" href="https://arxiv.org/abs/2411.03294" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Hangzhou, China <a class="pub-link" href="https://ieeexplore.ieee.org/document/11246616" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://sites.google.com/view/ocr-penn" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://www.youtube.com/watch?v=X-eCOILcsII" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments</div>
       <div class="pub-authors">Zhang, Z., Xue, Y., Figueroa, N. and Åkesson, K.</div>
-      <div class="pub-venue"><em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, <a class="pub-link" href="https://arxiv.org/abs/2504.03260" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Hangzhou, China<a class="pub-link" href="https://ieeexplore.ieee.org/document/11246091" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://github.com/Woodenonez/CollisionAvoidance-GPDF-DWA" target="_blank" rel="noopener">[Code]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Graph-based Path Planning with Dynamic Obstacle Avoidance for Autonomous Parking</div>
