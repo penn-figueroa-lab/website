@@ -62,7 +62,7 @@ permalink: /
      paste it right after this comment, at the top of .news-list, so the
      newest news stays first. -->
 <div class="news-wrap">
-  <h2 class="news-heading">Latest News</h2>
+  <h3 class="news-heading">Latest News</h3>
   <div class="news-list">
 
     <div class="news-item">
