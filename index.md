@@ -158,7 +158,7 @@ permalink: /
 .hero-subtext a:hover{ text-decoration: underline; }
 
 .hero-subtext.funding-logos{
-  max-width: 1600px;
+  max-width: 1700px;
 }
 .funding-logos-row{
   display: flex;
@@ -172,8 +172,8 @@ permalink: /
 .funding-logos-row img{
   height: auto;
   width: auto;
-  max-height: clamp(32px, 8vw, 70px);
-  max-width: 30%;
+  max-height: clamp(36px, 10vw, 78px);
+  max-width: 50%;
   object-fit: contain;
   flex: 0 1 auto;
 }
