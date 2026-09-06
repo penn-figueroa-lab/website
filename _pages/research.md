@@ -33,7 +33,7 @@ permalink: /research/
       <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:90%; max-width:860px; max-height:1000px;">
     <p> -->    
   <!-- ===== GRID (not clickable) ===== -->
-  <section class="rb-grid">
+<!--   <section class="rb-grid">
     <div class="rb-card">
       <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Assistive_Robotics.JPG" alt="Assistive Robotics & Biomechanics"></div>
       <h3>Assistive Robotics &amp; Biomechanics</h3>
@@ -54,7 +54,7 @@ permalink: /research/
       <div class="rb-img"><img src="{{ site.baseurl }}/assets/images/Perception_for_manipulation.JPG" alt="Perception for Manipulation"></div>
       <h3>Perception for Manipulation</h3>
     </div>
-  </section>
+  </section> -->
   
 </section>
 
