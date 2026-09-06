@@ -374,8 +374,7 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Paul [Sanghyub] Lee</div>
         <div class="alumni-detail">M.S. Robotics, 2025</div>
-        <div class="alumni-detail"><em>&ldquo;Towards Real-Time Muscle Health Monitoring and Muscle-in-the-Loop Robotic Assistants via AI-Driven Wearable Ultrasound Processing&rdquo;</em></div> 
-         <div class="alumni-detail"><b>After Graduating:</b> Ph.D. Student at Figueroa Robotics Lab</div>
+        <div class="alumni-detail"><em>&ldquo;Towards Real-Time Muscle Health Monitoring and Muscle-in-the-Loop Robotic Assistants via AI-Driven Wearable Ultrasound Processing&rdquo;</em></div> <div class="alumni-detail"><b>After Graduating:</b> Ph.D. Student at Figueroa Robotics Lab</div>
       </div>      
       <div class="alumni-entry">
         <div class="alumni-name">Ho Jin Choi</div>
