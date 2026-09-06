@@ -168,7 +168,7 @@ permalink: /people/
         <p>M.S. Robotics, 2026</p>
       </div>  
         <div class="person-card">
-        <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Navjot Singh Chahal"></a>
+        <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/navjot.jpg" alt="Navjot Singh Chahal"></a>
         <a href="https://navjotschahal.github.io/" target="_blank" rel="noopener"><h3>Navjot Singh Chahal</h3></a>
         <p>M.S. EE, 2026</p>
       </div>
