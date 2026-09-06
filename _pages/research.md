@@ -83,7 +83,7 @@ permalink: /research/
   text-align:center;
   margin-bottom:0.7rem;
   font-weight:800;
-  font-size:clamp(1.2rem, 1.1vw + 0.95rem, 1.55rem);
+  font-size:clamp(1rem, 1vw + 0.85rem, 1.45rem);
 }
 .rb-intro p{
   margin:0.6rem 0;
