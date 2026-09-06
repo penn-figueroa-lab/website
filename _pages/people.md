@@ -478,7 +478,7 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Jason Chen</div>
         <div class="alumni-detail">B.S. + M.S. MEAM, 2026</div>
-        <div class="alumni-detail"><b>After Graduating:</b> Fleet Root Cause Engineer at <a href="https://www.dyna.co/" style="text-decoration:none" target="_blank" rel="noopener">Tesla</a></div>
+        <div class="alumni-detail"><b>After Graduating:</b> Fleet Root Cause Engineer at Tesla</div>
       </div>
       <div class="alumni-entry">
         <div class="alumni-name">Michael North</div>
