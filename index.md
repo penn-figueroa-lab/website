@@ -64,7 +64,6 @@ permalink: /
 <div class="news-wrap">
   <h3 class="news-heading">Latest News</h3>
   <div class="news-list">
-
     <div class="news-item">
       <div class="news-date">Aug 2026</div>
       <div class="news-body">
@@ -72,7 +71,6 @@ permalink: /
         <p>Congratulations to Kilian Freitag, Alvin Combrink, and Prof. Figueroa on their paper being selected as a finalist for the <a href="https://2026.ieeecase.org/awards/" target="_blank" rel="noopener">Best Conference Paper Award</a> at IEEE CASE 2026 in Shenyang, China.</p>
       </div>
     </div>
-
     <div class="news-item">
       <div class="news-date">May 2026</div>
       <div class="news-body">
