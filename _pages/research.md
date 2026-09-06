@@ -29,7 +29,7 @@ permalink: /research/
     <p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=6BDKHXr_TsqpmRPg&amp;list=PL6IPRkjKLtCuJEHjbz8xlwvdpQs5WQvTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p>
-</section>     
+<!-- </section>      -->
 <!--     <p align="center">
       <img src="{{ site.baseurl }}/assets/images/research-thursts.png" style="width:90%; max-width:860px; max-height:1000px;">
     <p> -->    
