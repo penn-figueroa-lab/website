@@ -101,7 +101,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments</div>
       <div class="pub-authors">Zhang, Z., Xue, Y., Figueroa, N. and Åkesson, K.</div>
-      <div class="pub-venue"><em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Hangzhou, China<a class="pub-link" href="https://ieeexplore.ieee.org/document/11246091" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://github.com/Woodenonez/CollisionAvoidance-GPDF-DWA" target="_blank" rel="noopener">[Code]</a></div>
+      <div class="pub-venue"><em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, Hangzhou, China<a class="pub-link" href="https://ieeexplore.ieee.org/document/11246091" target="_blank" rel="noopener"> [Link]</a><a class="pub-link" href="https://github.com/Woodenonez/CollisionAvoidance-GPDF-DWA" target="_blank" rel="noopener">[Code]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Graph-based Path Planning with Dynamic Obstacle Avoidance for Autonomous Parking</div>
