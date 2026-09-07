@@ -18,11 +18,11 @@ permalink: /facilities/
     </div>
     <div class="fac-card">
       <div class="fac-img"><img src="{{ site.baseurl }}/assets/images/lab-pictures/humanoid.jpg" alt="Humanoid Platforms"></div>
-      <h3>Rescue Randy mannequin (GRASP shared resource), Unitree R1 Humanoid, OpenArm Humanoid Torso</h3>
+      <h3>Rescue Randy Mannequin, Unitree R1 Humanoid, OpenArm Humanoid Torso</h3>
     </div>
     <div class="fac-card">
       <div class="fac-img"><img src="{{ site.baseurl }}/assets/images/lab-pictures/kuka.jpg" alt="Manipulation & Kitchenette"></div>
-      <h3>KUKA IIWA-14 with functional kitchenette in the background </h3>
+      <h3>KUKA IIWA-14</h3>
     </div>
     <div class="fac-card">
       <div class="fac-img"><img src="{{ site.baseurl }}/assets/images/lab-pictures/franka.jpg" alt="Dual-Arm Manipulation"></div>
