@@ -472,8 +472,8 @@ permalink: /people/
     <div class="alumni-list">    
       <div class="alumni-entry">
         <div class="alumni-name">Miyu Yamane</div>
-        <div class="alumni-detail">MEA BS Student from Princeton</div>
-        <div class="alumni-detail">Summer 2026 visitor advised by <a href="https://irom-lab.princeton.edu/" style="text-decoration:none" target="_blank" rel="noopener">Anirudha Majumdar</a></div>
+        <div class="alumni-detail">BS. MAE student at Princeton University</div>
+        <div class="alumni-detail">Advised by <a href="https://irom-lab.princeton.edu/" style="text-decoration:none" target="_blank" rel="noopener">Anirudha Majumdar</a> &mdash; Visited Summer 2064</div>
       </div>    
       <div class="alumni-entry">
         <div class="alumni-name">Jason Chen</div>
