@@ -57,7 +57,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">VLMgineer: Vision Language Models as Robotic Toolsmiths</div>
       <div class="pub-authors">Gao, G.*, Li, T.*, Shi, J., Li, Y., Zhang, Z., Figueroa, N. and Jayaraman, D.</div>
-      <div class="pub-venue"><em>Fourteenth International Conference on Learning Representations (ICLR)</em>, 2026, Rio de Janeiro, Brazil <a class="pub-link" href="https://openreview.net/forum?id=nESyz4PvJL" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://vlmgineer.github.io/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://penntoday.upenn.edu/news/penn-engineering-helping-robotic-arms-solve-problems-using-tools" target="_blank" rel="noopener">[Press]</a></div>
+      <div class="pub-venue"><em>Fourteenth International Conference on Learning Representations (ICLR)</em>, 2026, Rio de Janeiro, Brazil <a class="pub-link" href="https://openreview.net/forum?id=nESyz4PvJL" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://vlmgineer.github.io/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://penntoday.upenn.edu/news/penn-engineering-helping-robotic-arms-solve-problems-using-tools" target="_blank" rel="noopener">[Penn News]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control</div>
@@ -206,12 +206,12 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Task Generalization with Stability Guarantees via Elastic Dynamical System Motion Policies</div>
       <div class="pub-authors">Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>7th Conference on Robot Learning (CoRL)</em>, Nov 2023 <a class="pub-link" href="https://arxiv.org/abs/2309.01884" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>7th Conference on Robot Learning (CoRL)</em>, Nov 2023 <a class="pub-link" href="https://proceedings.mlr.press/v229/li23b" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://sites.google.com/view/elastic-ds" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://youtu.be/fQ0mfb79iXU?si=BoizdHSMvmfXG9vX" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Learning Realistic Joint Space Boundaries for Range of Motion Analysis of Healthy and Impaired Human Arms</div>
       <div class="pub-authors">Keyvanian, S., Johnson, M.J. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE Humanoids</em>, 2023 <span class="pub-note">Austin, USA.</span> <a class="pub-link" href="https://sites.google.com/seas.upenn.edu/learning-rom/home" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE Humanoids</em>, 2023 <span class="pub-note">Austin, USA.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10375147" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://sites.google.com/seas.upenn.edu/learning-rom/home" target="_blank" rel="noopener">[Webpage]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Ultrafast, Programmable, and Electronics-Free Soft Robots Enabled by Snapping Metacaps</div>
