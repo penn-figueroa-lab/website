@@ -183,13 +183,11 @@ permalink: /publications/
       <div class="pub-title">On the Feasibility of EEG-based Motor Intention Detection for Real-Time Robot Assistive Control</div>
       <div class="pub-authors">Choi, H., Das, S., Peng, S., Bajcsy, R. and Figueroa, N.</div>
       <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Yokohama, Japan.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10610321/" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://youtu.be/NFpO8_4gKWQ?si=nzr6YKFu78R8cmC4" target="_blank" rel="noopener">[Video]</a></div></div>
-    </div>
     <div class="pub-entry">
-      <div class="pub-title">Neural Contractive Dynamical System</div>
+      <div class="pub-title">Neural Contractive Dynamical Systems</div>
       <div class="pub-authors">Beik-Mohammadi, H., Hauberg, S., Arvanitidis, G., Figueroa, N., Neumann, G., and Rozo, L.</div>
       <div class="pub-venue"><em>ICLR</em>, 2024 <span class="pub-note">Spotlight (5% acceptance rate). Vienna, Austria.</span> <a class="pub-link" href="https://openreview.net/forum?id=iAYIRHOYy8" target="_blank" rel="noopener">[Link]</a></div>
     </div>
-
     <div class="pub-entry">
       <div class="pub-title">Reactive Collision-Free Motion Generation in Joint Space via Dynamical Systems and Sampling-Based MPC</div>
       <div class="pub-authors">Koptev, M., Figueroa, N. and Billard, A.</div>
