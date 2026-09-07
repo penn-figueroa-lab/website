@@ -8,9 +8,6 @@ permalink: /facilities/
   <!-- ===== INTRO (first paragraph) ===== -->
   <div class="fac-intro">
     <h2>Our Facilities</h2>
-    <p>
-      Figueroa Robotics Lab focuses on studying and developing the <b>physical and perceptual adaptive intelligence</b> necessary for robots to learn from and interact with humans. The goal is to develop robotic technologies that adapt to a wide-range of human capabilities, needs and ever-changing environments; achieving fluid human-robot collaborative autonomy; i.e., when humans and robots collaborate harmoniously.
-    </p>
   </div>
 
   <!-- ===== GRID (not clickable) ===== -->
