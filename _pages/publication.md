@@ -172,12 +172,12 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Constrained Passive Interaction Control: Leveraging Passivity and Safety for Robot Manipulators</div>
       <div class="pub-authors">Zhang, Z., Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Yokohama, Japan.</span> <a class="pub-link" href="https://arxiv.org/abs/2403.09853" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://github.com/penn-figueroa-lab/Constrained-Passive/tree/main" target="_blank" rel="noopener">[Code]</a><a class="pub-link" href="https://youtu.be/ogvzJXGhh8Q?si=vRP2Ohh0PDalMFhf" target="_blank" rel="noopener">[Video]</a></div>
+      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Yokohama, Japan.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10610232" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://github.com/penn-figueroa-lab/Constrained-Passive/tree/main" target="_blank" rel="noopener">[Code]</a><a class="pub-link" href="https://youtu.be/ogvzJXGhh8Q?si=vRP2Ohh0PDalMFhf" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Towards Feasible Dynamic Grasping: Leveraging Gaussian Process Distance Fields, SE(3) Equivariance and Riemannian Mixture Models</div>
       <div class="pub-authors">Choi, H., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Japan.</span> <a class="pub-link" href="https://arxiv.org/abs/2311.02576" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://youtu.be/wjIVrwTzTOc?si=z3RGfEltEINqOHuZ" target="_blank" rel="noopener">[Video]</a></div>
+      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Japan.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10611601" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://youtu.be/wjIVrwTzTOc?si=z3RGfEltEINqOHuZ" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">On the Feasibility of EEG-based Motor Intention Detection for Real-Time Robot Assistive Control</div>
@@ -189,6 +189,7 @@ permalink: /publications/
       <div class="pub-authors">Beik-Mohammadi, H., Hauberg, S., Arvanitidis, G., Figueroa, N., Neumann, G., and Rozo, L.</div>
       <div class="pub-venue"><em>ICLR</em>, 2024 <span class="pub-note">Spotlight (5% acceptance rate). Vienna, Austria.</span> <a class="pub-link" href="https://openreview.net/forum?id=iAYIRHOYy8" target="_blank" rel="noopener">[Link]</a></div>
     </div>
+
     <div class="pub-entry">
       <div class="pub-title">Reactive Collision-Free Motion Generation in Joint Space via Dynamical Systems and Sampling-Based MPC</div>
       <div class="pub-authors">Koptev, M., Figueroa, N. and Billard, A.</div>
