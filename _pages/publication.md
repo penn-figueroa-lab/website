@@ -191,12 +191,13 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Reactive Collision-Free Motion Generation in Joint Space via Dynamical Systems and Sampling-Based MPC</div>
       <div class="pub-authors">Koptev, M., Figueroa, N. and Billard, A.</div>
-      <div class="pub-venue"><em>The International Journal of Robotics Research (IJRR)</em>, 43(13):2049&ndash;2069, 2024 <a class="pub-link" href="https://journals.sagepub.com/doi/10.1177/02783649241246557" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>The International Journal of Robotics Research (IJRR)</em>, 43(13):2049&ndash;2069, 2024 <a class="pub-link" href="https://journals.sagepub.com/doi/10.1177/02783649241246557" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://github.com/epfl-lasa/OptimalModulationDS" target="_blank" rel="noopener">[Code]</a><a class="pub-link" href="https://youtu.be/PmbGwdXiWOc?si=nbIkSUtgfUz3lSdf" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">On-Manifold Strategies for Reactive Dynamical System Modulation with Non-Convex Obstacles</div>
       <div class="pub-authors">Fourie, C., Figueroa, N. and Shah, J.</div>
-      <div class="pub-venue"><em>IEEE Transactions on Robotics (TRO)</em>, 40:2390&ndash;2409, 2024 <span class="pub-note">:sports_medal: Honorable Mention for IEEE TRO King-Sun Fu Memorial Best Paper Award.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10473149" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE Transactions on Robotics (TRO)</em>, 40:2390&ndash;2409, 2024 </div>
+      <div class="pub-note"><span class="pub-note">:trophy: Honorable Mention for IEEE TRO King-Sun Fu Memorial Best Paper Award. </span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10473149" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://youtu.be/uu2e85gC4wk?si=7dPK17VwZVGUdQ5n" target="_blank" rel="noopener">[Video]</a></div>
     </div>
   </div>
 
