@@ -5,26 +5,11 @@ permalink: /facilities/
 ---
 
 <section class="facilities-wrap">
-  <!-- ===== INTRO ===== -->
+  <!-- ===== INTRO (first paragraph) ===== -->
   <div class="fac-intro">
     <h2>Our Facilities</h2>
     <p>
       Figueroa Robotics Lab focuses on studying and developing the <b>physical and perceptual adaptive intelligence</b> necessary for robots to learn from and interact with humans. The goal is to develop robotic technologies that adapt to a wide-range of human capabilities, needs and ever-changing environments; achieving fluid human-robot collaborative autonomy; i.e., when humans and robots collaborate harmoniously.
-    </p>
-    <p>
-      The lab is housed in a 825 square foot lab space in Levine 266 composed of a 666 square foot main lab space equipped with a 24-camera Optitrack Motion Capture System as well as a small-scale functioning kitchenette for experimentation with assistive robot household applications; and a smaller 159 square foot adjoint lab space where experimental robotic platforms are evaluated.
-    </p>
-    <p>
-      The equipment that is used in this facility includes three redundant 7-DOF collaborative manipulators (two Franka Emika, one KUKA IIWA) with a wide range of payloads (from 2kg-14kg), one OpenArm 1.0 Bimanual Humanoid upper body, and one Unitree R1 Humanoid. During summer two additional collaborative manipulators (Franka Emika) are borrowed from the MEAM labs to experiment on dual-arm experiments.
-    </p>
-    <p>
-      In addition, the lab has a myriad of robotics peripherals and sensors used with these robots which include: one LEAP 4-fingered hand, one QB 4-fingered compliant hand, one Robotiq 2-finger gripper, one Robotiq force/torque sensor, three Botasys force/torque sensors, one Telemed wearable ultrasonic sensor, one Bittium Neurone wet EEG device.
-    </p>
-    <p>
-      The lab also experiments in social navigation with a 4WD All-Terrain Scout 2.0 Mobile Robot from AgileX and one Fetch Mobile Manipulator for indoor social navigation.
-    </p>
-    <p>
-      Computational assets include 7 desktop PCs (GPUs: 4 Nvidia RTX 3070, 1 Nvidia RTX 3080, 2 Nvidia RTX 3090) and one Bambu Lab 3D printer.
     </p>
   </div>
 
@@ -56,6 +41,25 @@ permalink: /facilities/
     </div>
   
   </section>
+
+  <!-- ===== REMAINING TEXT (after grid) ===== -->
+  <div class="fac-intro">
+    <p>
+      The lab is housed in a 825 square foot lab space in Levine 266 composed of a 666 square foot main lab space equipped with a 24-camera Optitrack Motion Capture System as well as a small-scale functioning kitchenette for experimentation with assistive robot household applications; and a smaller 159 square foot adjoint lab space where experimental robotic platforms are evaluated.
+    </p>
+    <p>
+      The equipment that is used in this facility includes three redundant 7-DOF collaborative manipulators (two Franka Emika, one KUKA IIWA) with a wide range of payloads (from 2kg-14kg), one OpenArm 1.0 Bimanual Humanoid upper body, and one Unitree R1 Humanoid. During summer two additional collaborative manipulators (Franka Emika) are borrowed from the MEAM labs to experiment on dual-arm experiments.
+    </p>
+    <p>
+      In addition, the lab has a myriad of robotics peripherals and sensors used with these robots which include: one LEAP 4-fingered hand, one QB 4-fingered compliant hand, one Robotiq 2-finger gripper, one Robotiq force/torque sensor, three Botasys force/torque sensors, one Telemed wearable ultrasonic sensor, one Bittium Neurone wet EEG device.
+    </p>
+    <p>
+      The lab also experiments in social navigation with a 4WD All-Terrain Scout 2.0 Mobile Robot from AgileX and one Fetch Mobile Manipulator for indoor social navigation.
+    </p>
+    <p>
+      Computational assets include 7 desktop PCs (GPUs: 4 Nvidia RTX 3070, 1 Nvidia RTX 3080, 2 Nvidia RTX 3090) and one Bambu Lab 3D printer.
+    </p>
+  </div>
 </section>
 
 <style>
