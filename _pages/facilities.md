@@ -101,6 +101,7 @@ permalink: /facilities/
 /* ===== Grid ===== */
 .fac-grid{
   margin-top:1.2rem;
+  margin-bottom:2.5rem;
   display:grid;
   gap: clamp(14px, 2vw, 26px);
   grid-template-columns: repeat(3, minmax(240px, 1fr));
@@ -144,7 +145,7 @@ permalink: /facilities/
 .fac-card h3{
   margin:0.6rem 0 0;
   font-weight:600;
-  font-size:clamp(0.8rem, 0.35vw + 0.62rem, 0.95rem);
+  font-size:clamp(0.7rem, 0.25vw + 0.55rem, 0.82rem);
   line-height:1.35;
 }
 </style>
