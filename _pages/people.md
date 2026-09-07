@@ -433,6 +433,11 @@ permalink: /people/
         <div class="alumni-detail">MS. Robotics, 2026</div>
       </div>
       <div class="alumni-entry">
+        <div class="alumni-name">Jason Chen</div>
+        <div class="alumni-detail">M.S. MEAM, 2026</div>
+        <div class="alumni-detail"><b>After Graduating:</b> Fleet Root Cause Engineer at Tesla</div>
+      </div>
+      <div class="alumni-entry">
         <div class="alumni-name">Shubhodeep Shiv Aditya</div>
         <div class="alumni-detail">MS. Robotics, 2025</div>
         <div class="alumni-detail"><b>After Graduating:</b> AI Computer Engineer at <a href="https://mytra.ai/" style="text-decoration:none" target="_blank" rel="noopener">Mytra</a></div>
@@ -475,11 +480,6 @@ permalink: /people/
         <div class="alumni-detail">BS. MAE student at Princeton University</div>
         <div class="alumni-detail">Advised by <a href="https://irom-lab.princeton.edu/" style="text-decoration:none" target="_blank" rel="noopener">Anirudha Majumdar</a> &mdash; Visited Summer 2064</div>
       </div>    
-      <div class="alumni-entry">
-        <div class="alumni-name">Jason Chen</div>
-        <div class="alumni-detail">B.S. + M.S. MEAM, 2026</div>
-        <div class="alumni-detail"><b>After Graduating:</b> Fleet Root Cause Engineer at Tesla</div>
-      </div>
       <div class="alumni-entry">
         <div class="alumni-name">Michael North</div>
         <div class="alumni-detail">B.S. Bioengineering, 2026</div>
