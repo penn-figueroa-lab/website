@@ -130,22 +130,26 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">SE(3) Linear Parameter Varying Dynamical Systems for Globally Asymptotically Stable End-Effector Control</div>
       <div class="pub-authors">Sun, S. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2024 <span class="pub-note">Abu Dhabi, UAE.</span> <a class="pub-link" href="https://arxiv.org/abs/2403.16366" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2024 <span class="pub-note">Abu Dhabi, UAE.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10801844" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://github.com/penn-figueroa-lab/se3_lpvds" target="_blank" rel="noopener">[Code]</a>
+      <a class="pub-link" href="https://www.youtube.com/watch?v=vdYUHrybR0U" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Reactive Temporal Logic-based Planning and Control for Interactive Robotic Tasks</div>
       <div class="pub-authors">Nawaz, F., Peng, S., Lindemann, L., Figueroa, N. and Matni, N.</div>
-      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2024 <span class="pub-note">Abu Dhabi, UAE.</span> <a class="pub-link" href="https://arxiv.org/abs/2404.19594" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE/RSJ IROS</em>, 2024 <span class="pub-note">Abu Dhabi, UAE.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10802335/" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://sites.google.com/view/rtl-plan-control-hri" target="_blank" rel="noopener">[Code]</a>
+      <a class="pub-link" href="https://www.youtube.com/watch?v=lrgODABa2ek" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">A Robust Filter for Marker-less Multi-person Tracking in Human-Robot Interaction Scenarios</div>
       <div class="pub-authors">Martini, E., Parekh, H., Peng, S., Bombieri, N., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE RO-MAN</em>, 2024 <span class="pub-note">USA.</span> <a class="pub-link" href="https://arxiv.org/abs/2406.01832" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE RO-MAN</em>, 2024 <span class="pub-note">USA.</span> <a class="pub-link" href="https://github.com/penn-figueroa-lab/markerless-human-perception" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://sites.google.com/view/rtl-plan-control-hri" target="_blank" rel="noopener">[Webpage]</a>
+      <a class="pub-link" href="https://www.youtube.com/watch?v=8sS7gowsk3o" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Directionality-Aware Mixture Model Parallel Sampling for Efficient Linear Parameter Varying Dynamical System Learning</div>
       <div class="pub-authors">Sun, S., Gao, H., Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE Robotics and Automation Letters (RA-L)</em>, 9(7):6248&ndash;6255, July 2024 <a class="pub-link" href="https://ieeexplore.ieee.org/document/10530930" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE Robotics and Automation Letters (RA-L)</em>, 9(7):6248&ndash;6255, July 2024 <a class="pub-link" href="https://ieeexplore.ieee.org/document/10530930" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://github.com/penn-figueroa-lab/damm" target="_blank" rel="noopener">[Code]</a>
+      <a class="pub-link" href="https://www.youtube.com/watch?v=pLnZkyTlyNA" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Constraint-Aware Intent Estimation for Dynamic Human-Robot Object Co-Manipulation</div>
