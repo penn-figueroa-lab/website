@@ -71,6 +71,15 @@ body,
   margin: 0 0.75rem;
 }
 
+/* ===== Enlarge Footer Icons (GitHub / YouTube) =====
+   Targets just the <i class="fab fa-..."> glyph so the "GITHUB" /
+   "YOUTUBE" label text next to it stays its normal size. Bump the
+   font-size value to make icons bigger/smaller (1em = default size). */
+.page__footer-follow .social-icons a i {
+  font-size: 1.5em;
+  vertical-align: middle;
+}
+
 /* ===== Remove phantom right-sidebar space =====
    Minimal Mistakes reserves ~300px on the right of .page for an
    author-profile/TOC sidebar even when none exists on this site.
