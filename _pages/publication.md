@@ -142,7 +142,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">A Robust Filter for Marker-less Multi-person Tracking in Human-Robot Interaction Scenarios</div>
       <div class="pub-authors">Martini, E., Parekh, H., Peng, S., Bombieri, N., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE International Conference on Robot and Human Interactive Communication (ROMAN)</em>, 2024 <span class="pub-note">USA.</span> <a class="pub-link" href="https://github.com/penn-figueroa-lab/markerless-human-perception" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://penn-figueroa-lab.github.io/markerless-human-perception/" target="_blank" rel="noopener">[Webpage]</a>
+      <div class="pub-venue"><em>IEEE International Conference on Robot and Human Interactive Communication (ROMAN)</em>, 2024 <span class="pub-note">USA.</span> <a class="pub-link" href="hhttps://ieeexplore.ieee.org/document/10731365" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://penn-figueroa-lab.github.io/markerless-human-perception/" target="_blank" rel="noopener">[Webpage]</a>
       <a class="pub-link" href="https://www.youtube.com/watch?v=8sS7gowsk3o" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
