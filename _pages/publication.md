@@ -166,23 +166,23 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Learning Complex Motion Plans using Neural ODEs with Safety and Stability Guarantees</div>
       <div class="pub-authors">Nawaz, F., Li, T., Matni, N. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Yokohama, Japan.</span> <a class="pub-link" href="https://arxiv.org/abs/2308.00186" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://sites.google.com/view/lfd-node-clf-cbf" target="_blank" rel="noopener">[Webpage]</a>
+      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Yokohama, Japan.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10611584" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://sites.google.com/view/lfd-node-clf-cbf" target="_blank" rel="noopener">[Webpage]</a>
       <a class="pub-link" href="https://www.youtube.com/watch?v=XXDFqQWfSMc" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Constrained Passive Interaction Control: Leveraging Passivity and Safety for Robot Manipulators</div>
       <div class="pub-authors">Zhang, Z., Li, T. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Yokohama, Japan.</span> <a class="pub-link" href="https://arxiv.org/abs/2403.09853" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Yokohama, Japan.</span> <a class="pub-link" href="https://arxiv.org/abs/2403.09853" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://github.com/penn-figueroa-lab/Constrained-Passive/tree/main" target="_blank" rel="noopener">[Code]</a><a class="pub-link" href="https://youtu.be/ogvzJXGhh8Q?si=vRP2Ohh0PDalMFhf" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Towards Feasible Dynamic Grasping: Leveraging Gaussian Process Distance Fields, SE(3) Equivariance and Riemannian Mixture Models</div>
       <div class="pub-authors">Choi, H., and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Japan.</span> <a class="pub-link" href="https://arxiv.org/abs/2311.02576" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Japan.</span> <a class="pub-link" href="https://arxiv.org/abs/2311.02576" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://youtu.be/wjIVrwTzTOc?si=z3RGfEltEINqOHuZ" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">On the Feasibility of EEG-based Motor Intention Detection for Real-Time Robot Assistive Control</div>
       <div class="pub-authors">Choi, H., Das, S., Peng, S., Bajcsy, R. and Figueroa, N.</div>
-      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Yokohama, Japan.</span> <a class="pub-link" href="https://arxiv.org/abs/2403.08149" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <span class="pub-note">Yokohama, Japan.</span> <a class="pub-link" href="https://ieeexplore.ieee.org/document/10610321/" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://youtu.be/NFpO8_4gKWQ?si=nzr6YKFu78R8cmC4" target="_blank" rel="noopener">[Video]</a></div></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Neural Contractive Dynamical System</div>
