@@ -129,7 +129,7 @@ permalink: /facilities/
 .fac-img img{
   width:100%;
   height:100%;
-  object-fit:cover;
+  object-fit:contain;
   display:block;
   transition:transform .25s ease, filter .25s ease;
 }
@@ -138,8 +138,9 @@ permalink: /facilities/
   filter:brightness(1.02);
 }
 .fac-card h3{
-  margin:0.7rem 0 0;
-  font-weight:800;
-  font-size:clamp(0.95rem, 0.9vw + .7rem, 1.25rem);
+  margin:0.6rem 0 0;
+  font-weight:600;
+  font-size:clamp(0.8rem, 0.35vw + 0.62rem, 0.95rem);
+  line-height:1.35;
 }
 </style>
