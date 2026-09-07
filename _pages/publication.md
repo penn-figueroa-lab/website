@@ -230,12 +230,12 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Temporal Logic Imitation: Learning Plan-Satisficing Motion Policies from Demonstrations</div>
       <div class="pub-authors">Wang, Y., Figueroa, N., Li, S., Shah, A. and Shah, J.</div>
-      <div class="pub-venue"><em>6th Conference on Robot Learning (CoRL)</em>, PMLR 205:94&ndash;105, Dec 2022 <a class="pub-link" href="https://arxiv.org/abs/2206.04632" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>6th Conference on Robot Learning (CoRL)</em>, PMLR 205:94&ndash;105, Dec 2022 <a class="pub-link" href="https://proceedings.mlr.press/v205/wang23a" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://yanweiw.github.io/tli/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://youtu.be/26-pJMBO1xQ?si=VX0sgD7n24TqfG9p" target="_blank" rel="noopener">[Video]</a></div>
     </div>
     <div class="pub-entry">
       <div class="pub-title">Locally Active Globally Stable Dynamical Systems: Theory, Learning and Experiments</div>
       <div class="pub-authors">Figueroa, N. and Billard, A.</div>
-      <div class="pub-venue"><em>The International Journal of Robotics Research (IJRR)</em>, 41(3):312&ndash;347, 2022 <a class="pub-link" href="https://journals.sagepub.com/doi/10.1177/02783649211030952" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>The International Journal of Robotics Research (IJRR)</em>, 41(3):312&ndash;347, 2022 <a class="pub-link" href="https://journals.sagepub.com/doi/10.1177/02783649211030952" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://nbfigueroa.github.io/lags-ds-learning/" target="_blank" rel="noopener">[Webpage]</a><a class="pub-link" href="https://youtu.be/sR6oF2PpVno?si=oJ4gVRRA7fzou6Tr" target="_blank" rel="noopener">[Video #1]</a><a class="pub-link" href="https://youtu.be/_y2t81uu-bg?si=-asLIfbVA7j36TV2" target="_blank" rel="noopener">[Video #2]</a></div>
     </div>
   </div>
 
