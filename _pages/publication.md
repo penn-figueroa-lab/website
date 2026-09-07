@@ -221,7 +221,7 @@ permalink: /publications/
     <div class="pub-entry">
       <div class="pub-title">Neural Joint-Space Implicit Distance Functions for Reactive Robot Manipulator Control</div>
       <div class="pub-authors">Koptev, M., Figueroa, N., Billard, A.</div>
-      <div class="pub-venue"><em>IEEE Robotics and Automation Letters (RA-L)</em>, 8(2):480&ndash;487, Feb. 2023 <a class="pub-link" href="https://ieeexplore.ieee.org/document/9976191" target="_blank" rel="noopener">[Link]</a></div>
+      <div class="pub-venue"><em>IEEE Robotics and Automation Letters (RA-L)</em>, 8(2):480&ndash;487, Feb. 2023 <a class="pub-link" href="https://ieeexplore.ieee.org/document/9976191" target="_blank" rel="noopener">[Link]</a><a class="pub-link" href="https://github.com/epfl-lasa/Neural-JSDF" target="_blank" rel="noopener">[Code]</a><a class="pub-link" href="https://www.youtube.com/watch?v=xamnpE9u2Q0" target="_blank" rel="noopener">[Video]</a></div>
     </div>
   </div>
 
