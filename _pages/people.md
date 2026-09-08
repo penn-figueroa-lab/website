@@ -478,7 +478,7 @@ permalink: /people/
       <div class="alumni-entry">
         <div class="alumni-name">Miyu Yamane</div>
         <div class="alumni-detail">BS. MAE student at Princeton University</div>
-        <div class="alumni-detail">Advised by <a href="https://irom-lab.princeton.edu/" style="text-decoration:none" target="_blank" rel="noopener">Anirudha Majumdar</a> &mdash; Visited Summer 2064</div>
+        <div class="alumni-detail">Advised by <a href="https://irom-lab.princeton.edu/" style="text-decoration:none" target="_blank" rel="noopener">Anirudha Majumdar</a> &mdash; Visited Summer 2026</div>
       </div>    
       <div class="alumni-entry">
         <div class="alumni-name">Michael North</div>
