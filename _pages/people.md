@@ -163,8 +163,8 @@ permalink: /people/
     <h2>Research Engineers</h2>
     <div class="people-grid">
         <div class="person-card">
-        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim_reduced.jpg" alt="Natey Kim"></a>
-        <a href="https://www.linkedin.com/in/nateykim/" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
+        <a href="https://nateykim.com/home" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/natey_kim_reduced.jpg" alt="Natey Kim"></a>
+        <a href="https://nateykim.com/home" target="_blank" rel="noopener"><h3>Natey Kim</h3></a>
         <p>M.S. Robotics, 2026</p>
       </div>  
         <div class="person-card">
