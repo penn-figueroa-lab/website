@@ -69,7 +69,7 @@ permalink: /
       <div class="news-date">Sep 2026</div>
       <div class="news-body">
         <div class="news-title">:trophy: Lab Awarded AMD University Program Compute Allocation</div>
-        <p>Congratulations to Prof. Figueroa on being awarded a compute allocation on the <a href="https://www.amd.com/en/corporate/university-program/donation-program.html" target="_blank" rel="noopener">AMD University Program</a> for the project &ldquo;Control-Ready 3D Perception for Humanoid Loco-Manipulation,&rdquo; starting October 2026.</p>
+        <p>Congratulations to Figueroa Robotics Lab on being awarded a compute allocation on the <a href="https://www.amd.com/en/corporate/university-program/donation-program.html" target="_blank" rel="noopener">AMD University Program</a> for the project &ldquo;Control-Ready 3D Perception for Humanoid Loco-Manipulation,&rdquo; starting October 2026.</p>
       </div>
     </div>
     <div class="news-item">
