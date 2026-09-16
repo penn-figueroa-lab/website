@@ -54,7 +54,7 @@ permalink: /
     <img src="{{ site.baseurl }}/assets/images/funding-logos/nih-symbol.png" alt="National Institutes of Health">
     <img src="{{ site.baseurl }}/assets/images/funding-logos/Stacked-Full-Color-on-Light.png" alt="U.S. Department of Veterans Affairs">
     <img src="{{ site.baseurl }}/assets/images/funding-logos/Penn-ASSET1-Logo.png" alt="Penn Engineering ASSET Center">
-    <img src="{{ site.baseurl }}/assets/images/funding-logos/AMD_logo.png" alt="AMD University Program">
+    <img src="{{ site.baseurl }}/assets/images/funding-logos/AMD_logo.png" alt="AMD University Program" class="amd-logo">
   </div>
 </div> 
 
@@ -69,7 +69,7 @@ permalink: /
       <div class="news-date">Sep 2026</div>
       <div class="news-body">
         <div class="news-title">:trophy: Lab Awarded AMD University Program Compute Allocation</div>
-        <p>Congratulations to Figueroa Robotics Lab on being awarded a compute allocation on the <a href="https://www.amd.com/en/corporate/university-program/donation-program.html" target="_blank" rel="noopener">AMD University Program (AUP) AI &amp; HPC Cluster</a> for the project &ldquo;Control-Ready 3D Perception for Humanoid Loco-Manipulation,&rdquo; providing 1,500 normalized node-hours from October 2026 through September 2027.</p>
+        <p>Congratulations to Prof. Figueroa on being awarded a compute allocation on the <a href="https://www.amd.com/en/corporate/university-program/donation-program.html" target="_blank" rel="noopener">AMD University Program</a> for the project &ldquo;Control-Ready 3D Perception for Humanoid Loco-Manipulation,&rdquo; starting October 2026.</p>
       </div>
     </div>
     <div class="news-item">
@@ -184,6 +184,9 @@ permalink: /
   max-width: 50%;
   object-fit: contain;
   flex: 0 1 auto;
+}
+.funding-logos-row img.amd-logo{
+  max-height: clamp(22px, 7vw, 46px);
 }
 
 /* ---------- News section ---------- */
