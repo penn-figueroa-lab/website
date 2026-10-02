@@ -69,6 +69,14 @@ permalink: /
     <div class="news-item">
       <div class="news-date">Sep 2026</div>
       <div class="news-body">
+        <div class="news-title">:trophy: Memory-Aware Multi-Sensor Perception paper named LTP Workshop Best Paper Finalist at IROS 2026</div>
+        <p>Congratulations to Yifan Xue, Jingshuo Li, Yifei Li, Shubhodeep Aditya, and Prof. Figueroa on &ldquo;Memory-Aware Multi-Sensor Perception for Efficient and Safe Navigation in Dynamic Environments&rdquo; being selected as a Best Paper Finalist at the Long-Term Perception for Human-Centric Autonomy (LTP) Workshop at IROS 2026. The work builds environmental memory online during navigation, enabling the MCBF-QP controller to reason beyond instantaneous observations for liveness-aware navigation. <a href="https://lnkd.in/eYxGDiub" target="_blank" rel="noopener">Code, videos, and paper</a>.</p>
+      </div>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">Sep 2026</div>
+      <div class="news-body">
         <div class="news-title">:trophy: Lab Awarded AMD University Program Compute Allocation</div>
         <p>Congratulations to Figueroa Robotics Lab on being awarded a compute allocation on the <a href="https://www.amd.com/en/corporate/university-program/donation-program.html" target="_blank" rel="noopener">AMD University Program</a> for the project &ldquo;Control-Ready 3D Perception for Humanoid Loco-Manipulation,&rdquo; starting October 2026.</p>
       </div>
