@@ -66,6 +66,17 @@ permalink: /
 <div class="news-wrap">
   <h3 class="news-heading">Latest News</h3>
   <div class="news-list">
+      <div class="news-item">
+      <div class="news-date">Oct 2026</div>
+      <div class="news-body">
+        <div class="news-title">:newspaper: Penn Engineering Features Figueroa Robotics Lab: &ldquo;Teaching Robots to Do More with Less Data&rdquo;</div>
+        <p>Featuring SymSkill and Zero-Shot Generalization work. <a href="https://www.engineering.upenn.edu/stories/teaching-robots-to-do-more-with-less-data/" target="_blank" rel="noopener">Read the full story</a>.</p>
+      </div>
+    </div>
+
+
+
+    
     <div class="news-item">
       <div class="news-date">Sep 2026</div>
       <div class="news-body">
