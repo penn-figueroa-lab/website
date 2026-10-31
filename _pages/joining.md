@@ -44,7 +44,7 @@ permalink: /joining/
   <h3>Prospective Visiting PhD/Master’s/Undergraduate Students</h3>
   <p>We do not offer paid internships or stays for external/international students. Nevertheless, if you have a fellowship from your home country, university or external funding agency, you can contact Prof. Figueroa via email with the subject line including the words <strong>[Funded Visiting Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with Prof. Figueroa, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
 
-  <h3>Current Master’s/Undergraduate Students</h3>
+  <h3>Current Penn Master’s/Undergraduate Students</h3>
   <!-- This section is blank in the supplied document. -->
 </section>
 
