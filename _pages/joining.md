@@ -8,10 +8,10 @@ permalink: /joining/
 <section class="joining-wrap">
   <!-- ===== INTRO ===== -->
   <div class="rb-intro">
-    <h2>Joining the lab</h1>
+    <h2>Joining the lab</h2>
     <p>We regularly recruit highly motivated and talented individuals to join the lab! Please follow the instructions on this page before emailing Prof. Figueroa in order to receive a timely reply.</p>
 
-  <h3>Prospective PhD Students</h2>
+  <h3>Prospective PhD Students</h3>
   <p><strong>At the moment there is no funding for new PhD students in the next admissions cycle 2027–2028</strong> (this may change, depending on grant decisions). Overall, we are interested in highly motivated and talented individuals that share the research vision of Prof. Figueroa to join the lab!</p>
   <p>Prospective graduate students are encouraged to apply to the following <a href="https://gradadm.engineering.upenn.edu/doctoral/"> Penn Engineering PhD programs</a> before the deadline (typically mid-December):</p>
   <ul>
@@ -41,10 +41,10 @@ permalink: /joining/
   </ul>
   <p>Please apply to one of these programs. Once you have been admitted, if you want to learn about the research opportunities in the lab you can contact Prof. Figueroa via email with the subject line including the words <strong>[Admitted Masters Student]</strong>. Depending on the program, you will be able to explore research projects for credits in the form of independent studies or a thesis. Volunteer and paid internships are also often available.</p>
 
-  <h3>Prospective Visiting PhD/Master’s/Undergraduate Students</h2>
+  <h3>Prospective Visiting PhD/Master’s/Undergraduate Students</h3>
   <p>We do not offer paid internships or stays for external/international students. Nevertheless, if you have a fellowship from your home country, university or external funding agency, you can contact Prof. Figueroa via email with the subject line including the words <strong>[Funded Visiting Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with Prof. Figueroa, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
 
-  <h3>Current Master’s/Undergraduate Students</h2>
+  <h3>Current Master’s/Undergraduate Students</h3>
   <!-- This section is blank in the supplied document. -->
 </section>
 
