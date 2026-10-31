@@ -31,7 +31,7 @@ permalink: /joining/
     <li><a href="https://www.smartscholarship.org/">DoD SMART</a></li>
   </ul>
 
-  <h3>Prospective Master’s Students</h2>
+  <h3>Prospective Master’s Students</h3>
   <p>If you are interested in doing research in the lab while obtaining a master’s degree at Penn, there are multiple options to do so. You can apply to the following programs:</p>
   <ul>
     <li><a href="https://www.grasp.upenn.edu/academics/masters-degree-program/">Master’s in Robotics (administered by GRASP Lab)</a></li>
