@@ -12,10 +12,10 @@ permalink: /joining/
     <p>We are interested in recruiting highly motivated and talented individuals that share the research vision of Prof. Figueroa to join the lab. Please follow the instructions on this page before emailing Prof. Figueroa in order to receive a timely reply.</p>
 
 
-<h3>Current Masters/Undergraduate Students</h3>
+<h3>Current Penn Masters/Undergraduate Students</h3>
 
 <p>
-  The following list of projects can take the form of a summer research
+  The following <strong>list of projects</strong> can take the form of a summer research
   project, fall/spring research internship (volunteer or paid),
   final project for MEAM 6230 course, independent study or master's
   theses (depending on how far and deep the student is willing to
@@ -36,7 +36,7 @@ permalink: /joining/
 </p>
 
 <p>
-  Students interested in working on any of these projects should
+  <strong>How to apply?</strong> Students interested in working on any of these projects should
   fill in the following google form 
   <a href="https://forms.gle/D2TSYBxNqNiYJXMw8">
     <strong>https://forms.gle/D2TSYBxNqNiYJXMw8</strong>
