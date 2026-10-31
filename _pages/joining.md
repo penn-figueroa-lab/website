@@ -11,41 +11,8 @@ permalink: /joining/
     <h2>Joining the lab</h2>
     <p>We are interested in recruiting highly motivated and talented individuals that share the research vision of Prof. Figueroa to join the lab. Please follow the instructions on this page before emailing Prof. Figueroa in order to receive a timely reply.</p>
 
-  <h3>Prospective PhD Students</h3>
-  <p><span style="color: red;">At the moment there is no funding for new PhD students in the upcoming next admissions</span> (this may change, depending on grant decisions).</p>
-  <p>Prospective graduate students are encouraged to apply to the following <a href="https://gradadm.engineering.upenn.edu/doctoral/"> Penn Engineering PhD programs</a> before the deadline (typically mid-December):</p>
-  <ul>
-    <li><a href="https://www.me.upenn.edu/academics/doctoral/">Mechanical Engineering and Applied Mechanics Doctoral Program</a></li>
-    <li><a href="https://www.ese.upenn.edu/academics/doctoral/">Electrical and Systems Engineering Doctoral Program</a></li>
-    <li><a href="https://www.cis.upenn.edu/doctoral/">Computer and Information Science Doctoral Program</a></li>
-  </ul>
-  <p>You could also have the opportunity to be advised by Prof. Figueroa if you are admitted to the <a href="https://be.seas.upenn.edu/doctoral/">Bioengineering doctoral program</a> with a co-advisor from the Bioengineering department. Current collaborators: <a href="https://www.med.upenn.edu/rehabilitation-robotics-lab/dr-michelle-johnson.html"> Michelle J. Johnson</a>, <a href="https://vitalelab.med.upenn.edu/dr-flavia-vitale-bio/">Flavia Vitale</a>, <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8878501">Josh Baxter</a>.</p>
-  <p><strong>Which program to apply to?</strong> Every department’s doctoral program has different requirements in terms of courses, teaching efforts and thesis milestones. Study each program in detail and decide based on which one fits your interests and strengths.</p>
-  <p><strong>Application tips.</strong> In your application, please make sure to mention Prof. Figueroa under faculty you are interested in working with. Prof. Figueroa is less likely to reply to emails that request joining the lab before the submission deadline. However, <span style="color: red;">after you submit your application</span>, you are encouraged to contact her via email with the subject line including the words <strong>[Prospective PhD Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with Prof. Figueroa, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
-  <p><strong>Fellowships.</strong> Students who are actively applying for or have obtained external fellowships are of particular interest. It will be easier for you to find a spot in the lab (since you are self-funded), and the fellowship will stand out on your CV. A non-exhaustive list of fellowships primarily focused on domestic students is below:</p>
-  <ul>
-    <li><a href="https://www.nsf.gov/funding/initiatives/grfp">NSF Graduate Research Fellowship</a></li>
-    <li><a href="https://ndseg.sysplus.com/">DoD NDSEG</a></li>
-    <li><a href="https://www.hertzfoundation.org/hertz-fellowship/">Hertz Fellowship</a></li>
-    <li><a href="https://www.nasa.gov/nasa-space-technology-graduate-research-opportunities-nstgro/">NASA Space Technology Graduate Research Opportunities</a></li>
-    <li><a href="https://www.smartscholarship.org/">DoD SMART</a></li>
-  </ul>
 
-  <h3>Prospective Master’s Students</h3>
-  <p>If you are interested in doing research in the lab while obtaining a master’s degree at Penn, there are multiple options to do so. You can apply to the following programs:</p>
-  <ul>
-    <li><a href="https://www.grasp.upenn.edu/academics/masters-degree-program/">Master’s in Robotics (administered by GRASP Lab)</a></li>
-    <li><a href="https://www.me.upenn.edu/academics/masters/">Master’s in Mechanical Engineering and Applied Mechanics</a></li>
-    <li><a href="https://www.ese.upenn.edu/academics/masters/">Master’s in Electrical and Systems Engineering (any sub-program)</a></li>
-    <li><a href="https://www.cis.upenn.edu/mse-in-cis/">Master’s in Computer and Information Science (any sub-program)</a></li>
-  </ul>
-  <p>Please apply to one of these programs. Once you have been admitted, if you want to learn about the research opportunities in the lab you can contact Prof. Figueroa via email with the subject line including the words <strong>[Admitted Masters Student]</strong>. Depending on the program, you will be able to explore research projects for credits in the form of independent studies or a thesis. Volunteer and paid internships are also often available.</p>
-
-  <h3>Prospective Visiting PhD/Master’s/Undergraduate Students</h3>
-  <p><span style="color: red;">We do not offer paid internships or stays for external/international students.</span> Nevertheless, if you have a fellowship from your home country, university or external funding agency, you can contact Prof. Figueroa via email with the subject line including the words <strong>[Funded Visiting Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with Prof. Figueroa, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
-
-
-<h3>Current Master/Undergraduate Students</h3>
+<h3>Current Masters/Undergraduate Students</h3>
 
 <p>
   The following list of projects can take the form of a summer research
@@ -114,8 +81,41 @@ permalink: /joining/
 </p>
 
 
+  <h3>Prospective PhD Students</h3>
+  <p><span style="color: red;">At the moment there is no funding for new PhD students in the upcoming next admissions</span> (this may change, depending on grant decisions).</p>
+  <p>Prospective graduate students are encouraged to apply to the following <a href="https://gradadm.engineering.upenn.edu/doctoral/"> Penn Engineering PhD programs</a> before the deadline (typically mid-December):</p>
+  <ul>
+    <li><a href="https://www.me.upenn.edu/academics/doctoral/">Mechanical Engineering and Applied Mechanics Doctoral Program</a></li>
+    <li><a href="https://www.ese.upenn.edu/academics/doctoral/">Electrical and Systems Engineering Doctoral Program</a></li>
+    <li><a href="https://www.cis.upenn.edu/doctoral/">Computer and Information Science Doctoral Program</a></li>
+  </ul>
+  <p>You could also have the opportunity to be advised by Prof. Figueroa if you are admitted to the <a href="https://be.seas.upenn.edu/doctoral/">Bioengineering doctoral program</a> with a co-advisor from the Bioengineering department. Current collaborators: <a href="https://www.med.upenn.edu/rehabilitation-robotics-lab/dr-michelle-johnson.html"> Michelle J. Johnson</a>, <a href="https://vitalelab.med.upenn.edu/dr-flavia-vitale-bio/">Flavia Vitale</a>, <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8878501">Josh Baxter</a>.</p>
+  <p><strong>Which program to apply to?</strong> Every department’s doctoral program has different requirements in terms of courses, teaching efforts and thesis milestones. Study each program in detail and decide based on which one fits your interests and strengths.</p>
+  <p><strong>Application tips.</strong> In your application, please make sure to mention Prof. Figueroa under faculty you are interested in working with. Prof. Figueroa is less likely to reply to emails that request joining the lab before the submission deadline. However, <span style="color: red;">after you submit your application</span>, you are encouraged to contact her via email with the subject line including the words <strong>[Prospective PhD Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with Prof. Figueroa, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
+  <p><strong>Fellowships.</strong> Students who are actively applying for or have obtained external fellowships are of particular interest. It will be easier for you to find a spot in the lab (since you are self-funded), and the fellowship will stand out on your CV. A non-exhaustive list of fellowships primarily focused on domestic students is below:</p>
+  <ul>
+    <li><a href="https://www.nsf.gov/funding/initiatives/grfp">NSF Graduate Research Fellowship</a></li>
+    <li><a href="https://ndseg.sysplus.com/">DoD NDSEG</a></li>
+    <li><a href="https://www.hertzfoundation.org/hertz-fellowship/">Hertz Fellowship</a></li>
+    <li><a href="https://www.nasa.gov/nasa-space-technology-graduate-research-opportunities-nstgro/">NASA Space Technology Graduate Research Opportunities</a></li>
+    <li><a href="https://www.smartscholarship.org/">DoD SMART</a></li>
+  </ul>
 
-</section>
+  <h3>Prospective Master’s Students</h3>
+  <p>If you are interested in doing research in the lab while obtaining a master’s degree at Penn, there are multiple options to do so. You can apply to the following programs:</p>
+  <ul>
+    <li><a href="https://www.grasp.upenn.edu/academics/masters-degree-program/">Master’s in Robotics (administered by GRASP Lab)</a></li>
+    <li><a href="https://www.me.upenn.edu/academics/masters/">Master’s in Mechanical Engineering and Applied Mechanics</a></li>
+    <li><a href="https://www.ese.upenn.edu/academics/masters/">Master’s in Electrical and Systems Engineering (any sub-program)</a></li>
+    <li><a href="https://www.cis.upenn.edu/mse-in-cis/">Master’s in Computer and Information Science (any sub-program)</a></li>
+  </ul>
+  <p>Please apply to one of these programs. Once you have been admitted, if you want to learn about the research opportunities in the lab you can contact Prof. Figueroa via email with the subject line including the words <strong>[Admitted Masters Student]</strong>. Depending on the program, you will be able to explore research projects for credits in the form of independent studies or a thesis. Volunteer and paid internships are also often available.</p>
+
+  <h3>Prospective Visiting PhD/Master’s/Undergraduate Students</h3>
+  <p><span style="color: red;">We do not offer paid internships or stays for external/international students.</span> Nevertheless, if you have a fellowship from your home country, university or external funding agency, you can contact Prof. Figueroa via email with the subject line including the words <strong>[Funded Visiting Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with Prof. Figueroa, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
+
+
+<!-- </section> -->
 
 <style>
 /* 🔕 Hide pager & feed icon just on this page */
