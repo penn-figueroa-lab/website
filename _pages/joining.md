@@ -45,7 +45,78 @@ permalink: /joining/
   <p>We do not offer paid internships or stays for external/international students. Nevertheless, if you have a fellowship from your home country, university or external funding agency, you can contact Prof. Figueroa via email with the subject line including the words <strong>[Funded Visiting Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with Prof. Figueroa, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
 
   <h3>Current Penn Master’s/Undergraduate Students</h3>
-  <!-- This section is blank in the supplied document. -->
+  
+
+<h2>Current Master/Undergraduate Students</h2>
+
+<p>
+  The following list of projects can take the form of a summer research
+  project, fall/spring research internship (volunteer or paid),
+  final project for MEAM 6230 course, independent study or master's
+  theses (depending on how far and deep the student is willing to
+  go into the project).
+</p>
+
+<p>
+  These projects are available from
+  <strong>Fall 2026 &rarr; Summer 2028.</strong>
+</p>
+
+<p>
+  Examples of prior MS theses and Independent Study reports conducted
+  at the Figueroa Robotics Lab can be found
+  <a href="https://drive.google.com/drive/folders/1F2duMWmEmneB5gJXJbCtb5kLIVAtL6ZU?usp=sharing">here</a>.
+  (Only affiliates of University of Pennsylvania can access these documents)
+</p>
+
+<p>
+  Students interested in working on any of these projects should
+  fill in the following google form 
+  <a href="https://forms.gle/D2TSYBxNqNiYJXMw8">
+    <strong>https://forms.gle/D2TSYBxNqNiYJXMw8</strong>
+  </a>.
+  Applications will be evaluated based on the student's motivation,
+  background and best fit for the project.
+</p>
+
+<p>
+  <strong>
+    DO NOT email Prof. Figueroa prior to reading the projects
+    and filling in the form.
+  </strong>
+</p>
+
+<p><strong>List of Projects:</strong></p>
+
+<ul>
+  <li>
+    Project 1
+    <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?tab=t.o0f27u8wjfjr">
+      Inertia and Task Aware Coupled SE(3) Interaction Control
+    </a>
+  </li>
+  <li>
+    Project 2
+    <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?tab=t.kfzq35bkjwg3">
+      VL-DS: Vision-Language-Dynamical System Policies
+    </a>
+  </li>
+  <li>....</li>
+  <li>....</li>
+  <li>...</li>
+  <li>....</li>
+</ul>
+
+<p>
+  <strong>Note:</strong>
+  You will only have access to these project descriptions and
+  application form if you log in using your
+  <a href="http://engineering.upenn.edu">@engineering.upenn.edu</a>
+  gmail address.
+</p>
+
+
+
 </section>
 
 <style>
