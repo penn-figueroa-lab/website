@@ -55,21 +55,22 @@ permalink: /joining/
 
 <ul>
   <li>
-    Project 1
+    Project 1:
     <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?tab=t.o0f27u8wjfjr">
       Inertia and Task Aware Coupled SE(3) Interaction Control
     </a>
   </li>
   <li>
-    Project 2
+    Project 2:
     <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?tab=t.kfzq35bkjwg3">
       VL-DS: Vision-Language-Dynamical System Policies
     </a>
   </li>
-  <li>....</li>
-  <li>....</li>
-  <li>...</li>
-  <li>....</li>
+  <li>Project 3: <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?tab=t.q66cxpfy6jj7">Bimanual Dynamical System Policies for Coordinated and Long-Horizon Manipulation (Bimanual Symskill)</a> </li>
+  <li>Project 4: <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?tab=t.3ft2yoz580mu">Hand-Arm EMG sensor suite for Human Impedance Learning for Contact-Rich Dexterous Manipulation and Assistive Tasks </a></li>
+  <li>Project 5: <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?tab=t.ah3ftmgpov64">Leveraging Reduced-Order Models, Optimization and Learning-based Approaches for Compliant Whole-Body Humanoid Control</a></li>
+  <li>Project 6: <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?tab=t.vfb3idebp63v">Building UME (exoskeleton for dual-arm teleoperation)</a></li>
+  <li>Project 7: <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?tab=t.jjbla3trepuk">Building a Robotic Brace for Resistive Exercise Training</a></li>
 </ul>
 
 <p>
