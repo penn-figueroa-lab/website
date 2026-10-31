@@ -9,10 +9,10 @@ permalink: /joining/
   <!-- ===== INTRO ===== -->
   <div class="rb-intro">
     <h2>Joining the lab</h2>
-    <p>We regularly recruit highly motivated and talented individuals to join the lab! Please follow the instructions on this page before emailing Prof. Figueroa in order to receive a timely reply.</p>
+    <p>We are interested in recruiting highly motivated and talented individuals that share the research vision of Prof. Figueroa to join the lab. Please follow the instructions on this page before emailing Prof. Figueroa in order to receive a timely reply.</p>
 
   <h3>Prospective PhD Students</h3>
-  <p><strong>At the moment there is no funding for new PhD students in the next admissions cycle 2027–2028</strong> (this may change, depending on grant decisions). Overall, we are interested in highly motivated and talented individuals that share the research vision of Prof. Figueroa to join the lab!</p>
+  <p><strong>At the moment there is no funding for new PhD students in the upcoming next admissions</strong> (this may change, depending on grant decisions).</p>
   <p>Prospective graduate students are encouraged to apply to the following <a href="https://gradadm.engineering.upenn.edu/doctoral/"> Penn Engineering PhD programs</a> before the deadline (typically mid-December):</p>
   <ul>
     <li><a href="https://www.me.upenn.edu/academics/doctoral/">Mechanical Engineering and Applied Mechanics Doctoral Program</a></li>
