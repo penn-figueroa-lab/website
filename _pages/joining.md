@@ -8,7 +8,7 @@ permalink: /joining/
 <section class="joining-wrap">
   <!-- ===== INTRO ===== -->
   <div class="rb-intro">
-    <h2>Joining the lab</h2>
+    <h1>Joining the lab</h1>
     <p>We are interested in recruiting highly motivated and talented individuals that share the <a href="https://figueroa.seas.upenn.edu/research/">research vision</a> of Prof. Figueroa to join the lab. Please follow the instructions on this page before emailing her in order to receive a timely reply.</p>
 
 
