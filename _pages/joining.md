@@ -9,10 +9,10 @@ permalink: /joining/
   <!-- ===== INTRO ===== -->
   <div class="rb-intro">
     <h2>Joining the lab</h2>
-    <p>We are interested in recruiting highly motivated and talented individuals that share the research vision of Prof. Figueroa to join the lab. Please follow the instructions on this page before emailing her in order to receive a timely reply.</p>
+    <p>We are interested in recruiting highly motivated and talented individuals that share the <a href="https://figueroa.seas.upenn.edu/research/">research vision</a> of Prof. Figueroa to join the lab. Please follow the instructions on this page before emailing her in order to receive a timely reply.</p>
 
 
-<h3>Current Penn Masters/Undergraduate Students</h3>
+<h2>Current Penn Masters/Undergraduate Students</h2>
 
 <p>
   The following <strong>list of projects</strong> can take the form of a summer research
@@ -61,7 +61,7 @@ permalink: /joining/
 </p>
 
 
-  <h3>Prospective PhD Students</h3>
+  <h2>Prospective PhD Students</h2>
   <p><span style="color: red;">At the moment there is no funding for hiring new PhD students in the upcoming admissions cycle</span> (this may change depending on grant decisions, if a position is open this message will be updated).</p>
   <p>Prospective graduate students are encouraged to apply to the following <a href="https://gradadm.engineering.upenn.edu/doctoral/"> Penn Engineering PhD programs</a> before the deadline (typically mid-December):</p>
   <ul>
@@ -81,7 +81,7 @@ permalink: /joining/
     <li><a href="https://www.smartscholarship.org/">DoD SMART</a></li>
   </ul>
 
-  <h3>Prospective Master’s Students</h3>
+  <h2>Prospective Master’s Students</h2>
   <p>If you are interested in doing research in the lab while obtaining a master’s degree at Penn, there are multiple options to do so. You can apply to the following programs:</p>
   <ul>
     <li><a href="https://www.grasp.upenn.edu/academics/masters-degree-program/">Master’s in Robotics (administered by GRASP Lab)</a></li>
@@ -91,7 +91,7 @@ permalink: /joining/
   </ul>
   <p>Please apply to one of these programs. Once you have been admitted, if you want to learn about the research opportunities in the lab you can contact Prof. Figueroa via email with the subject line including the words <strong>[Admitted Masters Student]</strong>. Depending on the program, you will be able to explore research projects for credits in the form of independent studies or a thesis. Volunteer and paid internships are also often available.</p>
 
-  <h3>Prospective Visiting PhD/Master’s/Undergraduate Students</h3>
+  <h2>Prospective Visiting PhD/Master’s/Undergraduate Students</h2>
   <p><span style="color: red;">We do not offer paid internships or stays for external/international students.</span> Nevertheless, if you have a fellowship from your home country, university or external funding agency, you can contact Prof. Figueroa via email with the subject line including the words <strong>[Funded Visiting Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with her, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
 
 
