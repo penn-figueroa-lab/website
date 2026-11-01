@@ -32,8 +32,7 @@ permalink: /joining/
 <p>
   <strong>How to apply?</strong> Students interested in working on any of these projects should
   fill in the following google form 
-  <a href="https://forms.gle/D2TSYBxNqNiYJXMw8">https://forms.gle/D2TSYBxNqNiYJXMw8
-  </a>.
+  <a href="https://forms.gle/D2TSYBxNqNiYJXMw8">https://forms.gle/D2TSYBxNqNiYJXMw8</a>.
   Applications will be evaluated based on the student's motivation,
   background and best fit for the project.
 </p>
