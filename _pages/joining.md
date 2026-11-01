@@ -9,7 +9,7 @@ permalink: /joining/
   <!-- ===== INTRO ===== -->
   <div class="rb-intro">
     <h2>Joining the lab</h2>
-    <p>We are interested in recruiting highly motivated and talented individuals that share the research vision of Prof. Figueroa to join the lab. Please follow the instructions on this page before emailing Prof. Figueroa in order to receive a timely reply.</p>
+    <p>We are interested in recruiting highly motivated and talented individuals that share the research vision of Prof. Figueroa to join the lab. Please follow the instructions on this page before emailing her in order to receive a timely reply.</p>
 
 
 <h3>Current Penn Masters/Undergraduate Students</h3>
