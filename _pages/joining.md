@@ -94,7 +94,8 @@ permalink: /joining/
   <p><span style="color: red;">We do not offer paid internships or stays for external/international students.</span> Nevertheless, if you have a fellowship from your home country, university or external funding agency, you can contact Prof. Figueroa via email with the subject line including the words <strong>[Funded Visiting Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with her, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
 
 
-<!-- </section> -->
+  </div>
+</section>
 
 <style>
 /* 🔕 Hide pager & feed icon just on this page */
@@ -106,11 +107,10 @@ permalink: /joining/
 /* tighten theme spacing (match research page) */
 .main .page__content{ padding-top:0.35rem; }
 
-/* ===== Centered wrapper with bigger side margins (match research) =====
-   - Narrower width to create larger side gutters
-   - Manual left shift on very wide screens (same idea as research page) */
+/* ===== Centered wrapper with bigger side margins (matches research, publications, facilities) =====
+   Truly centered at every screen width. */
 .joining-wrap{
-  width: min(82vw, 1200px);
+  width: min(82vw, 1100px);
   margin: 0 auto 1.5rem;
   padding: 0 12px;
 }
