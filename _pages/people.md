@@ -186,7 +186,7 @@ permalink: /people/
     <h2>Master's Students</h2>
     <div class="people-grid">
       <div class="person-card">
-        <a href="hhttps://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/wanting_linkedin.png" alt="Wanting Yao<"></a>
+        <a href="hhttps://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/wanting.png" alt="Wanting Yao<"></a>
         <a href="https://www.linkedin.com/in/wantingyao/" target="_blank" rel="noopener"><h3>Wanting Yao</h3></a>
         <p>ROBO, Thesis</p>
       </div>
@@ -211,24 +211,29 @@ permalink: /people/
         <p>ROBO, Thesis</p>
       </div>
        <div class="person-card">
-        <a href="https://ilyrr.github.io/index.html" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/Ily.jpeg" alt="Ily Rafaeli"></a>
-        <a hhref="https://ilyrr.github.io/index.html" target="_blank" rel="noopener"><h3>Ily Rafaeli </h3></a>
+        <a href="https://www.linkedin.com/in/dmitri-dobrynin-9b7b59385/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/chunyu.jpg" alt="Chunyu Jiang"></a>
+        <a hhref="https://chunyu-jiang.github.io/" target="_blank" rel="noopener"><h3>Chunyu Jiang </h3></a>
+        <p>ROBO, Thesis (co-advised with K. Daniilidis)</p>
+      </div>     
+       <div class="person-card">
+        <a href="https://ilyrr.github.io/index.html" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/ily.png" alt="Ily Rafaeli"></a>
+        <a hhref="https://ilyrr.github.io" target="_blank" rel="noopener"><h3>Ily Rafaeli </h3></a>
         <p>ROBO, Independent Study</p>
       </div>         
        <div class="person-card">
-        <a href="https://www.linkedin.com/in/zhengmiao-huang/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/zhengmiao.jpeg" alt="Zhengmiao Huang"></a>
-        <a hhref="https://www.linkedin.com/in/zhengmiao-huang/" target="_blank" rel="noopener"><h3>Zhengmiao Huang </h3></a>
+        <a href="https://www.linkedin.com/in/zhengmiao-huang/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/zhengmiao.jpg" alt="Zhengmiao Huang"></a>
+        <a hhref="https://zmdrmyvyg.github.io/" target="_blank" rel="noopener"><h3>Zhengmiao Huang </h3></a>
         <p>ROBO, Independent Study</p>
       </div>      
-      <div class="person-card">
+<!--       <div class="person-card">
         <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/dayoon_suh_reduced.jpg" alt="Dayoon Suh"></a>
         <a href="https://www.linkedin.com/in/dayoonsuh/" target="_blank" rel="noopener"><h3>Dayoon Suh</h3></a>
         <p>ROBO, Intern</p>
-      </div>
+      </div> -->
       <div class="person-card">
-        <a href=""  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Yifan Wu"></a>
-        <a href=""  target="_blank" rel="noopener"><h3>Yifan Wu</h3></a>
-        <p>ROBO, Intern</p>
+        <a href=""  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/yifan_wu.jpg" alt="Yifan Wu"></a>
+        <a href="https://yifanwu-2001.github.io/home-page/"  target="_blank" rel="noopener"><h3>Yifan Wu</h3></a>
+        <p>ECE, Intern</p>
       </div>
       <div class="person-card">
         <a href=""  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/Ethan_NEW.jpeg" alt="Ethan Yang"></a>
@@ -240,11 +245,11 @@ permalink: /people/
         <a href="https://liyifei1218.github.io/"  target="_blank" rel="noopener"><h3>Yifei (Bruce) Li</h3></a>
         <p>ROBO, Intern</p>
       </div>
-        <div class="person-card">
+<!--         <div class="person-card">
         <a href="https://www.linkedin.com/in/boyanz0417/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/boyan_zhang.jpeg" alt="Boyan Zhang"></a>
         <a href="https://www.linkedin.com/in/boyanz0417/"  target="_blank" rel="noopener"><h3>Boyan Zhang</h3></a>
         <p>ROBO, Intern</p>
-      </div>                             
+      </div>   -->                           
     </div>
   </div>
 
