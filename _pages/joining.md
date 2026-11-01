@@ -29,7 +29,7 @@ permalink: /joining/
 </p>
 
 <p>
-  Examples of prior MS theses and Independent Study reports conducted
+  Examples of prior MS theses reports conducted
   at the Figueroa Robotics Lab can be found
   <a href="https://drive.google.com/drive/folders/1F2duMWmEmneB5gJXJbCtb5kLIVAtL6ZU?usp=sharing">here</a>.
   (Only affiliates of University of Pennsylvania can access these documents)
@@ -62,7 +62,7 @@ permalink: /joining/
 
 
   <h3>Prospective PhD Students</h3>
-  <p><span style="color: red;">At the moment there is no funding for new PhD students in the upcoming next admissions</span> (this may change, depending on grant decisions).</p>
+  <p><span style="color: red;">At the moment there is no funding for hiring new PhD students in the upcoming admissions cycle</span> (this may change depending on grant decisions, if a position is open this message will be updated).</p>
   <p>Prospective graduate students are encouraged to apply to the following <a href="https://gradadm.engineering.upenn.edu/doctoral/"> Penn Engineering PhD programs</a> before the deadline (typically mid-December):</p>
   <ul>
     <li><a href="https://www.me.upenn.edu/academics/doctoral/">Mechanical Engineering and Applied Mechanics Doctoral Program</a></li>
