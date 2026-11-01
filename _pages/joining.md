@@ -12,24 +12,18 @@ permalink: /joining/
     <p>We are interested in recruiting highly motivated and talented individuals that share the <a href="https://figueroa.seas.upenn.edu/research/">research vision</a> of Prof. Figueroa to join the lab. Please follow the instructions on this page before emailing her in order to receive a timely reply.</p>
 
 
-<h2>Current Penn Masters/Undergraduate Students</h2>
+<h2>Current Penn Master's and Undergraduate Students</h2>
 
 <p>
-  The following <strong>list of projects</strong> can take the form of a summer research
+  The following <strong>list of projects (available Fall 2026 &rarr; Summer 2028)</strong> can take the form of a summer research
   project, fall/spring research internship (volunteer or paid),
   final project for MEAM 6230 course, independent study or master's
   theses (depending on how far and deep the student is willing to
-  go into the project): <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?usp=sharing"> student research projects 2026
-  </a>
+  go into the project): <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?usp=sharing">student research projects 2026</a>
 </p>
 
 <p>
-  These projects are available from
-  <strong>Fall 2026 &rarr; Summer 2028.</strong>
-</p>
-
-<p>
-  Examples of prior MS theses reports conducted
+  <strong>Expectations.</strong> Examples of prior MS theses reports conducted
   at the Figueroa Robotics Lab can be found
   <a href="https://drive.google.com/drive/folders/1F2duMWmEmneB5gJXJbCtb5kLIVAtL6ZU?usp=sharing">here</a>.
   (Only affiliates of University of Pennsylvania can access these documents)
@@ -90,7 +84,7 @@ permalink: /joining/
   </ul>
   <p>Please apply to one of these programs. Once you have been admitted, if you want to learn about the research opportunities in the lab you can contact Prof. Figueroa via email with the subject line including the words <strong>[Admitted Masters Student]</strong>. Depending on the program, you will be able to explore research projects for credits in the form of independent studies or a thesis. Volunteer and paid internships are also often available.</p>
 
-  <h2>Prospective Visiting PhD/Master’s/Undergraduate Students</h2>
+  <h2>Prospective Visiting PhD, Master’s and Undergraduate Students</h2>
   <p><span style="color: red;">We do not offer paid internships or stays for external/international students.</span> Nevertheless, if you have a fellowship from your home country, university or external funding agency, you can contact Prof. Figueroa via email with the subject line including the words <strong>[Funded Visiting Student]</strong>. Include your CV, a brief description of your research interests, why you are interested in working with her, and any relevant application material you would like to share in your email. Include three publications from the lab that you most liked or are most interested in.</p>
 
 
