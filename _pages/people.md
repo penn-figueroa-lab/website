@@ -245,6 +245,11 @@ permalink: /people/
         <a href="https://liyifei1218.github.io/"  target="_blank" rel="noopener"><h3>Yifei (Bruce) Li</h3></a>
         <p>ROBO, Intern</p>
       </div>
+      <div class="person-card">
+        <a href=""  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/robot-member.png" alt="Qiwen Ding"></a>
+        <a href=""  target="_blank" rel="noopener"><h3>Qiwen Ding</h3></a>
+        <p>ROBO'26, Intern</p>
+      </div>      
 <!--         <div class="person-card">
         <a href="https://www.linkedin.com/in/boyanz0417/"  target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/images/people/boyan_zhang.jpeg" alt="Boyan Zhang"></a>
         <a href="https://www.linkedin.com/in/boyanz0417/"  target="_blank" rel="noopener"><h3>Boyan Zhang</h3></a>
