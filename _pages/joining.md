@@ -19,7 +19,7 @@ permalink: /joining/
   project, fall/spring research internship (volunteer or paid),
   final project for MEAM 6230 course, independent study or master's
   theses (depending on how far and deep the student is willing to
-  go into the project): <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?usp=sharing">student research projects 2026</a>
+  go into the project): <a href="https://docs.google.com/document/d/1HELByBsrheqQf1HE0ovOlm205s52yqqfceG-tMQKzUw/edit?usp=sharing">student research projects 2026</a> (Only affiliates of University of Pennsylvania can access these documents)
 </p>
 
 <p>
